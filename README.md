@@ -4,9 +4,6 @@
 
 
 ## 设计类
-[Photoshop](https://www.photopea.com/)
 
+[顶级在线图片处理工具Photopea](https://www.v2fy.com/p/photopea/)
 
-
-## 通讯类
-[微信](https://wx.qq.com/)
