@@ -7,6 +7,8 @@
 
 ## 目录
 
+[004 创建二维码文字云, Word Art!](https://www.v2fy.com/p/word-art/)
+
 [003 求字体,快速识别图片中的文字字体](https://www.v2fy.com/p/qiuziti/)
 
 [002 GIF到MP4转换器,把20秒熊本熊GIF图发送给微信好友](https://www.v2fy.com/p/gif-to-mp4/)
@@ -24,6 +26,10 @@
 
 ---
 ## 在线工具秘籍
+
+#### [004 创建二维码文字云, Word Art!](https://www.v2fy.com/p/word-art/)
+
+![](https://user-images.githubusercontent.com/15868458/73535907-a8098700-445f-11ea-94f2-5d5ce89bbb74.gif)
 
 #### [003 求字体,快速识别图片中的文字字体](https://www.v2fy.com/p/qiuziti/)
 
