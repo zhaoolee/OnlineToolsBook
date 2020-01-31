@@ -7,7 +7,7 @@
 
 ## 目录
 
-[004 创建二维码文字云, Word Art!](https://www.v2fy.com/p/word-art/)
+[004 创建二维码文字云, Word Art!](https://www.v2fy.com/p/word-art/)
 
 [003 求字体,快速识别图片中的文字字体](https://www.v2fy.com/p/qiuziti/)
 
