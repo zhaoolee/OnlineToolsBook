@@ -7,6 +7,8 @@
 
 ## 目录
 
+[005 好用到不像百度产品的产品,百度脑图](https://www.v2fy.com/p/baidunaotu/)
+
 [004 创建二维码文字云, Word Art!](https://www.v2fy.com/p/word-art/)
 
 [003 求字体,快速识别图片中的文字字体](https://www.v2fy.com/p/qiuziti/)
@@ -27,6 +29,10 @@
 ---
 ## 在线工具秘籍
 
+#### [005 好用到不像百度产品的产品,百度脑图](https://www.v2fy.com/p/baidunaotu/)
+
+
+![](https://user-images.githubusercontent.com/15868458/73585351-82ba5e80-44db-11ea-88e8-a817c1c7cfca.gif)
 
 #### [004 创建二维码文字云, Word Art!](https://www.v2fy.com/p/word-art/)
 
