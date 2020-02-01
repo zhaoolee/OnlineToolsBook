@@ -1,4 +1,4 @@
-直达链接: https://wordart.com/create
+直达链接: [https://wordart.com/create](https://wordart.com/create)
 
 我最近在给自己的公众号分栏目, 恰好可以用里面的文字来给公众号logo生成文字云
 
@@ -14,10 +14,10 @@
 
 可以尝试多种图像的样式, 二维码也可以, 使用二维码生成的图片大多非常有趣
 
-![image](https://user-images.githubusercontent.com/15868458/73535630-f9654680-445e-11ea-8337-3409ea512f79.png)
+![](https://user-images.githubusercontent.com/15868458/73535630-f9654680-445e-11ea-8337-3409ea512f79.png)
 
 
-![2020-01-31-19 23 22_after](https://user-images.githubusercontent.com/15868458/73535907-a8098700-445f-11ea-94f2-5d5ce89bbb74.gif)
+![](https://user-images.githubusercontent.com/15868458/73535907-a8098700-445f-11ea-94f2-5d5ce89bbb74.gif)
 [上图gif超清图地址](https://user-images.githubusercontent.com/15868458/73535905-a8098700-445f-11ea-972a-2bb72676c4ba.gif)
 
 
@@ -32,7 +32,7 @@
 
 ## 调整文字稀疏程度
 
-![image](https://user-images.githubusercontent.com/15868458/73537219-ebb1c000-4462-11ea-88d5-ea919824e816.png)
+![](https://user-images.githubusercontent.com/15868458/73537219-ebb1c000-4462-11ea-88d5-ea919824e816.png)
 
 这一栏的Word amount选项可以控制填充词组的数量, zhaoolee试了几次,发现,调整后经常会导致填充不充分, 所以建议使用Auto
 
@@ -41,10 +41,12 @@
 
 一图胜千言, 我把可能会用到的功能, 都写到了下面的图片里
 
-![image](https://user-images.githubusercontent.com/15868458/73539905-7e555d80-4469-11ea-9be6-6e636ab4cd8e.png)
+![](https://user-images.githubusercontent.com/15868458/73539905-7e555d80-4469-11ea-9be6-6e636ab4cd8e.png)
 
 Word Art对样式的控制极其细致, 甚至连浮动动画播放的时间长度都可以精确到0.1秒
 
+## 本在线工具直达链接:
+[https://wordart.com/create](https://wordart.com/create)
 
 ## 小结
 

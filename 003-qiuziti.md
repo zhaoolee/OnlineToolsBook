@@ -1,4 +1,4 @@
-直达链接: http://www.qiuziti.com/
+直达链接: [http://www.qiuziti.com/](http://www.qiuziti.com/)
 
 
 ## 快速识别图片中的字体
@@ -15,3 +15,12 @@
 ![](https://user-images.githubusercontent.com/15868458/73505804-89c76b00-440e-11ea-9b11-bdd94a7e815c.png)
 
 如果你对图片中的字体感兴趣,可以搜索**萌趣软糖体**进行下载,也可以通过在公众号**0加1**后台回复**萌趣软糖体**直接获取字体
+
+
+## 本在线工具直达链接:
+
+[http://www.qiuziti.com/](http://www.qiuziti.com/)
+
+
+## 小结:
+优质的字体往往能提升设计作品的质量, 见到好的字体就进行研究, 也是一个非常好的习惯, 有了这个工具, 当我们再看到优秀设计中的优质字体, 或许会更有收获吧~

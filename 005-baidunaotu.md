@@ -1,4 +1,4 @@
-直达链接: https://naotu.baidu.com/
+直达链接: [https://naotu.baidu.com/](https://naotu.baidu.com/)
 
 
 百度脑图是一款好用到不像百度产品的产品!
@@ -73,6 +73,10 @@
 
 这里推荐导出为Freemind格式,Freemind通用性好,市面上主流思维导图软件都支持
 
+
+## 本在线工具直达链接:
+
+[https://naotu.baidu.com/](https://naotu.baidu.com/)
 
 ## 小结:
 

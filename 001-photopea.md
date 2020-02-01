@@ -79,6 +79,9 @@ Photopea使用了imgur的共享图片服务,你可以轻松将你当前的图片
 [上图gif超清图地址](https://user-images.githubusercontent.com/15868458/73328073-6926d600-4293-11ea-832f-752dec6766de.gif)
 
 
+## 本在线工具直达链接:
+
+[https://www.photopea.com/](https://www.photopea.com/)
 
 
 ## 小结
