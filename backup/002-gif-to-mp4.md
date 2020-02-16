@@ -6,14 +6,14 @@
 ## 将本地图片转换为MP4视频
 
 将本地图片拖拽到网页内即可将gif素材导入到网页, 支持多文件多次导入,导入后,点击转换按钮,即可完成gif上传,转换为mp4等一系列操作,转换完成后,下载mp4文件即可
-![](https://v2fy.com/asset/002-gif-to-mp4/73356545-93998300-42d5-11ea-8ffa-12bc1c419436.gif)
+![](https://user-images.githubusercontent.com/15868458/73356545-93998300-42d5-11ea-8ffa-12bc1c419436.gif)
 
 [上图gif超清图地址](https://user-images.githubusercontent.com/15868458/73356544-9300ec80-42d5-11ea-8936-86f336593a2e.gif)
 
 
 - 待转换的图片
 
-![](https://v2fy.com/asset/002-gif-to-mp4/73356546-94321980-42d5-11ea-94cc-a8f60e0e1985.gif)
+![](https://user-images.githubusercontent.com/15868458/73356546-94321980-42d5-11ea-94cc-a8f60e0e1985.gif)
 
 ## 将网络gif图片转换为MP4视频
 
@@ -22,7 +22,7 @@
 在线gif图url: https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000000/9219a092f0f4eb1c6f614c1667b316d1.gif
 
 
-![](https://v2fy.com/asset/002-gif-to-mp4/73411232-96c95900-433f-11ea-82bb-65d835990e59.gif)
+![](https://user-images.githubusercontent.com/15868458/73411232-96c95900-433f-11ea-82bb-65d835990e59.gif)
 
 [上图gif超清图地址](https://user-images.githubusercontent.com/15868458/73411233-9761ef80-433f-11ea-8ea7-caa9217f3817.gif)
 
@@ -34,14 +34,14 @@
 
 - 如果GIF图过大,微信是无法发送的, 但视频是可以发送的
 
-![](https://v2fy.com/asset/002-gif-to-mp4/73414119-ccbf0b00-4348-11ea-8208-2f291b4b2923.gif)
+![](https://user-images.githubusercontent.com/15868458/73414119-ccbf0b00-4348-11ea-8208-2f291b4b2923.gif)
 
 > 微信朋友圈也是禁止gif图但可以发视频
 
 
 - GIF到MP4转换器也适用于手机
 
-![img](https://v2fy.com/asset/002-gif-to-mp4/73414824-faa54f00-434a-11ea-8227-560284047992.png)
+![img](https://user-images.githubusercontent.com/15868458/73414824-faa54f00-434a-11ea-8227-560284047992.png)
 
 > 由于iOS限制了普通浏览器的下载功能, 所以iOS需要在APP Documents内的浏览器才能完成mp4视频的下载
 
