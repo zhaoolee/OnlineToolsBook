@@ -120,7 +120,7 @@ async function init(){
   let all_md_files = [];
 
   // 排除列表
-  exclude_md_files = ["README.md"];
+  exclude_md_files = [];
   // 获取md文件列表
   all_files.map((file_name, file_index)=>{
     if(file_name.endsWith(".md")){
@@ -155,7 +155,7 @@ async function init(){
     await create_dir(all_md_files[i]);
 
     //  下载图片
-    // await download_imgs_by_md(all_md_files[i]); 
+    await download_imgs_by_md(all_md_files[i]);
 
 
     // 更换url
