@@ -32,6 +32,11 @@
 ---
 ## 在线工具秘籍
 
+
+[008 诺基亚短信图片生成器](https://www.v2fy.com/p/noddl/)
+![2020-02-05 13 57 27](https://v2fy.com/asset/008-noddl/73815066-d00e3700-481f-11ea-80d2-9420ef2cda79.gif)
+
+
 [007 《Upuptoyou》举牌小人在此为您服务](https://v2fy.com/p/upuptoyou/)
 
 ![](https://v2fy.com/asset/README/73604674-77485f80-45cf-11ea-8aec-76c6eb7ffe00.gif)
