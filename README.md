@@ -34,7 +34,7 @@
 
 ![](https://v2fy.com/asset/README/73356546-94321980-42d5-11ea-94cc-a8f60e0e1985.gif)
 
-**付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.space/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验,[http://bit.ly/2SFzVcg](http://bit.ly/2SFzVcg]) , GLaDOS更多介绍: https://github.com/glados-network/GLaDOS
+**付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.space/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验
 
 
 ---
