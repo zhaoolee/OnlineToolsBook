@@ -6,6 +6,9 @@
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+
+[010 在线智能简笔画工具(实力画渣,在线丢人)](https://www.v2fy.com/p/autodraw/)
+
 [009 全能视频在线下载工具](https://www.v2fy.com/p/urlgot/)
 
 [008 诺基亚短信图片生成器](https://www.v2fy.com/p/noddl/)
@@ -36,6 +39,13 @@
 
 ---
 ## 在线工具秘籍
+
+
+#### [010 在线智能简笔画工具(实力画渣,在线丢人)](https://www.v2fy.com/p/autodraw/)
+
+
+![](https://www.v2fy.com/asset/autodraw/fish.gif)
+
 
 #### [009 全能视频在线下载工具](https://www.v2fy.com/p/urlgot/)
 
