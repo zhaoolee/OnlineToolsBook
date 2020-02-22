@@ -1,6 +1,13 @@
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/OnlineToolsBook.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/OnlineToolsBook.svg?style=popout-square) ![https://v2fy.com/asset/README/OnlineToolsBook.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/OnlineToolsBook.svg?style=popout-square)
+
+
 # 在线工具秘籍 OnlineToolsBook
 
 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
+
+
+在线工具秘籍Github永久开源地址：[https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook )
+
 
 ---
 
@@ -70,9 +77,11 @@ Autodraw这款在线工具的思路很好, 根据用户描摹的线条,自动推
 
 #### [008《诺基亚短信图片生成器》有内鬼，终止交易！](https://www.v2fy.com/p/noddl/)
 
-诺基亚短信图片生成器是一款复古好玩的在线小工具, 类似upuptoyou举牌小人的风格,但诺基亚短信图片生成器的梗更多一些, 比如「无间道」中著名的**有内鬼,终止交易!**
 
-![2020-02-05 13 57 27](https://v2fy.com/asset/008-noddl/73815066-d00e3700-481f-11ea-80d2-9420ef2cda79.gif)
+
+![](https://v2fy.com/asset/008-noddl/73815066-d00e3700-481f-11ea-80d2-9420ef2cda79.gif)
+
+诺基亚短信图片生成器是一款复古好玩的在线小工具, 类似upuptoyou举牌小人的风格,但诺基亚短信图片生成器的梗更多一些, 比如「无间道」中著名的**有内鬼,终止交易!**
 
 
 
