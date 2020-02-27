@@ -4,84 +4,43 @@ const download = require('download');
 
 
 // 更换url
-
-
 async function change_img_url(file_name){
-
-
-
   let dir_name = file_name.match(/^(.*).md/)[1];
-
-
   let file_content = fs.readFileSync(file_name).toString();
-
   let img_addr_re = /\!\[.*\]\(.*\)/g;
-
-
   let md_img_addr_s = file_content.match(img_addr_re);
-
   let md_img_addr_s_length = md_img_addr_s.length;
   let img_re = /^!\[(.*)\]\((.*)\)/
   for(let i = 0 ; i< md_img_addr_s_length; i++){
-
     let img_addr = md_img_addr_s[i].match(img_re)[2];
-
-
     // 定义文件名
     let img_addr_list = img_addr.split("/");
     img_name = img_addr_list[img_addr_list.length-1];
-
-
     let new_img_addr = "https://v2fy.com/asset/"+dir_name+"/"+img_name;
-
     file_content = file_content.replace(img_addr, new_img_addr);
-
     fs.writeFileSync(path.join(__dirname, file_name), file_content);
-
   }
-
-
   console.log("===>>", file_content);
-
-
 }
-
-
-
 // 读取md包含的图片, 并将图片下载到对应文件夹
 async function download_imgs_by_md (file_name){
   // 获取文件夹名称
 
   let dir_name = file_name.match(/^(.*).md/)[1];
-
-
-
-
   let file_content = fs.readFileSync(file_name).toString();
-
   let img_addr_re = /\!\[.*\]\(.*\)/g;
-
 
   let md_img_addr_s = file_content.match(img_addr_re);
 
   let md_img_addr_s_length = md_img_addr_s.length;
   let img_re = /^!\[(.*)\]\((.*)\)/
   for(let i = 0 ; i< md_img_addr_s_length; i++){
-
     let img_addr = md_img_addr_s[i].match(img_re)[2];
-
-
     // 定义文件名
     let img_addr_list = img_addr.split("/");
     img_name = img_addr_list[img_addr_list.length-1];
     console.log("===img_addr===>>", img_addr, "dir_name==>>", dir_name, "img_name==>>", img_name);
-
-
-
     fs.writeFileSync(path.join(__dirname, dir_name, img_name), await download(img_addr));
-  
-    
-
   }
 }
 
@@ -96,9 +55,7 @@ async function create_dir(file_name){
   }
 }
 
-
 // 备份文件
-
 async function backup_file(file_name){
   if (!fs.existsSync(path.join(__dirname, "backup", file_name))) {
     fs.writeFileSync(path.join(__dirname, "backup", file_name), fs.readFileSync(path.join(__dirname, file_name)));
@@ -108,14 +65,10 @@ async function backup_file(file_name){
 
 
 async function init(){
-
   // 读取当前当前目录下的.md文件
   let root = "./"
-
   root = __dirname;
-
   console.log(root);
-
   let all_files = fs.readdirSync(root);
   let all_md_files = [];
 
@@ -149,25 +102,12 @@ async function init(){
   for(let i = 0; i< all_md_files_length; i++){
     // 为文件做备份
     await backup_file(all_md_files[i]);
-
-
     // 创建文件夹
     await create_dir(all_md_files[i]);
-
     //  下载图片
     await download_imgs_by_md(all_md_files[i]);
-
-
     // 更换url
-
-
     await change_img_url(all_md_files[i]);
-
-
-
-    
-
-
   }
 
 

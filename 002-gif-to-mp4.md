@@ -1,3 +1,6 @@
+---
+title: 002 《GIF到MP4转换器》把20秒熊本熊GIF图发送给微信好友
+---
 直达链接: [https://convertio.co/zh/gif-mp4/](https://convertio.co/zh/gif-mp4/)
 
 **GIF到MP4转换器**可以将100MB以内的gif图片转换为MP4,所有转换步骤通过网页在云端完成, gif转换为mp4后, 肉眼看不出清晰度的损失

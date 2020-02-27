@@ -1,3 +1,6 @@
+---
+title: 005 《百度脑图》好用到不像百度产品的产品
+---
 直达链接: [https://naotu.baidu.com/](https://naotu.baidu.com/)
 
 
