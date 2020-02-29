@@ -2,6 +2,7 @@ const fse = require("fs-extra");
 const path = require("path");
 const download = require("download");
 const fs = require("fs");
+const { spawn } = require("child_process");
 
 let RepositoriesName = "OnlineToolsBook";
 
@@ -83,10 +84,35 @@ async function change_img_url(file_name) {
   console.log("===>>", file_content);
 }
 
+
+async function md_to_wordpress(){
+  const run_build = spawn("node", ["md_to_wordpress.js"], {
+    cwd: path.join(__dirname, "OnlineToolsBookMD")
+  });
+
+  run_build.stdout.on("data", async data => {
+    console.log(`stdout: ${data}`);
+  });
+
+  run_build.stderr.on("data", async data => {
+    console.log("data::", data);
+
+  });
+
+  run_build.on("close", async code => {
+    console.log("程序执行完成");
+
+  });
+}
+
+
+
 // 进入项目名加MD文件夹,执行md_to_wordpress
 
 async function main() {
   await cp_readme_md();
+
+  await md_to_wordpress();
 }
 
 main();
