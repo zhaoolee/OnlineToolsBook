@@ -57,7 +57,9 @@
 为了让「在线工具秘籍」更加**生动形象**，**易于阅读**, 本项目使用了大量Gif图片, 而github在国内的访问速度非常不稳定,导致文章页面打开稍慢, 为了解决大陆用户访问项目速度慢的问题, zhaoolee在阿里云买了一台5M的VPS, 已将所有文章链接替换到v2fy.com域名下, 访问速度会非常快, 而且图片支持懒加载, 可以节省下载gif图的流量,入口为[https://www.v2fy.com/onlinetoolsbook/](https://www.v2fy.com/onlinetoolsbook/)
 
 
-## 咦?(微信打赏)
+## 赞助秘籍(微信打赏)
+
+**少侠! 如果这本秘籍能帮到你,就请作者喝杯咖啡吧!**
 
 ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/c4fdea49e11241e392d6bcaa33855897.png)
 
