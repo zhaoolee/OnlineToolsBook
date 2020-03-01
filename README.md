@@ -17,6 +17,7 @@
 
 
 ## 目录(点击以下标题, 可以进入文章页~)
+[013《截图拼接工具》在线电影字幕拼接](https://www.v2fy.com/p/013-join-screenshots/)
 
 [012《表情锅》在线制作「真香定律」表情包](https://www.v2fy.com/p/012-biaoqingguo/)
 
@@ -42,7 +43,6 @@
 
 [001 《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/001-photopea/)
 
-
 ---
 
 ## 公众号 0加1 同步更新本项目
@@ -54,7 +54,7 @@
 
 ## 项目新增CN服务器
 
-为了让「在线工具秘籍」更加生动形象，易于阅读, 本项目使用了大量Gif图片, 而github在国内的访问速度非常不稳定,导致文章页面打开稍慢, 为了解决大陆用户访问项目速度慢的问题, zhaoolee在阿里云买了一台5M的VPS, 已将所有文章链接替换到v2fy.com域名下, 访问速度会非常快, 而且图片支持懒加载, 可以节省下载gif图的流量,入口为[https://www.v2fy.com/onlinetoolsbook/](https://www.v2fy.com/onlinetoolsbook/)
+为了让「在线工具秘籍」更加**生动形象**，**易于阅读**, 本项目使用了大量Gif图片, 而github在国内的访问速度非常不稳定,导致文章页面打开稍慢, 为了解决大陆用户访问项目速度慢的问题, zhaoolee在阿里云买了一台5M的VPS, 已将所有文章链接替换到v2fy.com域名下, 访问速度会非常快, 而且图片支持懒加载, 可以节省下载gif图的流量,入口为[https://www.v2fy.com/onlinetoolsbook/](https://www.v2fy.com/onlinetoolsbook/)
 
 
 ## 咦?(微信打赏)
@@ -65,10 +65,19 @@
 
 ## 在线工具秘籍
 
+#### [013《截图拼接工具》在线电影字幕拼接](https://www.v2fy.com/p/013-join-screenshots/)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/jietu.gif)
+
+
+当你看到电影中的一段经典台词, 想要分享给周边的好友时,截图拼接工具, 可以让你快速达成自己想要的效果
 
 #### [012《表情锅》在线制作「真香定律」表情包](https://www.v2fy.com/p/012-biaoqingguo/)
 
 ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/daoqiongsi.gif)
+
+今天是2020年2月29日, 道琼斯指数单日下跌1000点,热度比较高的话题是「特朗普加农炮」,于是zhaoolee就琢磨着要做一张表情包纪念一下
 
 #### [011《Artbreeder》艺术投食者-美队与钢铁侠的融合](https://www.v2fy.com/p/011-artbreeder/)
 
