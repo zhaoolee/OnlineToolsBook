@@ -17,6 +17,10 @@
 
 
 ## 目录(点击以下标题, 可以进入文章页~)
+
+[014《俄罗斯方块》玩转开源俄罗斯方块小游戏](https://www.v2fy.com/p/014-tetris/)
+
+
 [013《截图拼接工具》在线电影字幕拼接](https://www.v2fy.com/p/013-join-screenshots/)
 
 [012《表情锅》在线制作「真香定律」表情包](https://www.v2fy.com/p/012-biaoqingguo/)
@@ -66,6 +70,13 @@
 ---
 
 ## 在线工具秘籍
+
+
+#### [014《俄罗斯方块》玩转开源俄罗斯方块小游戏](https://www.v2fy.com/p/014-tetris/)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/9c33a44ac8b8ed65a98d6a319dacf940.gif)
+
+俄罗斯方块是一个建设性的游戏，与中国的围棋相似，“国际象棋就是杀杀杀，围棋则重视构建领地，是建设性的，俄罗斯方块也是”。俄罗斯方块家喻户晓,老少皆宜
 
 #### [013《截图拼接工具》在线电影字幕拼接](https://www.v2fy.com/p/013-join-screenshots/)
 
