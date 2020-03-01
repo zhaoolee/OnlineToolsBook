@@ -1,7 +1,7 @@
 ---
 title: 011《Artbreeder》艺术投食者-美队与钢铁侠的融合
 ---
-在线直达地址:https://artbreeder.com/
+在线直达地址:[https://artbreeder.com/](https://artbreeder.com/)
 
 Artbreeder的中文直译为「艺术饲养员」,是一个机器学习合成艺术图片的站点
 
@@ -79,7 +79,10 @@ Arbreeder的神奇之处在于它不仅可以合成人物面部, 也可以合成
 
 ![](https://www.v2fy.com/asset/011-artbreeder/2.gif)
 
+## 本在线工具直达链接:
 
+
+[https://artbreeder.com/](https://artbreeder.com/)
 
 
 ## 小结:

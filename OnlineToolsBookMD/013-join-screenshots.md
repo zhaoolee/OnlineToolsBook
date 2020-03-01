@@ -36,6 +36,12 @@ title: 《截图拼接工具》在线电影字幕拼接
 
 
 
+## 本在线工具直达链接:
+
+[https://join-screenshots.zhanghai.me/](https://join-screenshots.zhanghai.me/)
+
+
+
 ## 小结:
 
 

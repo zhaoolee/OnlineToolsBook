@@ -2,6 +2,7 @@
 title: 《表情锅》在线制作「真香定律」表情包
 ---
 
+在线直达地址: [https://app.xuty.tk/static/app/index.html](https://app.xuty.tk/static/app/index.html)
 
 
 今天是2020年2月29日, 道琼斯指数单日下跌1000点,热度比较高的话题是「特朗普加农炮」,于是zhaoolee就琢磨着要做一张表情包纪念一下
@@ -49,6 +50,12 @@ https://app.xuty.tk/static/app/index.html
 ![](https://www.v2fy.com/asset/012-biaoqingguo/office.gif)
 
 当然, 上图换成**蔡徐坤周末找你打球**也是毫无违和感~
+
+
+
+## 本在线工具直达链接:
+
+[https://app.xuty.tk/static/app/index.html](https://app.xuty.tk/static/app/index.html)
 
 ## 小结
 
