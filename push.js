@@ -18,7 +18,7 @@ async function cp_readme_md() {
   let origin_readme_file_pathname = path.join(
     __dirname,
     RepositoriesName + "MD",
-    "README-" + RepositoriesName + ".md"
+    "readme-" + "onlinetoolsbook" + ".md"
   );
   let target_readme_file_pathname = path.join(__dirname, "README" + ".md");
   fse.copySync(origin_readme_file_pathname, target_readme_file_pathname, {
@@ -27,6 +27,7 @@ async function cp_readme_md() {
   await download_imgs_by_md("README.md");
   await change_img_url("README.md");
 }
+
 
 // 将README.md内的图片下载到README文件夹
 async function download_imgs_by_md(file_name) {
