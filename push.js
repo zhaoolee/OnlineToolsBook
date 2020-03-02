@@ -12,7 +12,6 @@ let readme_img_dir =
   "/master/README/";
 
 // let md_dir = path.join(__dirname, RepositoriesName+"MD");
-
 // 将README.md从 项目名+md文件夹内拷贝到外面,并将图片替换下载到README文件夹
 async function cp_readme_md() {
   let origin_readme_file_pathname = path.join(
@@ -27,7 +26,6 @@ async function cp_readme_md() {
   await download_imgs_by_md("README.md");
   await change_img_url("README.md");
 }
-
 
 // 将README.md内的图片下载到README文件夹
 async function download_imgs_by_md(file_name) {
