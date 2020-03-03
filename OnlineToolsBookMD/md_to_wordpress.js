@@ -12,7 +12,6 @@ async function get_wordpress_token() {
     username: "",
     password: ""
   }
-
   up = user_name_password(); 
 
   wordpress_token = await axios({
@@ -25,7 +24,6 @@ async function get_wordpress_token() {
       resolve(token);
     });
   });
-
   return wordpress_token;
 }
 
