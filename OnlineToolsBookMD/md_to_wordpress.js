@@ -18,7 +18,7 @@ async function get_wordpress_token() {
 
   up = require("./up.js").user_name_password();
 
-  console.log("up==>>", up);
+  // console.log("up==>>", up);
 
   wordpress_token = await axios({
     method: "post",
@@ -74,10 +74,10 @@ async function get_md_filename_id_dic() {
   }
 
   let full_md_filename_content_length = full_md_filename_content.length;
-  console.log(
-    "full_md_filename_content.length::",
-    full_md_filename_content_length
-  );
+  // console.log(
+  //   "full_md_filename_content.length::",
+  //   full_md_filename_content_length
+  // );
 
   for (let n = 0; n < full_md_filename_content_length; n++) {
     let filename_list = full_md_filename_content[n]["link"].split("/");
@@ -128,7 +128,7 @@ async function get_all_md_file_pathname() {
       }
     }
   });
-  console.log("all_md_files===>>>", all_md_files);
+  // console.log("all_md_files===>>>", all_md_files);
 
   all_md_file_pathname = all_md_files;
 
@@ -174,7 +174,7 @@ async function sync_md_content_to_wordpress(
 
   let id = post_get_id(md_filename_id_dic, md_file_name_title_content);
 
-  console.log(id);
+  // console.log(id);
 
   if (id === "") {
     // 如果不存在则创建文章
@@ -221,7 +221,7 @@ async function update_post(
     status: "publish"
   };
 
-  console.log("更新信息", data);
+  // console.log("更新信息", data);
   let res = await axios({
     method: "post",
     url: "https://www.v2fy.com/wp-json/wp/v2/posts/" + id,
@@ -236,7 +236,7 @@ async function update_post(
     });
   });
 
-  console.log("完成更新===>>", res);
+  // console.log("完成更新===>>", res);
 }
 
 // 创建文章
@@ -274,7 +274,7 @@ async function create_new_post(
     });
   });
 
-  console.log("res===>>", res);
+  // console.log("res===>>", res);
 
   let id = res["data"]["id"];
 
@@ -286,8 +286,8 @@ async function create_new_post(
 // 查询文章是否已经存在, 如果存在则返回id, 如果不存在则返回空字符串
 
 function post_get_id(md_filename_id_dic, md_file_name_title_content) {
-  console.log("md_filename_id_dic===", md_filename_id_dic);
-  console.log("md_file_name_title_content===", md_file_name_title_content);
+  // console.log("md_filename_id_dic===", md_filename_id_dic);
+  // console.log("md_file_name_title_content===", md_file_name_title_content);
 
   let md_file_name = md_file_name_title_content["md_file_name"];
 
@@ -297,7 +297,7 @@ function post_get_id(md_filename_id_dic, md_file_name_title_content) {
     id = "";
   }
 
-  console.log(":id:", id);
+  // console.log(":id:", id);
 
   return id;
 }
@@ -324,27 +324,27 @@ async function get_top_info(md_file_pathname, key) {
   }
 
   // 顶部信息
+  console.log("==line_arr==", line_arr);
 
   for (let i = line_arr[0]; i < line_arr[1]; i++) {
     // 去除行左右两边空格
     let tmp_line_info = all_content_line[i].trim();
     let value = "";
+    console.log("tmp_line_info==>>", tmp_line_info, "key===",key, tmp_line_info.indexOf(key));
     if (tmp_line_info.indexOf(key) === 0) {
       console.log("tmp_line_info++++>>", tmp_line_info);
       tmp_line_info = tmp_line_info.replace(key, "");
       tmp_line_info = tmp_line_info.replace(":", "");
       tmp_line_info = tmp_line_info.trim();
       value = tmp_line_info;
+      console.log("==title=>>",value);
       return value;
-    }else{
-      console.log("==>>无法找到title", tmp_line_info);
-      return "";
     }
   }
 }
 
 async function create_category_and_return_id(wordpress_token, name) {
-  console.log("===>>>name", name);
+  // console.log("===>>>name", name);
 
   let id = "";
 
@@ -376,7 +376,7 @@ async function create_category_and_return_id(wordpress_token, name) {
 async function get_categories_data(wordpress_token) {
   let categories_data = {};
 
-  console.log("token==>>", wordpress_token);
+  // console.log("token==>>", wordpress_token);
 
   // 获取分类列表 https://example.com/wp-json/wp/v2/categories
   let next = true;
@@ -385,7 +385,7 @@ async function get_categories_data(wordpress_token) {
   while (next === true) {
     page = page + 1;
 
-    console.log("page===", page);
+    // console.log("page===", page);
 
     await axios({
       method: "get",
@@ -415,21 +415,21 @@ async function get_categories_data(wordpress_token) {
             categories_data[res[i]["name"]] = res[i]["id"];
           }
 
-          console.log("===>>", categories_data);
+          // console.log("===>>", categories_data);
 
           resolve(categories_data);
         });
       });
   }
 
-  console.log(categories_data);
+  // console.log(categories_data);
 
   return categories_data;
 }
 
 async function get_category_id(wordpress_token, category_str_list) {
   let categories_data = await get_categories_data(wordpress_token);
-  console.log("==category_str_list==>>>", category_str_list);
+  // console.log("==category_str_list==>>>", category_str_list);
   let result_id_list = [];
 
   let category_str_list_length = category_str_list.length;
