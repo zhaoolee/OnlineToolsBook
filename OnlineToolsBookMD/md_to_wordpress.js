@@ -12,8 +12,11 @@ async function get_wordpress_token() {
     password: ""
   }
 
-  console.log();
   up = ((require('./up.js')).user_name_password)(); 
+
+  console.log("up==>>", up);
+
+  
 
   wordpress_token = await axios({
     method: "post",
