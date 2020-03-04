@@ -93,7 +93,7 @@ async function md_to_wordpress(){
   });
 
   run_build.stderr.on("data", async data => {
-    console.log("data::", data);
+    console.log("data::", String(data));
 
   });
 
