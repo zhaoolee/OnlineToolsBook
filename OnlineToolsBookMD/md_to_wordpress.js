@@ -4,6 +4,11 @@ const path = require("path");
 const fse = require("fs-extra");
 const showdown = require("showdown");
 
+
+// 默认title
+
+let default_title = "在线工具秘籍"
+
 // 打标签
 let category_list = ["OnlineToolsBook", "在线工具秘籍"];
 
@@ -140,7 +145,7 @@ async function get_all_md_file_pathname() {
 async function get_md_file_name_title_content(md_file_pathname) {
   let md_file_name_title_content = {
     md_file_name: "",
-    title: "",
+    title: default_title,
     content: ""
   };
 
