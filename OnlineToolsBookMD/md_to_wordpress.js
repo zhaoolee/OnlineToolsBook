@@ -215,7 +215,7 @@ async function update_post(wordpress_token, md_file_name_title_content){
     id: id,
     title: title,
     content: html_content,
-    categories: ["onlinetoolsbook"],
+    categories: [19],
     // is not specified
     status: 'publish'
   };
