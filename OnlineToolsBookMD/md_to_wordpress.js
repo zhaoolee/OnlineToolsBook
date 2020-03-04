@@ -330,7 +330,7 @@ async function get_top_info(md_file_pathname, key) {
     let tmp_line_info = all_content_line[i].trim();
     let value = "";
     if (tmp_line_info.indexOf(key) === 0) {
-      // console.log("tmp_line_info++++>>", tmp_line_info);
+      console.log("tmp_line_info++++>>", tmp_line_info);
       tmp_line_info = tmp_line_info.replace(key, "");
       tmp_line_info = tmp_line_info.replace(":", "");
       tmp_line_info = tmp_line_info.trim();
