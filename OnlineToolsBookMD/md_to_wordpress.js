@@ -3,6 +3,15 @@ const fs = require("fs");
 const path = require("path");
 const fse = require("fs-extra");
 const showdown  = require('showdown');
+
+
+
+// 打标签
+let category_list = ["OnlineToolsBook", "在线工具秘籍"];
+
+
+
+
 // 1. 获取并存储wordpress授权码
 
 async function get_wordpress_token() {
@@ -509,7 +518,7 @@ async function main() {
   let wordpress_token = await get_wordpress_token();
 
   // 分类id列表
-  let category_id_list = await get_category_id(wordpress_token, ["OnlineToolsBook", "在线工具秘籍"]);
+  let category_id_list = await get_category_id(wordpress_token, category_list);
 
   // 获取md名与id的字典
   let md_filename_id_dic = await get_md_filename_id_dic()

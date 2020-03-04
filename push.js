@@ -11,13 +11,27 @@ let readme_img_dir =
   RepositoriesName +
   "/master/README/";
 
+
+// md所在的文件夹
+let zhaoolee_md_dir = RepositoriesName + "MD";
+
+// readme文件名
+let readme_file_name = "readme-" + "onlinetoolsbook" + ".md";
+
+
+
+
+
+
+
 // let md_dir = path.join(__dirname, RepositoriesName+"MD");
 // 将README.md从 项目名+md文件夹内拷贝到外面,并将图片替换下载到README文件夹
 async function cp_readme_md() {
   let origin_readme_file_pathname = path.join(
     __dirname,
-    RepositoriesName + "MD",
-    "readme-" + "onlinetoolsbook" + ".md"
+    zhaoolee_md_dir,
+    readme_file_name
+    
   );
   let target_readme_file_pathname = path.join(__dirname, "README" + ".md");
   fse.copySync(origin_readme_file_pathname, target_readme_file_pathname, {
