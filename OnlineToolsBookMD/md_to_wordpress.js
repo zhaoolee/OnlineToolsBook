@@ -212,6 +212,7 @@ async function update_post(wordpress_token, md_file_name_title_content){
     title: title,
     content: html_content,
     categories: ["在线工具秘籍", "OnlineToolsBook"],
+    tags: ["在线工具秘籍", "OnlineToolsBook"],
     // is not specified
     status: 'publish'
   };
