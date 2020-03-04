@@ -10,15 +10,14 @@ let readme_img_dir =
   "https://raw.githubusercontent.com/zhaoolee/" +
   RepositoriesName +
   "/master/README/";
-
-
 // md所在的文件夹
 let zhaoolee_md_dir = RepositoriesName + "MD";
 
 // readme文件名
-let readme_file_name = "readme-" + "onlinetoolsbook" + ".md";
+let readme_file_name = "readme-onlinetoolsbook.md";
 
-
+// 可以跳过的图片地址关键词
+let ignore_img_list = ["img.shields.io", "www.bilibili.com"];
 
 
 
@@ -62,8 +61,38 @@ async function download_imgs_by_md(file_name) {
 
   let md_img_addr_s_length = md_img_addr_s.length;
   let img_re = /^!\[(.*)\]\((.*)\)/;
+  // for (let i = 0; i < md_img_addr_s_length; i++) {
+  //   if (md_img_addr_s[i].indexOf("img.shields.io") === -1) {
+  //     let img_addr = md_img_addr_s[i].match(img_re)[2];
+  //     // 定义文件名
+  //     let img_addr_list = img_addr.split("/");
+  //     img_name = img_addr_list[img_addr_list.length - 1];
+  //     console.log(
+  //       "===img_addr===>>",
+  //       img_addr,
+  //       "dir_name==>>",
+  //       dir_name,
+  //       "img_name==>>",
+  //       img_name
+  //     );
+  //     fs.writeFileSync(
+  //       path.join(__dirname, dir_name, img_name),
+  //       await download(img_addr)
+  //     );
+  //   }
+  // }
+
   for (let i = 0; i < md_img_addr_s_length; i++) {
-    if (md_img_addr_s[i].indexOf("img.shields.io") === -1) {
+
+    let download_img = true;
+
+    for(let t =0 ; t<ignore_img_list.length; t++){
+      if (md_img_addr_s[i].indexOf(ignore_img_list[t]) !==-1) {
+        download_img = false;
+      }
+    }
+
+    if (download_img) {
       let img_addr = md_img_addr_s[i].match(img_re)[2];
       // 定义文件名
       let img_addr_list = img_addr.split("/");
