@@ -3,7 +3,6 @@ const fs = require("fs");
 const path = require("path");
 const fse = require("fs-extra");
 const showdown  = require('showdown');
-const {user_name_password} = require('./up.js');
 // 1. 获取并存储wordpress授权码
 
 async function get_wordpress_token() {
@@ -12,7 +11,9 @@ async function get_wordpress_token() {
     username: "",
     password: ""
   }
-  up = user_name_password(); 
+
+  console.log();
+  up = ((require('./up.js')).user_name_password)(); 
 
   wordpress_token = await axios({
     method: "post",
