@@ -222,7 +222,8 @@ async function update_post(wordpress_token, md_file_name_title_content){
     method: 'post',
     url: 'https://www.v2fy.com/wp-json/wp/v2/posts/'+id,
     headers: {
-      'Authorization': 'Bearer '+wordpress_token
+      'Authorization': 'Bearer '+wordpress_token,
+      'content-type': 'application/json' ,
     },
     data:data
   }).then((res)=>{
