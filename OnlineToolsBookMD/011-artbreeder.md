@@ -35,8 +35,6 @@ https://artbreeder.com/i?k=c094f3e0d3f54548a1cad47b
 artbreeder会自动对上传图片的进行特征处理,处理后效果如图所示
 
 
-
-
 ## 查看合成效果
 
 
@@ -55,6 +53,59 @@ artbreeder会自动对上传图片的进行特征处理,处理后效果如图所
 
 
 ![](https://www.v2fy.com/asset/011-artbreeder/0033.gif)
+
+
+## 雷神与拜月教主
+
+![](https://www.v2fy.com/asset/011-artbreeder/leishen-baiyuejiaozhu.gif)
+
+
+
+## 范闲与二皇子
+
+![](https://www.v2fy.com/asset/011-artbreeder/fanxian-erhangzi.gif)
+
+
+
+
+## 美国队长与学友
+
+
+![](https://www.v2fy.com/asset/011-artbreeder/xueyou-meidui.gif)
+
+
+
+## 胡歌与莱昂纳多
+
+![](https://www.v2fy.com/asset/011-artbreeder/huge-jack.gif)
+
+
+
+
+
+
+## 寡姐与猩红女巫
+
+
+
+![](https://www.v2fy.com/asset/011-artbreeder/guajie-nvwu.gif)
+
+
+
+## 星爷与莱昂纳多
+
+
+
+![](https://www.v2fy.com/asset/011-artbreeder/xingye-xiaolizi.gif)
+
+
+## 美国队长与华仔
+
+
+![](https://www.v2fy.com/asset/011-artbreeder/meidui-huazai.gif)
+
+
+
 
 
 ## 调整人物的面部数据
