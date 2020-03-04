@@ -80,7 +80,6 @@ async function change_img_url(file_name) {
       fs.writeFileSync(path.join(__dirname, file_name), file_content);
     }
   }
-  console.log("===>>", file_content);
 }
 
 
