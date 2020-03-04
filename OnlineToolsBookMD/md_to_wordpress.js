@@ -509,7 +509,7 @@ async function main() {
   let wordpress_token = await get_wordpress_token();
 
   // 分类id列表
-  let category_id_list = await get_category_id(wordpress_token, ["ChromeAppHeroes", "Chrome插件英雄榜", "巴拉巴拉"]);
+  let category_id_list = await get_category_id(wordpress_token, ["ChromeAppHeroes", "Chrome插件英雄榜", "Test"]);
 
 
   console.log("category_id_list==>>", category_id_list);
