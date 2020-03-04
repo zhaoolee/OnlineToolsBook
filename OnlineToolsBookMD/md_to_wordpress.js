@@ -227,7 +227,6 @@ async function update_post(wordpress_token, md_file_name_title_content){
     url: 'https://www.v2fy.com/wp-json/wp/v2/posts/'+id,
     headers: {
       'Authorization': 'Bearer '+wordpress_token,
-      'content-type': 'application/json' ,
     },
     data:data
   }).then((res)=>{
@@ -251,6 +250,9 @@ async function create_new_post(wordpress_token, md_file_name_title_content){
 
   let title = first_title;
   let content = md_file_name_title_content["content"];
+  
+
+  
   let res = await axios({
     method: 'post',
     url: 'https://www.v2fy.com/wp-json/wp/v2/posts',
@@ -264,6 +266,7 @@ async function create_new_post(wordpress_token, md_file_name_title_content){
         // is not specified
         status: 'publish'
     }
+   
   }).then((res)=>{
 
     return new Promise((resolve, reject)=>{
