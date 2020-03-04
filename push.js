@@ -27,6 +27,15 @@ let readme_file_name = "readme-" + "onlinetoolsbook" + ".md";
 // let md_dir = path.join(__dirname, RepositoriesName+"MD");
 // 将README.md从 项目名+md文件夹内拷贝到外面,并将图片替换下载到README文件夹
 async function cp_readme_md() {
+
+  // 在当前目录生成README文件夹
+  // 创建backup文件夹
+  if (!fs.existsSync(path.join(__dirname, "README"))) {
+    fs.mkdirSync(path.join(__dirname, "README"));
+  }
+
+
+
   let origin_readme_file_pathname = path.join(
     __dirname,
     zhaoolee_md_dir,
@@ -123,7 +132,6 @@ async function md_to_wordpress(){
 
 async function main() {
   await cp_readme_md();
-
   await md_to_wordpress();
 }
 
