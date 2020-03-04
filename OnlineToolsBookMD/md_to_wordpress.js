@@ -5,12 +5,11 @@ const fse = require("fs-extra");
 const showdown = require("showdown");
 
 
+// 加分类
+let category_list = ["Chrome插件英雄榜"];
+
 // 默认title
-
-let default_title = "在线工具秘籍"
-
-// 打标签
-let category_list = ["OnlineToolsBook", "在线工具秘籍"];
+let default_title = category_list[0]
 
 // 1. 获取并存储wordpress授权码
 
