@@ -163,9 +163,10 @@ async function get_md_file_name_title_content(md_file_pathname) {
     content: content
   };
 
-  if(md_file_name_title_content.title){
+  if(!(md_file_name_title_content.title)){
 
-    md_file_name_title_content.title = default_title;
+    md_file_name_title_content.title = default_title
+    
   }
 
   return md_file_name_title_content;
