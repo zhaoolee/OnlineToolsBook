@@ -77,6 +77,7 @@ async function download_imgs_by_md(file_name) {
       // 定义文件名
       let img_addr_list = img_addr.split("/");
       img_name = img_addr_list[img_addr_list.length - 1];
+      console.log("正在下载::", md_img_addr_s[i]);
       fs.writeFileSync(
         path.join(__dirname, dir_name, img_name),
         await download(img_addr)
@@ -94,19 +95,6 @@ async function change_img_url(file_name) {
   let md_img_addr_s_length = md_img_addr_s.length;
   let img_re = /^!\[(.*)\]\((.*)\)/;
 
-
-
-  // for (let i = 0; i < md_img_addr_s_length; i++) {
-  //   if (md_img_addr_s[i].indexOf("img.shields.io") === -1) {
-  //     let img_addr = md_img_addr_s[i].match(img_re)[2];
-  //     // 定义文件名
-  //     let img_addr_list = img_addr.split("/");
-  //     img_name = img_addr_list[img_addr_list.length - 1];
-  //     let new_img_addr = readme_img_dir + img_name;
-  //     file_content = file_content.replace(img_addr, new_img_addr);
-  //     fs.writeFileSync(path.join(__dirname, file_name), file_content);
-  //   }
-  // }
 
 
   for (let i = 0; i < md_img_addr_s_length; i++) {
