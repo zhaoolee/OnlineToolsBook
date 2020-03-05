@@ -34,6 +34,7 @@ async function get_wordpress_token() {
       resolve(token);
     });
   });
+  console.log("获取token==>>", wordpress_token);
   return wordpress_token;
 }
 
@@ -439,7 +440,7 @@ async function get_categories_data(wordpress_token) {
 
 async function get_category_id(wordpress_token, category_str_list) {
   let categories_data = await get_categories_data(wordpress_token);
-  // console.log("==category_str_list==>>>", category_str_list);
+  console.log("==category_str_list==>>>", category_str_list);
   let result_id_list = [];
 
   let category_str_list_length = category_str_list.length;

@@ -11,7 +11,7 @@ let readme_img_dir =
   RepositoriesName +
   "/master/README/";
 // md所在的文件夹
-let zhaoolee_md_dir = RepositoriesName + "MD";
+let zhaoolee_md_dir = "OnlineToolsBookMD";
 
 // readme文件名
 let readme_file_name = "readme-onlinetoolsbook.md";
