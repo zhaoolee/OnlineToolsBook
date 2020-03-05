@@ -388,9 +388,8 @@ async function create_category_and_return_id(wordpress_token, name) {
       });
     });
   } catch (e) {
-    console.log("eee===>>", e);
+    console.log("如果404尝试换https===>>", e);
   }
-
   return id;
 }
 
