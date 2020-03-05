@@ -24,6 +24,10 @@ async function get_wordpress_token() {
 
   // console.log("up==>>", up);
 
+  try{
+
+  
+
   wordpress_token = await axios({
     method: "post",
     url: "https://www.v2fy.com/wp-json/jwt-auth/v1/token",
@@ -36,6 +40,12 @@ async function get_wordpress_token() {
   });
   console.log("获取token==>>", wordpress_token);
   return wordpress_token;
+
+
+} catch(e){
+  console.log("e=token=>>",e);
+}
+
 }
 
 // 2. 获取wordpress已有文章路径与id字典
