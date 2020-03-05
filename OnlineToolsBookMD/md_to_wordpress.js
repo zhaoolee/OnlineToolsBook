@@ -6,7 +6,7 @@ const showdown = require("showdown");
 
 
 // 加分类
-let category_list = ["Chrome插件英雄榜"];
+let category_list = ["在线工具秘籍"];
 
 // 默认title
 let default_title = category_list[0]
