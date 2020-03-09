@@ -16,6 +16,8 @@
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+[015 《这是什么日番?》查找文豪野犬「脚踢子弹」在哪一集](https://www.v2fy.com/p/015-trace-moe/)
+
 [014《俄罗斯方块》玩转开源俄罗斯方块小游戏](https://www.v2fy.com/p/014-tetris/)
 
 [013《截图拼接工具》在线电影字幕拼接](https://www.v2fy.com/p/013-join-screenshots/)

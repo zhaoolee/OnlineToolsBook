@@ -8,13 +8,13 @@ async function change_img_url(file_name){
   let file_content = fs.readFileSync(file_name).toString();
   let img_addr_re = /\!\[.*\]\(.*\)/g;
   let md_img_addr_s = file_content.match(img_addr_re);
-  let md_img_addr_s_length = md_img_addr_s.length;
+  let md_img_addr_s_length = (md_img_addr_s ? md_img_addr_s : []).length;
   let img_re = /^!\[(.*)\]\((.*)\)/
   for(let i = 0 ; i< md_img_addr_s_length; i++){
     let img_addr = md_img_addr_s[i].match(img_re)[2];
     // 定义文件名
     let img_addr_list = img_addr.split("/");
-    img_name = img_addr_list[img_addr_list.length-1];
+    img_name = img_addr_list[(img_addr_list?img_addr_list:[]).length-1];
     let new_img_addr = "https://v2fy.com/asset/"+dir_name+"/"+img_name;
     file_content = file_content.replace(img_addr, new_img_addr);
     fs.writeFileSync(path.join(__dirname, file_name), file_content);
@@ -31,13 +31,13 @@ async function download_imgs_by_md (file_name){
 
   let md_img_addr_s = file_content.match(img_addr_re);
 
-  let md_img_addr_s_length = md_img_addr_s.length;
+  let md_img_addr_s_length = (md_img_addr_s?md_img_addr_s:[]).length;
   let img_re = /^!\[(.*)\]\((.*)\)/
   for(let i = 0 ; i< md_img_addr_s_length; i++){
     let img_addr = md_img_addr_s[i].match(img_re)[2];
     // 定义文件名
     let img_addr_list = img_addr.split("/");
-    img_name = img_addr_list[img_addr_list.length-1];
+    img_name = img_addr_list[(img_addr_list?img_addr_list:[]).length-1];
     console.log("===img_addr===>>", img_addr, "dir_name==>>", dir_name, "img_name==>>", img_name);
     fs.writeFileSync(path.join(__dirname, dir_name, img_name), await download(img_addr));
   }
@@ -86,7 +86,7 @@ async function init(){
   console.log(all_md_files);
 
 
-  let all_md_files_length = all_md_files.length;
+  let all_md_files_length = (all_md_files ? all_md_files: []).length;
 
 
   // 创建backup文件夹
