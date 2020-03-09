@@ -70,6 +70,12 @@
 
 ## 在线工具秘籍
 
+#### [015 《这是什么日番?》查找文豪野犬「脚踢子弹」在哪一集](https://www.v2fy.com/p/015-trace-moe/)
+
+
+![](https://www.v2fy.com/asset/015-trace-moe/trace-moe.gif)
+
+
 
 #### [014《俄罗斯方块》玩转开源俄罗斯方块小游戏](https://www.v2fy.com/p/014-tetris/)
 
