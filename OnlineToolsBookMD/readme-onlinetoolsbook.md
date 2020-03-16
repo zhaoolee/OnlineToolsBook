@@ -16,6 +16,8 @@
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+[016《拷贝兔》通过４个字符将文件共享到另一台电脑](https://www.v2fy.com/p/016-copy-tool/)
+
 [015 《这是什么日番?》查找文豪野犬「脚踢子弹」在哪一集](https://www.v2fy.com/p/015-trace-moe/)
 
 [014《俄罗斯方块》玩转开源俄罗斯方块小游戏](https://www.v2fy.com/p/014-tetris/)
@@ -69,6 +71,11 @@
 ---
 
 ## 在线工具秘籍
+
+#### [016《拷贝兔》通过４个字符将文件共享到另一台电脑](https://www.v2fy.com/p/016-copy-tool/)
+
+![](https://www.v2fy.com/asset/016-copy-tool/copy.gif)
+
 
 #### [015 《这是什么日番?》查找文豪野犬「脚踢子弹」在哪一集](https://www.v2fy.com/p/015-trace-moe/)
 
