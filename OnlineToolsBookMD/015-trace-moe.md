@@ -44,6 +44,13 @@ trace.moe 在github进行了开源,开源地址为:https://github.com/soruly/tra
 最实用的api是 `https://trace.moe/?url=`+`需要搜索图片的url地址`, 如[https://trace.moe/?url=https://www.v2fy.com/asset/015-trace-moe/q.jpg](https://trace.moe/?url=https://www.v2fy.com/asset/015-trace-moe/q.jpg),就可直接查看上文中`脚踢子弹`的搜索结果
 
 
+
+## 本在线工具直达链接:
+
+[https://trace.moe/](https://trace.moe/)
+
+
+
 ## 小结:
 
 
