@@ -38,14 +38,14 @@ deb,rp,rpm,rplib,mobileconfig,appimage,lolgezi,flac`
 ---
 ## BulkRenameUtility简易教程
 
-## 为分卷压缩的压缩包添加`.zip`
+####  为分卷压缩的压缩包添加`.zip`
 
 ![](https://www.v2fy.com/asset/017-lanzou/2_zip.gif)
 
 
 ![](https://www.v2fy.com/asset/017-lanzou/add-dot-zip.png)
 
-## 将`.zip`的后缀移除
+####  将`.zip`的后缀移除
 
 ![](https://www.v2fy.com/asset/017-lanzou/2_zip_299.gif)
 
@@ -99,5 +99,3 @@ BulkRenameUtility 下载地址：　https://www.lanzous.com/b00nf4muf
 ## 小结:
 
 蓝奏云相比百度网盘真的是算是良心产品, 通过以上方法, 可以破除100M的限制,愉快的上传各种大容量文件了
-
-
