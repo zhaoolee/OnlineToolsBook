@@ -21,7 +21,9 @@
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+[019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://www.v2fy.com/p/019-vip-movie/)
 
+[018《蓝奏云》蓝奏云存放2G大文件解决方案](https://www.v2fy.com/p/018-lanzou/)
 
 
 [016《拷贝兔》通过４个字符将文件共享到另一台电脑](https://www.v2fy.com/p/016-copy-tool/)
