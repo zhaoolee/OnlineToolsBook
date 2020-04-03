@@ -77,8 +77,7 @@ async function download_imgs_by_md(file_name) {
       // 定义文件名
       let img_addr_list = img_addr.split("/");
       img_name = img_addr_list[img_addr_list.length - 1];
-
-
+      
       if (!fs.existsSync(path.join(__dirname, dir_name, img_name))) {
         console.log("正在下载>>>", img_addr);
         fs.writeFileSync(
