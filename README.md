@@ -21,6 +21,8 @@
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+[020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://www.v2fy.com/p/020-iloveimg/)
+
 [019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://www.v2fy.com/p/019-vip-movie/)
 
 [018《蓝奏云》蓝奏云存放2G大文件解决方案](https://www.v2fy.com/p/018-lanzou/)
@@ -83,6 +85,21 @@
 ---
 
 ## 在线工具秘籍
+
+#### [020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://www.v2fy.com/p/020-iloveimg/)
+
+
+同时上传 GIF, JPG, PNG三种格式的图片做示范
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/img001.gif)
+
+其中的jpg图片: 直接从184KB压缩到68KB,但肉眼看不出画质的损失
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/233.png)
+
+
+
+
 
 #### [016《拷贝兔》通过４个字符将文件共享到另一台电脑](https://www.v2fy.com/p/016-copy-tool/)
 
