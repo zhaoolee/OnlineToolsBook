@@ -7,12 +7,12 @@ title: 008《诺基亚短信图片生成器》有内鬼，终止交易！
 
 使用方法超级简单:
 
-![](https://v2fy.com/asset/008-noddl/73815066-d00e3700-481f-11ea-80d2-9420ef2cda79.gif)
+![](https://www.v2fy.com/asset/008-noddl/73815066-d00e3700-481f-11ea-80d2-9420ef2cda79.gif)
 
 ## 导出的图片也非常清晰
 
 
-![今晚8点吃鸡, Over!](https://v2fy.com/asset/008-noddl/73815072-d3a1be00-481f-11ea-819c-a4a77667b53d.png)
+![今晚8点吃鸡, Over!](https://www.v2fy.com/asset/008-noddl/73815072-d3a1be00-481f-11ea-819c-a4a77667b53d.png)
 
 
 

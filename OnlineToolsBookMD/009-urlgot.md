@@ -5,23 +5,23 @@ title: 009《视频下载》全能视频在线下载工具
 
 urlgot.com 是一款全能视频下载器,打开网页即可使用,支持的网站也比较丰富
 
-![](https://v2fy.com/asset/urlgot/YouTube-3.png)
+![](https://www.v2fy.com/asset/urlgot/YouTube-3.png)
 
 ## 下载B站视频
 
-![](https://v2fy.com/asset/urlgot/001.gif)
+![](https://www.v2fy.com/asset/urlgot/001.gif)
 
 下载B站知名up主老番茄的视频
 
 ## 下载YouTube视频
 
-![](https://v2fy.com/asset/urlgot/youtube.gif)
+![](https://www.v2fy.com/asset/urlgot/youtube.gif)
 
 下载"以我为准"干货满满Up主 「巫师财经」的视频(巫师财经在B站也有同名账号,但视频的无删减版本还是要看youtube)
 
 ## 下载爱奇艺视频
 
-![](https://v2fy.com/asset/urlgot/aiqiy.gif)
+![](https://www.v2fy.com/asset/urlgot/aiqiy.gif)
 
 爱奇艺的VIP视频下载不了,只能下载普通的视频
 

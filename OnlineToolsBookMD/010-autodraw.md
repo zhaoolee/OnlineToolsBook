@@ -21,7 +21,7 @@ title: 010《智能简笔画》实力画渣,在线丢人
 
 ## 给画作配文字(演示文字工具)
 
-![](https://v2fy.com/asset/autodraw/jgdy.gif)
+![](https://www.v2fy.com/asset/autodraw/jgdy.gif)
 
 
 ## 画鱼点睛(演示填充工具)

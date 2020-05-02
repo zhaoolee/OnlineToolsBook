@@ -14,7 +14,7 @@ async function change_img_url(file_name){
     // 定义文件名
     let img_addr_list = img_addr.split("/");
     img_name = img_addr_list[(img_addr_list?img_addr_list:[]).length-1];
-    let new_img_addr = "https://v2fy.com/asset/"+dir_name+"/"+img_name;
+    let new_img_addr = "https://www.v2fy.com/asset/"+dir_name+"/"+img_name;
     file_content = file_content.replace(img_addr, new_img_addr);
     fs.writeFileSync(path.join(__dirname, file_name), file_content);
   }
