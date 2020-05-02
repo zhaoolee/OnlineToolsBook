@@ -27,6 +27,8 @@
 
 [018《蓝奏云》蓝奏云存放2G大文件解决方案](https://www.v2fy.com/p/018-lanzou/)
 
+[017《MyFreeMP3》在线下载QQ音乐，网易云音乐所有VIP歌曲](https://www.v2fy.com/p/017-liumingye_download_music/)
+
 
 [016《拷贝兔》通过４个字符将文件共享到另一台电脑](https://www.v2fy.com/p/016-copy-tool/)
 
@@ -97,7 +99,30 @@
 
 ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/233.png)
 
+#### [019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://www.v2fy.com/p/019-vip-movie/)
 
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/0006.gif)
+
+
+《船长解析-vip视频在线解析》可以解析众多视频网站的vip视频，但并没有解析到最高画质，如果你对画质要求不是很高， 或者你经常使用手机小屏追剧，这个工具倒是能帮你省很多视频会员费
+
+#### [018《蓝奏云》蓝奏云存放2G大文件解决方案](https://www.v2fy.com/p/018-lanzou/)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/2_lanzou_2.gif)
+
+蓝奏云相比百度网盘真的是算是良心产品, 通过分卷压缩的方法, 可以破除100M的限制,愉快的上传各种大容量文件了
+
+
+#### [017《MyFreeMP3》在线下载QQ音乐，网易云音乐所有VIP歌曲](https://www.v2fy.com/p/017-liumingye_download_music/)
+
+
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/m004.gif)
+
+
+这是一个免费网页播放器,也可以下载歌曲，不需要登录，也不需要vip,PC和手机端通用，能满足你，「一个播放器听所有歌的简单愿望」
 
 
 

@@ -3,6 +3,8 @@ title: 《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片
 ---
 
 
+在线直达地址：[https://www.iloveimg.com/zh-cn/compress-image](https://www.iloveimg.com/zh-cn/compress-image)
+
 I Love Img提供了在线批量压缩图片的免费服务, 它会自动根据图片特征自动选择压缩参数, 为图片减肥的同时,又不损失画质
 
 ## 使用方法非常简单
@@ -29,7 +31,7 @@ I Love Img提供了在线批量压缩图片的免费服务, 它会自动根据�
 
 ## 《I Love Img》在线批量压缩图片直达地址
 
-https://www.iloveimg.com/zh-cn/compress-image
+[https://www.iloveimg.com/zh-cn/compress-image](https://www.iloveimg.com/zh-cn/compress-image)
 
 
 ##  小结：

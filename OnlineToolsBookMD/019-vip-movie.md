@@ -3,6 +3,8 @@ title: 《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾
 ---
 
 
+在线直达地址：[http://czjx8.com/](http://czjx8.com/)
+
 ## 可以根据url打开vip专属视频
 
 
@@ -39,7 +41,7 @@ title: 《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾
 
 ## 重点：《船长解析-vip视频在线解析》网址
 
-http://czjx8.com/
+[http://czjx8.com/](http://czjx8.com/)
 
 
 
