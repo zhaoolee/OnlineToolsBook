@@ -19,6 +19,13 @@
 ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/4.png)
 
 
+## 内容同步更新到公众号「0加1」
+
+![0加1](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/jikemiji.png)
+
+公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 OnlineToolsBook (在线工具秘籍) , 欢迎关注~
+
+
 ## 目录(点击以下标题, 可以进入文章页~)
 
 [020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://www.v2fy.com/p/020-iloveimg/)
