@@ -71,9 +71,6 @@
 
 ---
 
-## 公众号 0加1 同步更新本项目
-
-![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/73356546-94321980-42d5-11ea-94cc-a8f60e0e1985.gif)
 
 **付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.space/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验
 
@@ -85,13 +82,11 @@
 为了让「在线工具秘籍」更加**生动形象**，**易于阅读**, 本项目使用了大量Gif图片, 而github在国内的访问速度非常不稳定,导致文章页面打开稍慢, 为了解决大陆用户访问项目速度慢的问题, zhaoolee在阿里云买了一台5M的VPS, 已将所有文章链接替换到v2fy.com域名下, 访问速度会非常快, 而且图片支持懒加载, 可以节省下载gif图的流量,入口为[https://www.v2fy.com/onlinetoolsbook/](https://www.v2fy.com/onlinetoolsbook/)
 
 
-## 赞助秘籍(微信打赏)
+## 赞助打赏
 
-**少侠! 如果这本秘籍能帮到你,就请作者喝杯咖啡吧!**
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/3qr.png)
 
-![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/c4fdea49e11241e392d6bcaa33855897.png)
 
----
 
 ## 在线工具秘籍
 
