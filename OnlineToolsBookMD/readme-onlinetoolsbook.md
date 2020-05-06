@@ -256,5 +256,6 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 ## 赞助打赏
 
+
 ![](https://www.v2fy.com/asset/qr/3qr.png)
 
