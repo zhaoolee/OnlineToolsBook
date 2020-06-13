@@ -312,7 +312,7 @@ function post_get_id(md_filename_id_dic, md_file_name_title_content) {
 
   let md_file_name = md_file_name_title_content["md_file_name"];
 
-  let id = md_filename_id_dic[md_file_name];
+  let id = md_filename_id_dic[encodeURI(md_file_name).toLowerCase()];
 
   if (typeof id === "undefined") {
     id = "";
