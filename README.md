@@ -28,6 +28,10 @@
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+[022《OCR》谷歌免费OCR在线中英文识别](https://www.v2fy.com/p/022-ocr/)
+
+[021《Base64在线加密解密》解密技术论坛中的神秘邮箱](https://www.v2fy.com/p/021-b64/)
+
 [020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://www.v2fy.com/p/020-iloveimg/)
 
 [019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://www.v2fy.com/p/019-vip-movie/)
@@ -83,8 +87,30 @@
 
 
 
-
 ## 在线工具秘籍
+
+
+
+#### [022《OCR》谷歌免费OCR在线中英文识别](https://www.v2fy.com/p/022-ocr/)
+
+
+
+![ocr-google](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/ocr-google.gif)
+
+
+将截图存储到谷歌云盘,使用谷歌文档打开,即可自动完成OCR转换
+
+
+#### [021《Base64在线加密解密》解密技术论坛中的神秘邮箱](https://www.v2fy.com/p/021-b64/)
+
+
+![2020-06-13-base64-decode](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/2020-06-13-base64-decode.gif)
+
+直接在网络论坛留下自己的**邮箱/手机号/qq号/微信号**并不安全, 使用base64可以对敏感进行一定的保护, 但base64和二维码类似,只是人眼不可读, 使用解密程序,可以轻松解析真实的信息, 所以base64只是一种**道德加密**, 可以防住不懂base64加密的人,  不能防止专业人士(程序员)解密
+
+
+
+
 
 #### [020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://www.v2fy.com/p/020-iloveimg/)
 
