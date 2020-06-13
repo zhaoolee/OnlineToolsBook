@@ -5,7 +5,7 @@
   "main": "md_img_download.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "push": "node push.js && git add . && git commit -m 'ok' && git push"
+    "push": "node rsync.js && node push.js && git add . && git commit -m 'ok' && git push"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
     "download": "^7.1.0",
     "fs-extra": "^8.1.0",
     "request": "^2.88.2",
+    "rsync": "^0.6.1",
     "showdown": "^1.9.1"
   }
 }
