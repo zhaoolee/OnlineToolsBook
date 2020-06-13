@@ -145,7 +145,7 @@ async function local_href_2_https_href() {
 async function main() {
 
   // 改权限
-  fs.chmodSync(path.join(__dirname, md_dir_name), '0644');
+  fs.chmodSync(path.join(__dirname, md_dir_name), '777');
 
   // 先同步数据到服务端
   await update_data();
