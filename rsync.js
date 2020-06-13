@@ -2,6 +2,8 @@ const Rsync = require("rsync");
 
 const path = require("path");
 
+const chmodr = require('chmodr');
+
 const fs = require("fs");
 
 const fse = require("fs-extra");
@@ -142,10 +144,28 @@ async function local_href_2_https_href() {
   }
 }
 
+async function md_and_img_chmodr(path){
+  await new Promise((resolve, reject)=>{
+    chmodr(path, 0o777, (err) => {
+      if (err) {
+        console.log('Failed to execute chmod', err);
+      } else {
+        console.log('Success');
+        resolve();
+      }
+    });
+  })
+
+
+}
+
+
 async function main() {
 
   // 改权限
-  fs.chmodSync(path.join(__dirname, md_dir_name), '777');
+
+  await md_and_img_chmodr(path.join(__dirname, md_dir_name))
+  
 
   // 先同步数据到服务端
   await update_data();
