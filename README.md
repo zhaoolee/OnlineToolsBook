@@ -19,6 +19,13 @@
 ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/4.png)
 
 
+## 内容同步更新到公众号「0加1」
+
+![0加1](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/jikemiji.png)
+
+公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 OnlineToolsBook (在线工具秘籍) , 欢迎关注~
+
+
 ## 目录(点击以下标题, 可以进入文章页~)
 
 [020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://www.v2fy.com/p/020-iloveimg/)
@@ -26,6 +33,8 @@
 [019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://www.v2fy.com/p/019-vip-movie/)
 
 [018《蓝奏云》蓝奏云存放2G大文件解决方案](https://www.v2fy.com/p/018-lanzou/)
+
+[017《MyFreeMP3》在线下载QQ音乐，网易云音乐所有VIP歌曲](https://www.v2fy.com/p/017-liumingye_download_music/)
 
 
 [016《拷贝兔》通过４个字符将文件共享到另一台电脑](https://www.v2fy.com/p/016-copy-tool/)
@@ -62,9 +71,6 @@
 
 ---
 
-## 公众号 0加1 同步更新本项目
-
-![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/73356546-94321980-42d5-11ea-94cc-a8f60e0e1985.gif)
 
 **付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.space/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验
 
@@ -76,13 +82,7 @@
 为了让「在线工具秘籍」更加**生动形象**，**易于阅读**, 本项目使用了大量Gif图片, 而github在国内的访问速度非常不稳定,导致文章页面打开稍慢, 为了解决大陆用户访问项目速度慢的问题, zhaoolee在阿里云买了一台5M的VPS, 已将所有文章链接替换到v2fy.com域名下, 访问速度会非常快, 而且图片支持懒加载, 可以节省下载gif图的流量,入口为[https://www.v2fy.com/onlinetoolsbook/](https://www.v2fy.com/onlinetoolsbook/)
 
 
-## 赞助秘籍(微信打赏)
 
-**少侠! 如果这本秘籍能帮到你,就请作者喝杯咖啡吧!**
-
-![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/c4fdea49e11241e392d6bcaa33855897.png)
-
----
 
 ## 在线工具秘籍
 
@@ -97,7 +97,30 @@
 
 ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/233.png)
 
+#### [019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://www.v2fy.com/p/019-vip-movie/)
 
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/0006.gif)
+
+
+《船长解析-vip视频在线解析》可以解析众多视频网站的vip视频，但并没有解析到最高画质，如果你对画质要求不是很高， 或者你经常使用手机小屏追剧，这个工具倒是能帮你省很多视频会员费
+
+#### [018《蓝奏云》蓝奏云存放2G大文件解决方案](https://www.v2fy.com/p/018-lanzou/)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/2_lanzou_2.gif)
+
+蓝奏云相比百度网盘真的是算是良心产品, 通过分卷压缩的方法, 可以破除100M的限制,愉快的上传各种大容量文件了
+
+
+#### [017《MyFreeMP3》在线下载QQ音乐，网易云音乐所有VIP歌曲](https://www.v2fy.com/p/017-liumingye_download_music/)
+
+
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/m004.gif)
+
+
+这是一个免费网页播放器,也可以下载歌曲，不需要登录，也不需要vip,PC和手机端通用，能满足你，「一个播放器听所有歌的简单愿望」
 
 
 
@@ -229,3 +252,10 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/1.jpg)
 ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/2.jpg)
 ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/3.jpg)
+
+
+## 赞助打赏
+
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/3qr.png)
+

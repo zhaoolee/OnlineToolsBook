@@ -62,7 +62,7 @@ deb,rp,rpm,rplib,mobileconfig,appimage,lolgezi,flac`
 
 ![](https://www.v2fy.com/asset/017-lanzou/2_lanzou_2.gif)
 
-##　遇到一个有点意思的坑
+## 遇到一个有点意思的坑
 
 这里zhaoolee遇到一个坑， zhaoolee开始设定分卷压缩为90M，会有五分之一的几率上传失败，为什么是五分之一，因为蓝奏云虽然每次可以上传20个文件，但20个文件的总大小不能超过500M, zhaoolee开始分的是90M的分卷，每次最多可以传5个，但总有一个会**上传失败**
 
@@ -73,7 +73,6 @@ zhaoolee开始尝试减小分卷压缩单个卷的尺寸，当单卷大小下降
 ![](https://www.v2fy.com/asset/017-lanzou/43.png)
 
 结论： **建议单卷压缩不超过50M**
-
 
 
 ## 解压下载后，分卷压缩的文件
