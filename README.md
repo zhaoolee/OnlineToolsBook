@@ -1,6 +1,6 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![https://img.shields.io/github/issues/zhaoolee/OnlineToolsBook.svg?style=popout-square](https://img.shields.io/github/issues/zhaoolee/OnlineToolsBook.svg?style=popout-square) ![https://www.v2fy.com/asset/README/OnlineToolsBook.svg?style=popout-square](https://img.shields.io/github/stars/zhaoolee/OnlineToolsBook.svg?style=popout-square)
 
-![](https://www.v2fy.com/asset/jili/14.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/14.png)
 
 # 在线工具秘籍 OnlineToolsBook
 
@@ -16,12 +16,12 @@
 从用户角度出发，「理想的工具应该是无需安装, 打开浏览器即可使用」 也就是所谓的在线工具。由于优质的在线工具并不容易被人发掘, 发掘到也不一定能快速上手, 所以我打造了这个「在线工具秘籍」项目，为在线工具写一本优质说明书,让在线工具造福人类~
 
 
-![](https://www.v2fy.com/asset/jili/4.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/4.png)
 
 
 ## 内容同步更新到公众号「0加1」
 
-![0加1](https://www.v2fy.com/asset/qr/jikemiji.png)
+![0加1](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/jikemiji.png)
 
 公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 OnlineToolsBook (在线工具秘籍) , 欢迎关注~
 
@@ -172,7 +172,7 @@
 **付费VPN科学上网工具推荐**:  通用网络加速器, 为科技工作者创造价值, 如果你想获得稳定高速的科学上网体验,zhaoolee推荐一家小众但非常稳定的VPN供应商GLaDOS(提供vmess方式)看Youtube1080P不卡,注册登录后, 后台提供iOS端美区APP的下载账号, [点击链接](https://glados.space/landing/OFQTF-AA9NU-I0JVK-11AY8) 可以获得的高速VPN体验
 
 
-![](https://www.v2fy.com/asset/jili/10.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/10.png)
 
 ## 项目新增CN服务器
 
@@ -187,7 +187,7 @@
 #### [022《OCR》谷歌免费OCR在线中英文识别](https://www.v2fy.com/p/022-ocr/)
 
 
-![ocr-google](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/022-ocr.assets/ocr-google.gif)
+![ocr-google](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/ocr-google.gif)
 
 
 将截图存储到谷歌云盘,使用谷歌文档打开,即可自动完成OCR转换
@@ -196,7 +196,7 @@
 #### [021《Base64在线加密解密》解密技术论坛中的神秘邮箱](https://www.v2fy.com/p/021-b64/)
 
 
-![2020-06-13-base64-decode](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/021-base64.assets/2020-06-13-base64-decode.gif)
+![2020-06-13-base64-decode](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/2020-06-13-base64-decode.gif)
 
 直接在网络论坛留下自己的**邮箱/手机号/qq号/微信号**并不安全, 使用base64可以对敏感进行一定的保护, 但base64和二维码类似,只是人眼不可读, 使用解密程序,可以轻松解析真实的信息, 所以base64只是一种**道德加密**, 可以防住不懂base64加密的人,  不能防止专业人士(程序员)解密
 
@@ -209,16 +209,16 @@
 
 同时上传 GIF, JPG, PNG三种格式的图片做示范
 
-![](https://www.v2fy.com/asset/020-iloveimg/img001.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/img001.gif)
 
 其中的jpg图片: 直接从184KB压缩到68KB,但肉眼看不出画质的损失
 
-![](https://www.v2fy.com/asset/020-iloveimg/233.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/233.png)
 
 #### [019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://www.v2fy.com/p/019-vip-movie/)
 
 
-![](https://www.v2fy.com/asset/019-vip-movie/0006.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/0006.gif)
 
 
 《船长解析-vip视频在线解析》可以解析众多视频网站的vip视频，但并没有解析到最高画质，如果你对画质要求不是很高， 或者你经常使用手机小屏追剧，这个工具倒是能帮你省很多视频会员费
@@ -226,7 +226,7 @@
 #### [018《蓝奏云》蓝奏云存放2G大文件解决方案](https://www.v2fy.com/p/018-lanzou/)
 
 
-![](https://www.v2fy.com/asset/017-lanzou/2_lanzou_2.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/2_lanzou_2.gif)
 
 蓝奏云相比百度网盘真的是算是良心产品, 通过分卷压缩的方法, 可以破除100M的限制,愉快的上传各种大容量文件了
 
@@ -235,7 +235,7 @@
 
 
 
-![](https://www.v2fy.com/asset/super-web/m004.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/m004.gif)
 
 
 这是一个免费网页播放器,也可以下载歌曲，不需要登录，也不需要vip,PC和手机端通用，能满足你，「一个播放器听所有歌的简单愿望」
@@ -244,26 +244,26 @@
 
 #### [016《拷贝兔》通过４个字符将文件共享到另一台电脑](https://www.v2fy.com/p/016-copy-tool/)
 
-![](https://www.v2fy.com/asset/016-copy-tool/copy.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/copy.gif)
 
 
 #### [015 《这是什么日番?》查找文豪野犬「脚踢子弹」在哪一集](https://www.v2fy.com/p/015-trace-moe/)
 
 
-![](https://www.v2fy.com/asset/015-trace-moe/trace-moe.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/trace-moe.gif)
 
 
 
 #### [014《俄罗斯方块》玩转开源俄罗斯方块小游戏](https://www.v2fy.com/p/014-tetris/)
 
-> ![](https://www.v2fy.com/asset/014-tetris/9c33a44ac8b8ed65a98d6a319dacf940.gif)
+> ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/9c33a44ac8b8ed65a98d6a319dacf940.gif)
 
 俄罗斯方块是一个建设性的游戏，与中国的围棋相似，“国际象棋就是杀杀杀，围棋则重视构建领地，是建设性的，俄罗斯方块也是”。俄罗斯方块家喻户晓,老少皆宜
 
 #### [013《截图拼接工具》在线电影字幕拼接](https://www.v2fy.com/p/013-join-screenshots/)
 
 
-![](https://www.v2fy.com/asset/013-join-screenshots/jietu.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/jietu.gif)
 
 
 当你看到电影中的一段经典台词, 想要分享给周边的好友时,截图拼接工具, 可以让你快速达成自己想要的效果
@@ -271,21 +271,21 @@
 #### [012《表情锅》在线制作「真香定律」表情包](https://www.v2fy.com/p/012-biaoqingguo/)
 
 
-![](https://www.v2fy.com/asset/012-biaoqingguo/daoqiongsi.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/daoqiongsi.gif)
 
 今天是2020年2月29日, 道琼斯指数单日下跌1000点,热度比较高的话题是「特朗普加农炮」,于是zhaoolee就琢磨着要做一张表情包纪念一下
 
 #### [011《Artbreeder》艺术投食者-美队与钢铁侠的融合](https://www.v2fy.com/p/011-artbreeder/)
 
 
-![](https://www.v2fy.com/asset/011-artbreeder/00011.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/00011.gif)
 
 Arbreeder是一个可以体验数据模型训练成果的平台, 但Arbreeder的功能还远不止于此, 可以将多个人物的特征,层层结合, 产生子代, 然后调整子代的参数, 产出世界上不存在的面容
 
 #### [010《智能简笔画》实力画渣,在线丢人](https://www.v2fy.com/p/010-autodraw/)
 
 
-![](https://www.v2fy.com/asset/autodraw/fish.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/fish.gif)
 
 
 Autodraw这款在线工具的思路很好, 根据用户描摹的线条,自动推荐出简笔画, 解决了触控板绘图线条不容易描摹的尴尬,另外这款工具的左侧工具栏真的非常简洁,而且十分够用,比Windows的画图软件要清新的多, 非常适合电脑中不想安装画图应用, 但又想打开网页画个图的创意工作者~
@@ -293,7 +293,7 @@ Autodraw这款在线工具的思路很好, 根据用户描摹的线条,自动推
 
 #### [009《视频下载》全能视频在线下载工具](https://www.v2fy.com/p/009-urlgot/)
 
-![](https://www.v2fy.com/asset/urlgot/youtube.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/youtube.gif)
 
 
 在线下载视频是一个老生常谈的问题, 理想的视频下载工具应该是下载在云端完成,然后从云端下载到本地, 开箱即用, 无需注册, 最好是免费, 支持的视频网站够多, 上面所说的点urlgot都具备了,而且还提供了画质选择, 单独下载音频等选项
@@ -303,7 +303,7 @@ Autodraw这款在线工具的思路很好, 根据用户描摹的线条,自动推
 
 
 
-![](https://www.v2fy.com/asset/008-noddl/73815066-d00e3700-481f-11ea-80d2-9420ef2cda79.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/73815066-d00e3700-481f-11ea-80d2-9420ef2cda79.gif)
 
 诺基亚短信图片生成器是一款复古好玩的在线小工具, 类似upuptoyou举牌小人的风格,但诺基亚短信图片生成器的梗更多一些, 比如「无间道」中著名的**有内鬼,终止交易!**
 
@@ -313,7 +313,7 @@ Autodraw这款在线工具的思路很好, 根据用户描摹的线条,自动推
 
 #### [007 《Upuptoyou》举牌小人在此为您服务](https://v2fy.com/p/007-upuptoyou/)
 
-![](https://www.v2fy.com/asset/README/73604674-77485f80-45cf-11ea-8aec-76c6eb7ffe00.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/73604674-77485f80-45cf-11ea-8aec-76c6eb7ffe00.gif)
 
 upuptoyou是一款非常有创意的小工具,可以用于表白,或节日送祝福等场景,举牌是一种支持的态度，是一种相信希望的精神，每只可爱的小人都代表着支持你的人，鼓舞着你。举牌世界没有人是孤独的，有时你需要独自面对眼前的难关，举牌小人会陪伴与鼓励你，用举牌挺你走向希望。我们相信有许多美好的事都等着我们高举着，并将这样的精神与鼓励不断地蔓延下去。
 
@@ -321,7 +321,7 @@ upuptoyou是一款非常有创意的小工具,可以用于表白,或节日送祝
 
 #### [006 《微信Markdown编辑器》转化Markdown到给微信特制的HTML](https://www.v2fy.com/p/006-md2wx/)
 
-![](https://www.v2fy.com/asset/README/73590429-3c85ef00-451d-11ea-8c12-33f09e0eac45.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/73590429-3c85ef00-451d-11ea-8c12-33f09e0eac45.gif)
 
 Markdown语法简洁, 格式通用, **微信Markdown编辑器**可以将Markdown即时渲染为微信图文，让你不再为微信文章排版而发愁！只要你会基本的 Markdown 语法，就能做出一篇样式简洁而又美观大方的微信图文。
 
@@ -330,7 +330,7 @@ Markdown语法简洁, 格式通用, **微信Markdown编辑器**可以将Markdown
 #### [005 《百度脑图》好用到不像百度产品的产品](https://www.v2fy.com/p/005-baidunaotu/)
 
 
-![](https://www.v2fy.com/asset/README/73585351-82ba5e80-44db-11ea-88e8-a817c1c7cfca.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/73585351-82ba5e80-44db-11ea-88e8-a817c1c7cfca.gif)
 
 百度脑图是一款非常好用的脑图软件, 没有VIP, 没有广告, 而且导入导出非常方便, 甚至可以共享当前导图的在线链接(实际作用不大), 如果你想把某个不成熟的想法整理出来, 完全可以将想法写到脑图中, 然后调整层级顺序,待想法完善的差不多的时候, 再导出为markdown格式,这样就能把想法整理成一篇稿子了
 
@@ -338,28 +338,28 @@ Markdown语法简洁, 格式通用, **微信Markdown编辑器**可以将Markdown
 
 #### [004 《Word Art》创建二维码文字云!](https://www.v2fy.com/p/004-word-art/)
 
-![](https://www.v2fy.com/asset/README/73535907-a8098700-445f-11ea-94f2-5d5ce89bbb74.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/73535907-a8098700-445f-11ea-94f2-5d5ce89bbb74.gif)
 
 
 将文字云图片添加到PPT, 或者海报中, 可以极大的提升设计的张力, 让高逼格的设计触手可得~
 
 #### [003 《求字体》快速识别图片中的文字字体](https://www.v2fy.com/p/003-qiuziti/)
 
-![](https://www.v2fy.com/asset/README/73504194-8382c000-4409-11ea-93ff-b71107dc8bdf.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/73504194-8382c000-4409-11ea-93ff-b71107dc8bdf.gif)
 
 当我们看到图片中的有趣字体想要下载, 但又不知道字体名字的时候,可以从图片中裁剪单个有特色的文字,然后上传到求字体网进行识别
 
 
  #### [002 《GIF到MP4转换器》把20秒熊本熊GIF图发送给微信好友](https://www.v2fy.com/p/002-gif-to-mp4/)
 
-![](https://www.v2fy.com/asset/README/73356545-93998300-42d5-11ea-8ffa-12bc1c419436.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/73356545-93998300-42d5-11ea-8ffa-12bc1c419436.gif)
 
 **GIF到MP4转换器**可以将100MB以内的gif图片转换为MP4,所有转换步骤通过网页在云端完成, gif转换为mp4后, 肉眼看不出清晰度的损失
 
 
 #### [001 《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/001-photopea/)
 
-![](https://www.v2fy.com/asset/README/73324183-0c242380-4285-11ea-855d-b2235af6d97a.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/73324183-0c242380-4285-11ea-855d-b2235af6d97a.gif)
 
 Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似, 经常被人们误以为是Photoshop的在线网页版, Photopea可以满足绝大多数图片修改需求, 更有趣的是, Photopea支持打开Sketch格式,对经常与Sketch打交道的设计师, 非常有诱惑力!
 
@@ -370,14 +370,14 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 ## [S031 《Emoji宝典》玩转Emoji](https://www.v2fy.com/p/031_emojipedia/)
 
 
-![](https://www.v2fy.com/asset/031-emojipedia/emoji-apple.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/emoji-apple.png)
 
 通过emojipedia.org探索更多Emoji表情
 
 
 ## [S030《贪吃蛇》适配移动端和PC端的小游戏](https://playsnake.org/)
 
-![](https://www.v2fy.com/asset/super-web/snake.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/snake.png)
 
 
 一个在线贪吃蛇小游戏, PC端可以通过键盘上下左右键控制, 手机端可以通过滑动屏幕控制,初始速度有`慢速, 中速, 快速`三级别可选,点击屏幕可以暂停/继续游戏
@@ -385,33 +385,33 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 ## [S029《假装操作系统升级》摸鱼基本技能](http://fakeupdate.net/)
 
-![](https://www.v2fy.com/asset/super-web/windowsupdate.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/windowsupdate.png)
 
 选择网页右侧升级界面后,将网页全屏, 可以假装计算机升级,进而摸鱼
 
 
 ## [S028《高清MP4》热门电影电视剧超清画渣下载](http://mp4ba.cc/)
 
-![](https://www.v2fy.com/asset/super-web/dianying.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/dianying.png)
 
 
 一个下载热播电影,电视剧,动漫资源的网站
 
 ## [S027《在线听各种版权的歌》](http://tool.liumingye.cn/music/)
 
-![](https://www.v2fy.com/asset/super-web/qingtian.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/qingtian.png)
 
 全网最强音乐网页播放器,无需登录, 即可在线听QQ音乐, 网易云音乐
 
 
 ## 在线 听QQ音乐独占曲目 周杰伦的「晴天」
 
-![](https://www.v2fy.com/asset/super-web/m001.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/m001.gif)
 
 
 ## 在线听 网易云音乐独占曲目 某科学超电磁炮 「sister's noise」 (中文译名「吵你妹」)
 
-![](https://www.v2fy.com/asset/super-web/m002.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/m002.gif)
 
 
 ## 关于搜索
@@ -423,16 +423,16 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 ## 双击左上角图标，给播放器换任意背景
 
-![](https://www.v2fy.com/asset/super-web/m003.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/m003.gif)
 
 当播放器背景为空时， 双击左上角图标可以换背景， 如果你已经为播放器选择了图片背景，如果再次双击左上角图标，则会刷新网页，网页刷新后，背景图也会消失
 
 
 ## 下载封面和无损音乐
 
-![](https://www.v2fy.com/asset/super-web/m004.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/m004.gif)
 
-![](https://www.v2fy.com/asset/super-web/lemon.jpg)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/lemon.jpg)
 
 
 ## 小结：
@@ -443,7 +443,7 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 ## [S026《今天中午吃什么》解决全人类的难题](https://www.zwcsm.com/)
 
-![](https://www.v2fy.com/asset/super-web/zwcsm.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/zwcsm.png)
 
 
 
@@ -454,7 +454,7 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 如果以抽象的眼光看人类,人类就是火柴人, 我们在设计各种PPT时,往往要遵循「少即是多」的原则，这个火柴人小站，能为我们提供丰富的火柴人素材来表现人物活动，让我们PPT的设计快速提高一个档次
 
-![](https://www.v2fy.com/asset/super-web/huochai.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/huochai.png)
 
 ## [S024《狗站》随机获取一只狗狗图片](https://shibe.online/)
 
@@ -467,7 +467,7 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 即可收到带有100张狗狗图片的数组
 
-![](https://www.v2fy.com/asset/super-web/dogserver.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/dogserver.png)
 
 
 
@@ -476,14 +476,14 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 背景底纹就像墙纸，可以让背景不那么单调，运用得当可以提升设计作品的格调
 
-![](https://www.v2fy.com/asset/super-web/bg.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/bg.png)
 
 ## [S022《Colorhunt》提供现成的配色案例](https://colorhunt.co/)
 
 优质的配色可以让设计赏心悦目, 直接借鉴（抄）ColorHunt提供的大师级配色方案，可以提升设计作品的质量
 
 
-![](https://www.v2fy.com/asset/super-web/ColorHunt.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/ColorHunt.png)
 
 
 
@@ -494,7 +494,7 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 没有买正版软件的预算? 白送软件要不要? 反斗软件每天推送最新的软件限时免费信息, 多逛这个网站,能省掉不少买正版软件/正版游戏游戏 的钱
 
 
-![](https://www.v2fy.com/asset/super-web/fandou.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/fandou.png)
 
 
 
@@ -503,12 +503,12 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 免费无版权图片站有很多，而Pexels在免费的同时，更注重品质，通过Pexels，可以更容易找到高品质的图片或视频
 
 
-![](https://www.v2fy.com/asset/super-web/Pexels.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/Pexels.png)
 
 可以通过热门标签页,找到自己喜欢类型的图片
 [https://www.pexels.com/zh-cn/popular-searches/](https://www.pexels.com/zh-cn/popular-searches/)
 
-![](https://www.v2fy.com/asset/super-web/Pexels002.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/Pexels002.png)
 
 
 
@@ -516,12 +516,12 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 IMDB电影评分一直是业界标杆，通过IMDB的评分页面，你可以轻易找到全世界公认的「好电影」
 
-![](https://www.v2fy.com/asset/super-web/imdb250.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/imdb250.png)
 
 
 国人比较喜欢的还有类似的豆瓣电影评分: [https://movie.douban.com/top250](https://movie.douban.com/top250)
 
-![](https://www.v2fy.com/asset/super-web/douban250.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/douban250.png)
 
 
 
@@ -530,7 +530,7 @@ IMDB电影评分一直是业界标杆，通过IMDB的评分页面，你可以轻
 
 以世界级难题「中午吃什么」为例，生成一篇文章
 
-![](https://www.v2fy.com/asset/super-web/shengchengqi.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/shengchengqi.png)
 
 这个网页由github开源项目「狗屁不通文章生成器」改造而来,开源地址:https://github.com/menzi11/BullshitGenerator
 
@@ -547,7 +547,7 @@ IMDB电影评分一直是业界标杆，通过IMDB的评分页面，你可以轻
 
 
 
-![](https://www.v2fy.com/asset/super-web/uigradients.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/uigradients.png)
 
 
 UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢渐变色背景，可以尝试到这个网站寻宝
@@ -558,7 +558,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 
 世界的问题千千万,有哪些问题是人类最关注的呢?知乎根话题精华给你答案
 
-![](https://www.v2fy.com/asset/super-web/zhihu-gen.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/zhihu-gen.png)
 
 这里的问题应该也有你感兴趣的,有些回答真的非常干货,而且回答有趣,甚至可以当小说来读,比如[网络小说里有哪些令人拍案称奇的智障桥段？](https://www.zhihu.com/question/59595588/answer/219963941)
 
@@ -567,23 +567,23 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 ## [S015《下载4K画质Bing壁纸》](https://bing.lylares.com/)
 
 
-![](https://www.v2fy.com/asset/super-web/bing0413.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/bing0413.png)
 
 点开图片还可以看到图片的出处
 
-![](https://www.v2fy.com/asset/super-web/yekong.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/yekong.png)
 
 
 
 文章底部,点击按钮下载
 
-![](https://www.v2fy.com/asset/super-web/bing-down.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/bing-down.png)
 
 
-![](https://www.v2fy.com/asset/super-web/6k.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/6k.png)
 
 
-![](https://www.v2fy.com/asset/super-web/bing-2020-02-22-4k.jpg)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/bing-2020-02-22-4k.jpg)
 
 
 ## [S014《胡萝卜周》著名中文软件分享站](http://www.carrotchou.blog/)
@@ -592,7 +592,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 从网易博客起步的中文小站，站长绰号「萝卜哥」，「分享绿色软件」是站长的兴趣使然，分享的软件大多为中文汉化版，**种类相对较全**且**完全免费**，可以随意下载
 
 
-![](https://www.v2fy.com/asset/super-web/huluobo.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/huluobo.png)
 
 
 ## [S013《一言》总有那么几个句子能穿透你的心](https://hitokoto.cn/)
@@ -602,19 +602,19 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 **打开网页就会随机弹出一句触动心灵的句子**
 
 
-![](https://www.v2fy.com/asset/super-web/hitokoto-yiyan.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/hitokoto-yiyan.png)
 
 
 网站提供了第三方接口,任何人可以通过接口`https://v1.hitokoto.cn/`获取一句话
 
-![](https://www.v2fy.com/asset/super-web/api.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/api.png)
 
 
 也可以引用到自己到网站
 
 效果:
 
-![](https://www.v2fy.com/asset/super-web/yiyan-001.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/yiyan-001.png)
 
 代码块:
 
@@ -667,7 +667,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 
 其实用户需要的是3分钟能了解所有信息的**今日热榜**,**今日热榜**可以通过一张网页,看遍当前所有主流平台热度最高的新闻
 
-![](https://www.v2fy.com/asset/super-web/tophub_today.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/tophub_today.png)
 
 相较于今日头条**只让你看你喜欢的**新闻，将全网热点汇聚到一个网页，能让你了解**这个世界到底在发生**
 
@@ -690,7 +690,7 @@ Github的Trending页面,相当于Github的首页推荐,github会把过去24小�
 
 当年风靡一时的996.icu,曾在这个页面霸榜一周,获得了全世界程序员的关注
 
-![](https://www.v2fy.com/asset/super-web/github-trending.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/github-trending.png)
 
 当然这个榜单也经常会出现一些福利项目,比如某互联网公司的源码,或国内某著名搜索公司网盘的破解版,有时候甚至会出现一些颜色网站的爬虫,每日查看Github Trending榜,每日一个超神小技巧
 
@@ -700,11 +700,11 @@ Github的Trending页面,相当于Github的首页推荐,github会把过去24小�
 
 Get Into PC 软件版本更新极快，属于绿色软件的门户网站，非常推荐！ 
 
-![](https://www.v2fy.com/asset/super-web/crack-001.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/crack-001.png)
 
 **亲测下载Getintopc.com_CCleaner.5.65可用**
 
-![](https://www.v2fy.com/asset/soft-000009-find-crack/0011.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/0011.png)
 CCleaner是清理系统垃圾，清理注册表的一款专家级软件： 官网售价 19.95美元
 
 
@@ -713,21 +713,21 @@ CCleaner是清理系统垃圾，清理注册表的一款专家级软件： 官�
 一个好玩的邮件订阅，名为[「表特日报」](https://daily-beauty.xyz/)，「表特」是Beauty的谐音，也就是就是「颜值报」, 订阅「表特日报」后，每天会收到一封有高颜值妹纸的图片
 
 
-![](https://www.v2fy.com/asset/super-web/beauty_daily.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/beauty_daily.png)
 
 
 ## [S008《Piratepc》分类详细的Piratepc绿色软件站](https://piratepc.co/)
 
 Piratepc 的软件推荐很不错，而且给众多软件进行了分类，网站运营者是一群热爱互联网和技术的人
 
-![](https://www.v2fy.com/asset/super-web/piratepc-002.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/piratepc-002.png)
 
 
 
 
 **亲测下载IObit Uninstaller.9.4.0.12可用**
 
-![](https://www.v2fy.com/asset/super-web/find-0022.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/find-0022.png)
 
 IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 19.99美元
 
@@ -738,7 +738,7 @@ IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 1
 
 Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是一个妥妥的福利页面
 
-![](https://www.v2fy.com/asset/super-web/pix-p.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/pix-p.png)
 
 
 
@@ -746,7 +746,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 查看bilibili所有UP主粉丝量的排行榜
 
-![](https://www.v2fy.com/asset/super-web/bili-up.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/bili-up.png)
 
 直达地址: https://www.kanbilibili.com/rank/ups/fans
 
@@ -754,7 +754,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 查看B站番剧每月播放量最多的视频
 
-![](https://www.v2fy.com/asset/super-web/bili-m.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/bili-m.png)
 
 直达地址: https://www.kanbilibili.com/monthly
 
@@ -762,10 +762,10 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 ## [S005《哔哩哔哩壁纸站》找哔哩哔哩壁纸娘领壁纸](https://space.bilibili.com/6823116#/album) 
 
-![](https://www.v2fy.com/asset/super-web/bi-dibu.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/bi-dibu.png)
 
 
-![](https://www.v2fy.com/asset/super-web/bizhi-008.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/bizhi-008.png)
 
 哔哩哔哩俗称小破站，「我有一个朋友」几乎天天都要打开小破站，B站的内容确实很丰富，官方也会发一些 B站看板娘（22和33）的壁纸，发壁纸的链接在**B站底部**，打开链接后，会看到「壁纸娘」的主页，里面的壁纸可以随意下载，作为手机或电脑的壁纸
 
@@ -774,9 +774,9 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 ## [S004《抖音短视频无水印解析下载》通过抖音视频分享链接下载抖音原片~](http://tool.liumingye.cn/douyin/) 
 
 
-![](https://www.v2fy.com/asset/super-web/dou-005.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/dou-005.png)
 
-![](https://www.v2fy.com/asset/super-web/001.gif)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/001.gif)
 
 
 ## [S003《Windows系统一句命令激活》Windows系统激活](https://v0v.bid/) 
@@ -785,14 +785,14 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 网站的功能非常简单，唯一的功能就是激活windows，特色是简单好用!
 
-![](https://www.v2fy.com/asset/super-web/win-3.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/win-3.png)
 
 如果激活过程报错，可以[参考这个页面](https://v0v.bid/kms.html)
 
 
 ## [S002《I tell you》Windows系统各版本纯净镜像](https://msdn.itellyou.cn/)
 
-![](https://www.v2fy.com/asset/super-web/itellyou-001.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/itellyou-001.png)
 
 
 I tell you 提供从Windows98 之后时间段的所有镜像，如果你需要重装系统，或者安装虚拟机，可以从这里下载到纯净的ISO  Windows镜像, 镜像提供了p2p下载链接，下载速度非常快，而且提供了sha1码以供校验，避免镜像被窜改，p2p下载软件推荐免费的utorrent 
@@ -801,27 +801,27 @@ I tell you 提供从Windows98 之后时间段的所有镜像，如果你需要�
 
 ## [S001《懒得勤快》硬刚业界毒瘤「马克丁」](https://masuit.com/) 
 
-![](https://www.v2fy.com/asset/superweb-001-masuit_com/002.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/002.png)
 
 正义伙伴思杰「马克丁」重新定义了「正版软件」，国内全网很难找到「马克丁」旗下代理软件的绿色版，但《懒得勤快》站长选择硬刚到底，直接给「马克丁」代理软件的绿色版做了一个[「稀缺资源统一下载地址页」](https://masuit.com/misc/5)合集，放到了自己的网站上，为了防止屏蔽, 直接使用IP加端口的分享方式，哈哈，真的强！ （如果到《懒得勤快》网站搜「马克丁」，你基本能搜到「马克丁」的所有黑料，甚至连[表情包](https://masuit.com/1345/%E9%A9%AC%E5%85%8B%E4%B8%81)都有！）
 
 
-![](https://www.v2fy.com/asset/super-web/masuit_004.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/masuit_004.png)
 
 
 如果你喜欢看各种毒瘤公司的黑料，可以到[曝光台](https://masuit.com/cat/43)
 
-![](https://www.v2fy.com/asset/super-web/lan-001.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/lan-001.png)
 
 
 
-![](https://www.v2fy.com/asset/jili/1.jpg)
-![](https://www.v2fy.com/asset/jili/2.jpg)
-![](https://www.v2fy.com/asset/jili/3.jpg)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/1.jpg)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/2.jpg)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/3.jpg)
 
 
 ## 赞助打赏
 
 
-![](https://www.v2fy.com/asset/qr/3qr.png)
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/3qr.png)
 
