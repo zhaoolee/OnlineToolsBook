@@ -17,6 +17,7 @@
 
 **双倍快乐:** 发掘优质在线工具时，我找到很多惊艳的资源网站，这些网站也被我收录了进来～
 
+
 ![](https://www.v2fy.com/asset/jili/4.png)
 
 
@@ -29,9 +30,14 @@
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+**说明：T开头的为工具类，S开头的为资源类**
+
 ---start---
 
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
+
+
+[S031 《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面](https://www.v2fy.com/p/T032_idea/)
 
 
 [T023《Savefrom》下载YouTube视频](https://www.v2fy.com/p/T023-netfrom/)
@@ -210,7 +216,6 @@
 
 
 ## 在线工具秘籍
-
 
 
 #### [022《OCR》谷歌免费OCR在线中英文识别](https://www.v2fy.com/p/022-ocr/)
