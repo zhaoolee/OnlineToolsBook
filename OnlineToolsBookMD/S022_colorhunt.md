@@ -1,5 +1,5 @@
 ---
-title: 022《Colorhunt》提供现成的配色案例
+title: S022《Colorhunt》提供现成的配色案例
 ---
 
 
