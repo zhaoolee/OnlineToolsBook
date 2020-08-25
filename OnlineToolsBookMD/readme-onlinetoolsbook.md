@@ -37,9 +37,6 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
-[S031 《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面](https://www.v2fy.com/p/T032_idea/)
-
-
 [T023《Savefrom》下载YouTube视频](https://www.v2fy.com/p/T023-netfrom/)
 
 
@@ -107,6 +104,12 @@
 
 
 [T001《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/T001-photopea/)
+
+
+[S031 《Adobe全家桶嬴政天下版获取》](https://www.v2fy.com/p/S033_adobe/)
+
+
+[S031 《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面](https://www.v2fy.com/p/S032_idea/)
 
 
 [S031 《Emoji宝典》玩转Emoji](https://www.v2fy.com/p/S031_emojipedia/)
