@@ -2,20 +2,21 @@
 
 ![](https://www.v2fy.com/asset/jili/14.png)
 
-# 在线工具秘籍 OnlineToolsBook
+# 「在线工具秘籍」 OnlineToolsBook
 
-🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
+🍭「在线工具秘籍」,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 
 
-在线工具秘籍Github永久开源地址：[https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+「在线工具秘籍」Github永久开源地址：[https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
 
----
 
 ## 「在线工具秘籍」是什么？ 
 
 从用户角度出发，「理想的工具应该是无需安装, 打开浏览器即可使用」 也就是所谓的在线工具。由于优质的在线工具并不容易被人发掘, 发掘到也不一定能快速上手, 所以我打造了这个「在线工具秘籍」项目，为在线工具写一本优质说明书,让在线工具造福人类~
 
-**双倍快乐:** 发掘优质在线工具时，我找到很多惊艳的资源网站，这些网站也被我收录了进来～
+## 双倍快乐
+
+发掘优质在线工具时，我找到很多**惊艳的资源网站**，这些惊艳的网站网站也被我收录了进来～
 
 
 ![](https://www.v2fy.com/asset/jili/4.png)
@@ -224,7 +225,32 @@
 ## 在线工具秘籍
 
 
-#### [022《OCR》谷歌免费OCR在线中英文识别](https://www.v2fy.com/p/022-ocr/)
+#### [T024《简洁艺术二维码生成》参数化二维码生成器](https://www.v2fy.com/p/T024-qrbtf/)
+
+
+
+
+![arbtf_qr](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T024-qrbtf.assets/arbtf_qr.gif)
+
+生成二维码的在线工具有很多, [https://qrbtf.com/](https://qrbtf.com/) 生成的二维码非常简洁, 且有艺术感, 是非常值得收藏的小工具
+
+
+[T023《Savefrom》下载YouTube视频](https://www.v2fy.com/p/T023-netfrom/)
+
+
+
+
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T023-netfrom.assets/small-youtube-netfrom-20200825153034553.gif)
+
+
+
+当一个商业公司可以一手遮天时，会清理不利于自己业务发展的因素。即便是世界最强的互联网公司Google， 为了保护自己的旗下的YouTube业务，也把Google旗下Chrome扩展程序商店所有可下载YouTube视频的程序完全下架了，而对于下载哔哩哔哩视频这类视频下载扩展却毫无动作，而能违背Google这一政策的，唯有其它网站的在线视频下载服务... 互联网大厂们疯狂吞噬在线用户的流量和时长，借助自己的影响力，将不合理的规则变得合理，长此以往，互联网终将走向集权... 
+
+
+
+
+
+#### [T022《OCR》谷歌免费OCR在线中英文识别](https://www.v2fy.com/p/022-ocr/)
 
 
 ![ocr-google](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/022-ocr.assets/ocr-google.gif)
@@ -233,7 +259,7 @@
 将截图存储到谷歌云盘,使用谷歌文档打开,即可自动完成OCR转换
 
 
-#### [021《Base64在线加密解密》解密技术论坛中的神秘邮箱](https://www.v2fy.com/p/021-b64/)
+#### [T021《Base64在线加密解密》解密技术论坛中的神秘邮箱](https://www.v2fy.com/p/021-b64/)
 
 
 ![2020-06-13-base64-decode](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/021-base64.assets/2020-06-13-base64-decode.gif)
@@ -241,7 +267,7 @@
 直接在网络论坛留下自己的**邮箱/手机号/qq号/微信号**并不安全, 使用base64可以对敏感进行一定的保护, 但base64和二维码类似,只是人眼不可读, 使用解密程序,可以轻松解析真实的信息, 所以base64只是一种**道德加密**, 可以防住不懂base64加密的人,  不能防止专业人士(程序员)解密
 
 
-#### [020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://www.v2fy.com/p/020-iloveimg/)
+#### [T020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://www.v2fy.com/p/020-iloveimg/)
 
 
 同时上传 GIF, JPG, PNG三种格式的图片做示范
@@ -252,7 +278,7 @@
 
 ![](https://www.v2fy.com/asset/020-iloveimg/233.png)
 
-#### [019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://www.v2fy.com/p/019-vip-movie/)
+#### [T019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://www.v2fy.com/p/019-vip-movie/)
 
 
 ![](https://www.v2fy.com/asset/019-vip-movie/0006.gif)
@@ -260,7 +286,7 @@
 
 《船长解析-vip视频在线解析》可以解析众多视频网站的vip视频，但并没有解析到最高画质，如果你对画质要求不是很高， 或者你经常使用手机小屏追剧，这个工具倒是能帮你省很多视频会员费
 
-#### [018《蓝奏云》蓝奏云存放2G大文件解决方案](https://www.v2fy.com/p/018-lanzou/)
+#### [T018《蓝奏云》蓝奏云存放2G大文件解决方案](https://www.v2fy.com/p/018-lanzou/)
 
 
 ![](https://www.v2fy.com/asset/017-lanzou/2_lanzou_2.gif)
@@ -268,7 +294,7 @@
 蓝奏云相比百度网盘真的是算是良心产品, 通过分卷压缩的方法, 可以破除100M的限制,愉快的上传各种大容量文件了
 
 
-#### [017《MyFreeMP3》在线下载QQ音乐，网易云音乐所有VIP歌曲](https://www.v2fy.com/p/017-liumingye_download_music/)
+#### [T017《MyFreeMP3》在线下载QQ音乐，网易云音乐所有VIP歌曲](https://www.v2fy.com/p/017-liumingye_download_music/)
 
 
 
@@ -279,25 +305,25 @@
 
 
 
-#### [016《拷贝兔》通过４个字符将文件共享到另一台电脑](https://www.v2fy.com/p/016-copy-tool/)
+#### [T016《拷贝兔》通过４个字符将文件共享到另一台电脑](https://www.v2fy.com/p/016-copy-tool/)
 
 ![](https://www.v2fy.com/asset/016-copy-tool/copy.gif)
 
 
-#### [015 《这是什么日番?》查找文豪野犬「脚踢子弹」在哪一集](https://www.v2fy.com/p/015-trace-moe/)
+#### [T015 《这是什么日番?》查找文豪野犬「脚踢子弹」在哪一集](https://www.v2fy.com/p/015-trace-moe/)
 
 
 ![](https://www.v2fy.com/asset/015-trace-moe/trace-moe.gif)
 
 
 
-#### [014《俄罗斯方块》玩转开源俄罗斯方块小游戏](https://www.v2fy.com/p/014-tetris/)
+#### [T014《俄罗斯方块》玩转开源俄罗斯方块小游戏](https://www.v2fy.com/p/014-tetris/)
 
 > ![](https://www.v2fy.com/asset/014-tetris/9c33a44ac8b8ed65a98d6a319dacf940.gif)
 
 俄罗斯方块是一个建设性的游戏，与中国的围棋相似，“国际象棋就是杀杀杀，围棋则重视构建领地，是建设性的，俄罗斯方块也是”。俄罗斯方块家喻户晓,老少皆宜
 
-#### [013《截图拼接工具》在线电影字幕拼接](https://www.v2fy.com/p/013-join-screenshots/)
+#### [T013《截图拼接工具》在线电影字幕拼接](https://www.v2fy.com/p/013-join-screenshots/)
 
 
 ![](https://www.v2fy.com/asset/013-join-screenshots/jietu.gif)
@@ -305,21 +331,21 @@
 
 当你看到电影中的一段经典台词, 想要分享给周边的好友时,截图拼接工具, 可以让你快速达成自己想要的效果
 
-#### [012《表情锅》在线制作「真香定律」表情包](https://www.v2fy.com/p/012-biaoqingguo/)
+#### [T012《表情锅》在线制作「真香定律」表情包](https://www.v2fy.com/p/012-biaoqingguo/)
 
 
 ![](https://www.v2fy.com/asset/012-biaoqingguo/daoqiongsi.gif)
 
 今天是2020年2月29日, 道琼斯指数单日下跌1000点,热度比较高的话题是「特朗普加农炮」,于是zhaoolee就琢磨着要做一张表情包纪念一下
 
-#### [011《Artbreeder》艺术投食者-美队与钢铁侠的融合](https://www.v2fy.com/p/011-artbreeder/)
+#### [T011《Artbreeder》艺术投食者-美队与钢铁侠的融合](https://www.v2fy.com/p/011-artbreeder/)
 
 
 ![](https://www.v2fy.com/asset/011-artbreeder/00011.gif)
 
 Arbreeder是一个可以体验数据模型训练成果的平台, 但Arbreeder的功能还远不止于此, 可以将多个人物的特征,层层结合, 产生子代, 然后调整子代的参数, 产出世界上不存在的面容
 
-#### [010《智能简笔画》实力画渣,在线丢人](https://www.v2fy.com/p/010-autodraw/)
+#### [T010《智能简笔画》实力画渣,在线丢人](https://www.v2fy.com/p/010-autodraw/)
 
 
 ![](https://www.v2fy.com/asset/autodraw/fish.gif)
@@ -328,7 +354,7 @@ Arbreeder是一个可以体验数据模型训练成果的平台, 但Arbreeder的
 Autodraw这款在线工具的思路很好, 根据用户描摹的线条,自动推荐出简笔画, 解决了触控板绘图线条不容易描摹的尴尬,另外这款工具的左侧工具栏真的非常简洁,而且十分够用,比Windows的画图软件要清新的多, 非常适合电脑中不想安装画图应用, 但又想打开网页画个图的创意工作者~
 
 
-#### [009《视频下载》全能视频在线下载工具](https://www.v2fy.com/p/009-urlgot/)
+#### [T009《视频下载》全能视频在线下载工具](https://www.v2fy.com/p/009-urlgot/)
 
 ![](https://www.v2fy.com/asset/urlgot/youtube.gif)
 
@@ -336,7 +362,7 @@ Autodraw这款在线工具的思路很好, 根据用户描摹的线条,自动推
 在线下载视频是一个老生常谈的问题, 理想的视频下载工具应该是下载在云端完成,然后从云端下载到本地, 开箱即用, 无需注册, 最好是免费, 支持的视频网站够多, 上面所说的点urlgot都具备了,而且还提供了画质选择, 单独下载音频等选项
 
 
-#### [008《诺基亚短信图片生成器》有内鬼，终止交易！](https://www.v2fy.com/p/008-noddl/)
+#### [T008《诺基亚短信图片生成器》有内鬼，终止交易！](https://www.v2fy.com/p/008-noddl/)
 
 
 
@@ -348,7 +374,7 @@ Autodraw这款在线工具的思路很好, 根据用户描摹的线条,自动推
 
 
 
-#### [007 《Upuptoyou》举牌小人在此为您服务](https://v2fy.com/p/007-upuptoyou/)
+#### [T007 《Upuptoyou》举牌小人在此为您服务](https://v2fy.com/p/007-upuptoyou/)
 
 ![](https://www.v2fy.com/asset/README/73604674-77485f80-45cf-11ea-8aec-76c6eb7ffe00.gif)
 
@@ -356,7 +382,7 @@ upuptoyou是一款非常有创意的小工具,可以用于表白,或节日送祝
 
 
 
-#### [006 《微信Markdown编辑器》转化Markdown到给微信特制的HTML](https://www.v2fy.com/p/006-md2wx/)
+#### [T006 《微信Markdown编辑器》转化Markdown到给微信特制的HTML](https://www.v2fy.com/p/006-md2wx/)
 
 ![](https://www.v2fy.com/asset/README/73590429-3c85ef00-451d-11ea-8c12-33f09e0eac45.gif)
 
@@ -364,7 +390,7 @@ Markdown语法简洁, 格式通用, **微信Markdown编辑器**可以将Markdown
 
 
 
-#### [005 《百度脑图》好用到不像百度产品的产品](https://www.v2fy.com/p/005-baidunaotu/)
+#### [T005 《百度脑图》好用到不像百度产品的产品](https://www.v2fy.com/p/005-baidunaotu/)
 
 
 ![](https://www.v2fy.com/asset/README/73585351-82ba5e80-44db-11ea-88e8-a817c1c7cfca.gif)
@@ -373,28 +399,28 @@ Markdown语法简洁, 格式通用, **微信Markdown编辑器**可以将Markdown
 
 
 
-#### [004 《Word Art》创建二维码文字云!](https://www.v2fy.com/p/004-word-art/)
+#### [T004 《Word Art》创建二维码文字云!](https://www.v2fy.com/p/004-word-art/)
 
 ![](https://www.v2fy.com/asset/README/73535907-a8098700-445f-11ea-94f2-5d5ce89bbb74.gif)
 
 
 将文字云图片添加到PPT, 或者海报中, 可以极大的提升设计的张力, 让高逼格的设计触手可得~
 
-#### [003 《求字体》快速识别图片中的文字字体](https://www.v2fy.com/p/003-qiuziti/)
+#### [T003 《求字体》快速识别图片中的文字字体](https://www.v2fy.com/p/003-qiuziti/)
 
 ![](https://www.v2fy.com/asset/README/73504194-8382c000-4409-11ea-93ff-b71107dc8bdf.gif)
 
 当我们看到图片中的有趣字体想要下载, 但又不知道字体名字的时候,可以从图片中裁剪单个有特色的文字,然后上传到求字体网进行识别
 
 
- #### [002 《GIF到MP4转换器》把20秒熊本熊GIF图发送给微信好友](https://www.v2fy.com/p/002-gif-to-mp4/)
+ #### [T002 《GIF到MP4转换器》把20秒熊本熊GIF图发送给微信好友](https://www.v2fy.com/p/002-gif-to-mp4/)
 
 ![](https://www.v2fy.com/asset/README/73356545-93998300-42d5-11ea-8ffa-12bc1c419436.gif)
 
 **GIF到MP4转换器**可以将100MB以内的gif图片转换为MP4,所有转换步骤通过网页在云端完成, gif转换为mp4后, 肉眼看不出清晰度的损失
 
 
-#### [001 《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/001-photopea/)
+#### [T001 《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/001-photopea/)
 
 ![](https://www.v2fy.com/asset/README/73324183-0c242380-4285-11ea-855d-b2235af6d97a.gif)
 
