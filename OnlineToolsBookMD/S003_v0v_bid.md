@@ -1,5 +1,5 @@
 ---
-title: 003《Windows系统一句命令激活》Windows系统激活
+title: S003《Windows系统一句命令激活》Windows系统激活
 ---
 
 ## 直达链接: [https://v0v.bid/](https://v0v.bid/)

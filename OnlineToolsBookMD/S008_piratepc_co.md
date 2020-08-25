@@ -1,5 +1,5 @@
 ---
-title: 008《Piratepc》分类详细的Piratepc绿色软件站
+title: S008《Piratepc》分类详细的Piratepc绿色软件站
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: 010《GetIntoPC》更新极快的绿色软件站
+title: S010《GetIntoPC》更新极快的绿色软件站
 ---
 
 

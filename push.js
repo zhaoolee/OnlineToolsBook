@@ -153,10 +153,33 @@ async function md_to_wordpress(){
 }
 
 
+async function create_index() {
+  return new Promise((resolve, reject) => {
+    const run_build = spawn("node", ["create_index.js"], {
+      cwd: path.join(__dirname, zhaoolee_md_dir)
+    });
+
+    run_build.stdout.on("data", async data => {
+      console.log(`stdout: ${data}`);
+    });
+
+    run_build.stderr.on("data", async data => {
+      console.log("data::", String(data));
+    });
+
+    run_build.on("close", async code => {
+      console.log("程序执行完成");
+      resolve();
+    });
+  });
+}
+
+
 
 // 进入项目名加MD文件夹,执行md_to_wordpress
 
 async function main() {
+  await create_index();
   await cp_readme_md();
   await md_to_wordpress();
 }

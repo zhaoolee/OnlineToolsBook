@@ -1,5 +1,5 @@
 ---
-title: 001《懒得勤快》硬刚业界毒瘤「马克丁」
+title: S001《懒得勤快》硬刚业界毒瘤「马克丁」
 ---
 
 ## 直达链接: [https://masuit.com/](https://masuit.com/)

@@ -1,5 +1,5 @@
 ---
-title: 002《I tell you》Windows系统各版本纯净镜像
+title: S002《I tell you》Windows系统各版本纯净镜像
 ---
 
 ## 直达链接： [https://msdn.itellyou.cn/](https://msdn.itellyou.cn/)
