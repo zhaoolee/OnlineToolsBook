@@ -10,11 +10,11 @@ title: T005《百度脑图》好用到不像百度产品的产品
 
 ## 界面效果
 
-![](https://www.v2fy.com/asset/005-baidunaotu/73585179-92d13e80-44d9-11ea-8ba0-2f5b1010edd7.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T005-baidunaotu.assets/73585179-92d13e80-44d9-11ea-8ba0-2f5b1010edd7.png)
 
 ## 可以不依赖鼠标完成节点的创建,删除,跳转
 
-![](https://www.v2fy.com/asset/005-baidunaotu/73585351-82ba5e80-44db-11ea-88e8-a817c1c7cfca.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T005-baidunaotu.assets/73585351-82ba5e80-44db-11ea-88e8-a817c1c7cfca.gif)
 
 
 常用快捷键: 
@@ -25,12 +25,12 @@ title: T005《百度脑图》好用到不像百度产品的产品
 
 官方快捷键表(仅做参考,不用都记住):
 
-![image](https://www.v2fy.com/asset/005-baidunaotu/73585421-3a4f7080-44dc-11ea-8291-d4cdd01d3bfa.png)
+![image](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T005-baidunaotu.assets/73585421-3a4f7080-44dc-11ea-8291-d4cdd01d3bfa.png)
 
 
 ## 节点支持插入超链接和图片
 
-![2020-02-01-11 10 48_after](https://www.v2fy.com/asset/005-baidunaotu/73586174-57883d00-44e4-11ea-803c-62048dbbd01a.gif)
+![2020-02-01-11 10 48_after](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T005-baidunaotu.assets/73586174-57883d00-44e4-11ea-803c-62048dbbd01a.gif)
 
 [上图gif超清图地址](https://user-images.githubusercontent.com/15868458/73586175-5820d380-44e4-11ea-85f5-9abf2d5c7515.gif)
 
@@ -39,7 +39,7 @@ title: T005《百度脑图》好用到不像百度产品的产品
 
 ## 关于外观
 
-![image](https://www.v2fy.com/asset/005-baidunaotu/73586346-d8e0cf00-44e6-11ea-845e-87a7125ff1d5.png)
+![image](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T005-baidunaotu.assets/73586346-d8e0cf00-44e6-11ea-845e-87a7125ff1d5.png)
 
 官方预制了一些中规中矩的导图样式, 以及配色方案, 也支持富文本编辑
 
@@ -49,7 +49,7 @@ title: T005《百度脑图》好用到不像百度产品的产品
 - 支持一键展开到特定层级节点
 - 支持对节点内关键词进行搜索
 
-![image](https://www.v2fy.com/asset/005-baidunaotu/73586386-4b51af00-44e7-11ea-8c80-18e6ea3d415e.png)
+![image](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T005-baidunaotu.assets/73586386-4b51af00-44e7-11ea-8c80-18e6ea3d415e.png)
 
 
 
@@ -58,11 +58,11 @@ title: T005《百度脑图》好用到不像百度产品的产品
 
 - 点击左上角百度脑图即可进行导入导出
 
-![image](https://www.v2fy.com/asset/005-baidunaotu/73587188-b43f2400-44f3-11ea-80c4-6ccc5d8a62af.png)
+![image](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T005-baidunaotu.assets/73587188-b43f2400-44f3-11ea-80c4-6ccc5d8a62af.png)
 
 
 
-![image](https://www.v2fy.com/asset/005-baidunaotu/73587197-f4060b80-44f3-11ea-8edb-1e636dc00dea.png)
+![image](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T005-baidunaotu.assets/73587197-f4060b80-44f3-11ea-8edb-1e636dc00dea.png)
 
 
 - 支持导入和导出的格式非常丰富
@@ -71,7 +71,7 @@ title: T005《百度脑图》好用到不像百度产品的产品
 
 导入支持的格式：KityMinder 格式(.km), 大纲文本(.txt), Markdown/GFM 格式(.md), Freemind 格式(.mm), XMind 格式(.xmind), MindManager 格式(.mmap)
 
-![image](https://www.v2fy.com/asset/005-baidunaotu/73586416-b8654480-44e7-11ea-93b4-b24283a1e175.png)
+![image](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T005-baidunaotu.assets/73586416-b8654480-44e7-11ea-93b4-b24283a1e175.png)
 
 
 这里推荐导出为Freemind格式,Freemind通用性好,市面上主流思维导图软件都支持

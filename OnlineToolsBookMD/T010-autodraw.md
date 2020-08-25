@@ -1,38 +1,38 @@
 ---
-title: T010《智能简笔画》实力画渣,在线丢人
+title: T010《智能简笔画》实力画渣, 在线画鱼
 ---
 在线直达地址: [https://www.autodraw.com/](https://www.autodraw.com/)
 
 ## 实力画渣, 在线画鱼(智能识图工具)
 
-![](https://www.v2fy.com/asset/autodraw/fish.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T010-autodraw.assets/fish.gif)
 
 ## 再画个鱼钩钓鱼(演示自由变换工具)
 
-![](https://www.v2fy.com/asset/autodraw/gou.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T010-autodraw.assets/gou.gif)
 
 
 ## 给鱼钩和鱼上个色(演示上色工具)
 
 
-![](https://www.v2fy.com/asset/autodraw/change-color.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T010-autodraw.assets/change-color.gif)
 
 
 
 ## 给画作配文字(演示文字工具)
 
-![](https://www.v2fy.com/asset/autodraw/jgdy.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T010-autodraw.assets/jgdy.gif)
 
 
 ## 画鱼点睛(演示填充工具)
 
 
-![](https://www.v2fy.com/asset/autodraw/eye.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T010-autodraw.assets/eye.gif)
 
 
 ## 稍微多整几条鱼(按住option/alt拖拽图像可以快速复制)
 
-![](https://www.v2fy.com/asset/autodraw/option.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T010-autodraw.assets/option.gif)
 
 
 
@@ -44,7 +44,7 @@ title: T010《智能简笔画》实力画渣,在线丢人
 
 导出的图片非常高清(实力画渣, 在线丢人)
 
-![](https://www.v2fy.com/asset/autodraw/autodraw-fish.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T010-autodraw.assets/autodraw-fish.png)
 
 
 

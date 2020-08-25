@@ -16,5 +16,5 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 即可收到带有100张狗狗图片的数组
 
-![](https://www.v2fy.com/asset/super-web/dogserver.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S024_shibe_online.assets/dogserver-20200825161117051.png)
 

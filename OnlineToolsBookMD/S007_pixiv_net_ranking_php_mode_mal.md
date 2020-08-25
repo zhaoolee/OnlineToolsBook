@@ -11,7 +11,7 @@ title: S007《Pixiv福利插画!year!》插画P站最受男性喜欢排行榜资
 
 Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是一个妥妥的福利页面
 
-![](https://www.v2fy.com/asset/pix000005/p.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S007_pixiv_net_ranking_php_mode_mal.assets/p.png)
 
 
 

@@ -10,7 +10,7 @@ title: T023《Savefrom》下载YouTube视频
 
 Youtube是Google旗下全球最大的视频分享平台,Youtube有大量的视频创作者(相当于哔哩哔哩的Up主), 被称为Youtuber, 创作了大量有趣有料的精彩视频。
 
-![youtube-down](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/023-netfrom.assets/youtube-down.png)
+![youtube-down](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T023-netfrom.assets/youtube-down.png)
 
 Youtube是一个海外网站, 国内无法直接访问, Youtube为了创收, 允许视频创作者往视频中插入大量广告, 观看体验远不如国内无广告的B站, 被国人谐音为**有土鳖**或者**油管**... 
 
@@ -21,7 +21,7 @@ Youtube是一个海外网站, 国内无法直接访问, Youtube为了创收, 允
 
 
 
-![image-20200819172418010](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/023-netfrom.assets/image-20200819172418010.png)
+![image-20200819172418010](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T023-netfrom.assets/image-20200819172418010.png)
 
 
 
@@ -35,7 +35,7 @@ Youtube是一个海外网站, 国内无法直接访问, Youtube为了创收, 允
 
 
 
-![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/023-netfrom.assets/small-youtube-netfrom.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T023-netfrom.assets/small-youtube-netfrom-20200825153034553.gif)
 
 
 

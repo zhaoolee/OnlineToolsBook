@@ -9,11 +9,11 @@ Artbreeder的中文直译为「艺术饲养员」,是一个机器学习合成艺
 
 我们选择一张美队和Air Man的合照
 
-![](https://www.v2fy.com/asset/011-artbreeder/man.jpg)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/man.jpg)
 
 截取二人头像
 
-![](https://www.v2fy.com/asset/011-artbreeder/0012.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/0012.png)
 
 
 然后通过页面 
@@ -38,10 +38,10 @@ artbreeder会自动对上传图片的进行特征处理,处理后效果如图所
 ## 查看合成效果
 
 
-![](https://www.v2fy.com/asset/011-artbreeder/ab.jpg)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/ab.jpg)
 
 
-![](https://www.v2fy.com/asset/011-artbreeder/00011.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/00011.gif)
 
 
 
@@ -49,21 +49,21 @@ artbreeder会自动对上传图片的进行特征处理,处理后效果如图所
 ## 也可以试下女性角色
 
 
-![](https://www.v2fy.com/asset/011-artbreeder/sx.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/sx.png)
 
 
-![](https://www.v2fy.com/asset/011-artbreeder/0033.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/0033.gif)
 
 
 ## 雷神与拜月教主
 
-![](https://www.v2fy.com/asset/011-artbreeder/leishen-baiyuejiaozhu.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/leishen-baiyuejiaozhu.gif)
 
 
 
 ## 范闲与二皇子
 
-![](https://www.v2fy.com/asset/011-artbreeder/fanxian-erhangzi.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/fanxian-erhangzi.gif)
 
 
 
@@ -71,13 +71,13 @@ artbreeder会自动对上传图片的进行特征处理,处理后效果如图所
 ## 美国队长与学友
 
 
-![](https://www.v2fy.com/asset/011-artbreeder/xueyou-meidui.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/xueyou-meidui.gif)
 
 
 
 ## 胡歌与莱昂纳多
 
-![](https://www.v2fy.com/asset/011-artbreeder/huge-jack.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/huge-jack.gif)
 
 
 
@@ -88,7 +88,7 @@ artbreeder会自动对上传图片的进行特征处理,处理后效果如图所
 
 
 
-![](https://www.v2fy.com/asset/011-artbreeder/guajie-nvwu.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/guajie-nvwu.gif)
 
 
 
@@ -96,13 +96,13 @@ artbreeder会自动对上传图片的进行特征处理,处理后效果如图所
 
 
 
-![](https://www.v2fy.com/asset/011-artbreeder/xingye-xiaolizi.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/xingye-xiaolizi.gif)
 
 
 ## 美国队长与华仔
 
 
-![](https://www.v2fy.com/asset/011-artbreeder/meidui-huazai.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/meidui-huazai.gif)
 
 
 
@@ -110,7 +110,7 @@ artbreeder会自动对上传图片的进行特征处理,处理后效果如图所
 
 ## 调整人物的面部数据
 
-![](https://www.v2fy.com/asset/011-artbreeder/sy.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/sy.gif)
 
 
 数据的指标很多, 甚至有反转性别的指标, 由于过于出戏, 我就不录gif了, 感兴趣的可以自己试一下
@@ -119,7 +119,7 @@ artbreeder会自动对上传图片的进行特征处理,处理后效果如图所
 
 
 
-![](https://www.v2fy.com/asset/011-artbreeder/tezheng.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T011-artbreeder.assets/tezheng.gif)
 
 
 操作的原理是,产生随机数, 随机扰乱一些面部特征的数据,滑块越往右,随机值越大,与上一代的差别也越大

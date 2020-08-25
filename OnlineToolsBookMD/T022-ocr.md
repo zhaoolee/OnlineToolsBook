@@ -10,7 +10,7 @@ title: T022《OCR》谷歌免费OCR在线中英文识别
 
 
 
-![ocr-google](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/022-ocr.assets/ocr-google.gif)
+![ocr-google](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T022-ocr.assets/ocr-google-20200825153355359.gif)
 
 
 
@@ -20,13 +20,13 @@ title: T022《OCR》谷歌免费OCR在线中英文识别
 
 
 
-![Snipaste_2020-06-13_17-40-06](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/022-ocr.assets/Snipaste_2020-06-13_17-40-06.png)
+![Snipaste_2020-06-13_17-40-06](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T022-ocr.assets/Snipaste_2020-06-13_17-40-06.png)
 
 
 
 ## 转换效果
 
-![Snipaste_2020-06-13_17-42-16](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/022-ocr.assets/Snipaste_2020-06-13_17-42-16.png)
+![Snipaste_2020-06-13_17-42-16](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T022-ocr.assets/Snipaste_2020-06-13_17-42-16.png)
 
 
 

@@ -8,7 +8,7 @@ title: S005《哔哩哔哩壁纸站》找哔哩哔哩壁纸娘领壁纸
 
 
 
-![](https://www.v2fy.com/asset/super-web/bi-dibu.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S005_space_bilibili_album.assets/bi-dibu.png)
 
 
 ![](https://www.v2fy.com/asset/super-web/bizhi-008.png)

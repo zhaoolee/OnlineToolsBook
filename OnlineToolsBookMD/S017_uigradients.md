@@ -13,7 +13,7 @@ title: S017《UiGradients》为PPT找到优质而渐变色背景
 
 
 
-![](https://www.v2fy.com/asset/super-web/uigradients.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S017_uigradients.assets/uigradients.png)
 
 
 UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢渐变色背景，可以尝试到这个网站寻宝

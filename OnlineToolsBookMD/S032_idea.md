@@ -8,13 +8,13 @@ title: S031 《程序员专用全家桶JetBrain》免费JetBrain全家桶激活�
 
 
 
-![image-20200825135143064](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032_idea.assets/image-20200825135143064.png)
+![image-20200825135143064](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S032_idea.assets/image-20200825135143064.png)
 
 
 
 这个页面主要用来发布Jetbrain产品的激活码
 
-![image-20200825135714114](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032_idea.assets/image-20200825135714114.png)
+![image-20200825135714114](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S032_idea.assets/image-20200825135714114.png)
 
 
 

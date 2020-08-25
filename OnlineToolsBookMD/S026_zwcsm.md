@@ -8,7 +8,7 @@ title: S026《今天中午吃什么》解决全人类的难题
 
 
 
-![](https://www.v2fy.com/asset/super-web/zwcsm.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S026_zwcsm.assets/zwcsm.png)
 
 
 

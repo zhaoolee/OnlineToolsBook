@@ -1,5 +1,5 @@
 ---
-title: S018《文章生成器》根据关键词生成一篇文章
+title: S018《狗屁不通文章生成器》根据关键词生成一篇文章
 ---
 
 
@@ -11,7 +11,7 @@ title: S018《文章生成器》根据关键词生成一篇文章
 
 以世界级难题「中午吃什么」为例，生成一篇文章
 
-![](https://www.v2fy.com/asset/super-web/shengchengqi.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S018_bull_shit_generator.assets/shengchengqi.png)
 
 这个网页由github开源项目「狗屁不通文章生成器」改造而来,开源地址:https://github.com/menzi11/BullshitGenerator
 

@@ -13,14 +13,14 @@ title: S031 《Emoji宝典》玩转Emoji
 Emoji是一张字符画,可以在广袤的字符中,吸引到你的注意力
 
 比如在日常聊天中
-![](https://www.v2fy.com/asset/031-emojipedia/wx.jpg)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S031_emojipedia.assets/wx.jpg)
 
 
 在github的项目介绍中
 
-![](https://www.v2fy.com/asset/031-emojipedia/vue.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S031_emojipedia.assets/vue.png)
 
-![](https://www.v2fy.com/asset/031-emojipedia/ChromeAppheroes.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S031_emojipedia.assets/ChromeAppheroes.png)
 
 
 
@@ -29,12 +29,12 @@ Emoji是一张字符画,可以在广袤的字符中,吸引到你的注意力
 甚至在网站的一级标题中
 
 
-![](https://www.v2fy.com/asset/031-emojipedia/landeqink.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S031_emojipedia.assets/landeqink.png)
 
 
 
 
-![](https://www.v2fy.com/asset/031-emojipedia/v2fy.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S031_emojipedia.assets/v2fy.png)
 
 
 
@@ -43,7 +43,7 @@ Emoji是一张字符画,可以在广袤的字符中,吸引到你的注意力
 
 切换到微软输入法，然后按`Win+.`组合键 （同时按下**Windows徽标键**和**句号**）,然后点击emoji表情就可以了
 
-![](https://www.v2fy.com/asset/031-emojipedia/win-emoji.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S031_emojipedia.assets/win-emoji.gif)
 
 
 
@@ -51,7 +51,7 @@ Emoji是一张字符画,可以在广袤的字符中,吸引到你的注意力
 
 切换到Mac自带的输入法，然后按`Control+Command+space`组合键 （同时按下**Control**和**Command**和**空格键**）,然后点击emoji表情就可以了
 
-![](https://www.v2fy.com/asset/031-emojipedia/mac-e.gif)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S031_emojipedia.assets/mac-e.gif)
 
 
 ## 如何成为Emoji专家
@@ -59,21 +59,21 @@ Emoji是一张字符画,可以在广袤的字符中,吸引到你的注意力
 
 直达链接: [https://emojipedia.org/](https://emojipedia.org/)
 
-![](https://www.v2fy.com/asset/031-emojipedia/emojipedia.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S031_emojipedia.assets/emojipedia.png)
 
 #### eojipedia.org提供了各个平台的Emoji的高清图片
 
 
-![](https://www.v2fy.com/asset/031-emojipedia/platforms-ver.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S031_emojipedia.assets/platforms-ver.png)
 
 #### 点击平台对应的超链接,即可看到当前平台的高清emoji表情图
 
-![](https://www.v2fy.com/asset/031-emojipedia/emoji-apple.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S031_emojipedia.assets/emoji-apple.png)
 
 
 #### 点击上图中的Emoji表情, 即可跳转到详情页,详情页有当前表情各版本的样式,也提供了一键Copy的功能按钮
 
-![](https://www.v2fy.com/asset/031-emojipedia/emoji-cp.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S031_emojipedia.assets/emoji-cp.png)
 
 
 ## 小结

@@ -37,6 +37,9 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
+[T024《简洁艺术二维码生成》参数化二维码生成器](https://www.v2fy.com/p/T024-qrbtf/)
+
+
 [T023《Savefrom》下载YouTube视频](https://www.v2fy.com/p/T023-netfrom/)
 
 
@@ -76,7 +79,7 @@
 [T011《Artbreeder》艺术投食者-美队与钢铁侠的融合](https://www.v2fy.com/p/T011-artbreeder/)
 
 
-[T010《智能简笔画》实力画渣,在线丢人](https://www.v2fy.com/p/T010-autodraw/)
+[T010《智能简笔画》实力画渣, 在线画鱼](https://www.v2fy.com/p/T010-autodraw/)
 
 
 [T009《视频下载》全能视频在线下载工具](https://www.v2fy.com/p/T009-urlgot/)
@@ -106,7 +109,7 @@
 [T001《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/T001-photopea/)
 
 
-[S031 《Adobe全家桶嬴政天下版获取》](https://www.v2fy.com/p/S033_adobe/)
+[S031 《Adobe全家桶嬴政天下版获取》vposy是造福人民的好代表](https://www.v2fy.com/p/S033_adobe/)
 
 
 [S031 《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面](https://www.v2fy.com/p/S032_idea/)
@@ -115,10 +118,10 @@
 [S031 《Emoji宝典》玩转Emoji](https://www.v2fy.com/p/S031_emojipedia/)
 
 
-[S030《贪吃蛇》适配移动端和PC端的小游戏](https://www.v2fy.com/p/S030_playsnake_org/)
+[S030《网页版贪吃蛇》适配移动端和PC端的小游戏](https://www.v2fy.com/p/S030_playsnake_org/)
 
 
-[S029《假装操作系统升级》摸鱼基本技能](https://www.v2fy.com/p/S029_fakeupdate_net/)
+[S029《假装Win10系统升级》摸鱼基本技能](https://www.v2fy.com/p/S029_fakeupdate_net/)
 
 
 [S028《高清MP4》热门电影电视剧超清画渣下载](https://www.v2fy.com/p/S028_mp4ba/)
@@ -151,7 +154,7 @@
 [S019《IMDB电影榜单》找到全世界的好电影](https://www.v2fy.com/p/S019_imdb250/)
 
 
-[S018《文章生成器》根据关键词生成一篇文章](https://www.v2fy.com/p/S018_bull_shit_generator/)
+[S018《狗屁不通文章生成器》根据关键词生成一篇文章](https://www.v2fy.com/p/S018_bull_shit_generator/)
 
 
 [S017《UiGradients》为PPT找到优质而渐变色背景](https://www.v2fy.com/p/S017_uigradients/)

@@ -7,6 +7,6 @@ title: S004《抖音短视频无水印解析下载》通过抖音视频分享链
 
 
 
-![](https://www.v2fy.com/asset/superweb-003-douyin/005.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S004_tool_liumingye_cn.assets/005.png)
 
 ![](https://www.v2fy.com/asset/super-web/001.gif)

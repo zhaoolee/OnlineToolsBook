@@ -10,19 +10,19 @@ title: S013《一言》总有那么几个句子能穿透你的心
 
 
 **打开网页就会随机弹出一句触动心灵的句子**
-![](https://www.v2fy.com/asset/super-web/hitokoto-yiyan.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S013_hitokoto.assets/hitokoto-yiyan.png)
 
 
 网站提供了第三方接口,任何人可以通过接口`https://v1.hitokoto.cn/`获取一句话
 
-![](https://www.v2fy.com/asset/super-web/api.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S013_hitokoto.assets/api.png)
 
 
 也可以引用到自己到网站
 
 效果:
 
-![](https://www.v2fy.com/asset/super-web/yiyan-001.png)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S013_hitokoto.assets/yiyan-001.png)
 
 代码块:
 

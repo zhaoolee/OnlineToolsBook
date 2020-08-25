@@ -10,7 +10,11 @@ title: S006《哔哩哔哩榜单》如何阅片无数?看哔哩哔哩大数据�
 
 ## 查看bilibili所有UP主粉丝量的排行榜
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/up.png)
+
+
+![img](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S006_kanbilibili.assets/up.png)
+
+
 
 直达地址: https://www.kanbilibili.com/rank/ups/fans
 
@@ -18,8 +22,12 @@ title: S006《哔哩哔哩榜单》如何阅片无数?看哔哩哔哩大数据�
 
 ## 查看B站番剧每月播放量最多的视频
 
-![](https://raw.githubusercontent.com/zhaoolee/SuperWeb/master/README/m.png)
 
-直达地址: https://www.kanbilibili.com/monthly
+
+
+
+![img](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S006_kanbilibili.assets/m.png)
+
+直达地址: [https://www.kanbilibili.com/monthly](https://www.kanbilibili.com/monthly)
 
 这个页面属于月刊的性质, 在这里可以找到 2016年1月以来,每月精彩视频的清单, 如果你喜欢视频考古,这个页面能帮你省掉很
