@@ -11,10 +11,11 @@
 
 ---
 
-## 「在线工具秘籍」有啥用？ 
+## 「在线工具秘籍」是什么？ 
 
 从用户角度出发，「理想的工具应该是无需安装, 打开浏览器即可使用」 也就是所谓的在线工具。由于优质的在线工具并不容易被人发掘, 发掘到也不一定能快速上手, 所以我打造了这个「在线工具秘籍」项目，为在线工具写一本优质说明书,让在线工具造福人类~
 
+**双倍快乐:** 发掘优质在线工具时，我找到很多惊艳的资源网站，这些网站也被我收录了进来～
 
 ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/4.png)
 
@@ -182,9 +183,6 @@
 ![2020-06-13-base64-decode](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/2020-06-13-base64-decode.gif)
 
 直接在网络论坛留下自己的**邮箱/手机号/qq号/微信号**并不安全, 使用base64可以对敏感进行一定的保护, 但base64和二维码类似,只是人眼不可读, 使用解密程序,可以轻松解析真实的信息, 所以base64只是一种**道德加密**, 可以防住不懂base64加密的人,  不能防止专业人士(程序员)解密
-
-
-
 
 
 #### [020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://www.v2fy.com/p/020-iloveimg/)
