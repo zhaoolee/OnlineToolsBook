@@ -1,5 +1,5 @@
 ---
-title: 010《智能简笔画》实力画渣,在线丢人
+title: T010《智能简笔画》实力画渣,在线丢人
 ---
 在线直达地址: [https://www.autodraw.com/](https://www.autodraw.com/)
 

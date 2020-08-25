@@ -1,5 +1,5 @@
 ---
-title: 004 《Word Art》创建二维码文字云!
+title: T004《Word Art》创建二维码文字云!
 ---
 直达链接: [https://wordart.com/create](https://wordart.com/create)
 

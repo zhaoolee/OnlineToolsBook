@@ -79,6 +79,8 @@ function get_top_info(md_file_pathname, key) {
 function create_index_info(title_and_filename_list) {
   let index_info = "";
 
+  title_and_filename_list.reverse()
+
   let title_and_filename_list_length = title_and_filename_list.length;
 
   for (let m = 0; m < title_and_filename_list_length; m++) {

@@ -1,5 +1,5 @@
 ---
-title: 018《蓝奏云》蓝奏云存放2G大文件解决方案
+title: T018《蓝奏云》蓝奏云存放2G大文件解决方案
 ---
 
 在线直达地址：[https://lanzou.com/](https://lanzou.com/)

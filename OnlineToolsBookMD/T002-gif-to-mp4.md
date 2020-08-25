@@ -1,5 +1,5 @@
 ---
-title: 002 《GIF到MP4转换器》把20秒熊本熊GIF图发送给微信好友
+title: T002《GIF到MP4转换器》把20秒熊本熊GIF图发送给微信好友
 ---
 直达链接: [https://convertio.co/zh/gif-mp4/](https://convertio.co/zh/gif-mp4/)
 

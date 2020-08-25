@@ -1,5 +1,5 @@
 ---
-title: 012《表情锅》在线制作「真香定律」表情包
+title: T012《表情锅》在线制作「真香定律」表情包
 ---
 
 在线直达地址: [https://app.xuty.tk/static/app/index.html](https://app.xuty.tk/static/app/index.html)

@@ -1,5 +1,5 @@
 ---
-title: 016《拷贝兔》通过４个字符将文件共享到另一台电脑
+title: T016《拷贝兔》通过４个字符将文件共享到另一台电脑
 ---
 
 在线直达地址：[https://cp.anyknew.com/](https://cp.anyknew.com/)
