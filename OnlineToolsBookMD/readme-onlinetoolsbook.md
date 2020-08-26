@@ -38,6 +38,9 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
+[T024《Bitly》生成稳定全球通用的短链接](https://www.v2fy.com/p/T025-bitly/)
+
+
 [T024《简洁艺术二维码生成》参数化二维码生成器](https://www.v2fy.com/p/T024-qrbtf/)
 
 
