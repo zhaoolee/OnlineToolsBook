@@ -4,7 +4,7 @@
 
 # 「在线工具秘籍」 OnlineToolsBook
 
-🍭「在线工具秘籍」,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
+🍭「在线工具秘籍」, 为在线工具写一本优质开源中文说明书, 让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 
 
 「在线工具秘籍」Github永久开源地址：[https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
@@ -12,7 +12,7 @@
 
 ## 「在线工具秘籍」是什么？ 
 
-从用户角度出发，「理想的工具应该是无需安装, 打开浏览器即可使用」 也就是所谓的在线工具。由于优质的在线工具并不容易被人发掘, 发掘到也不一定能快速上手, 所以我打造了这个「在线工具秘籍」项目，为在线工具写一本优质说明书,让在线工具造福人类~
+从用户角度出发，**「理想的工具应该是无需安装, 打开浏览器即可使用」** 也就是所谓的在线工具。由于优质的在线工具并不容易被人发掘, 发掘到也不一定能快速上手, 所以我打造了这个[「在线工具秘籍」](https://github.com/zhaoolee/OnlineToolsBook) 项目，为在线工具写一本优质开源中文说明书,让在线工具造福人类~
 
 ## 双倍快乐
 
@@ -26,7 +26,7 @@
 
 ![0加1](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/jikemiji.png)
 
-公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 OnlineToolsBook (在线工具秘籍) , 欢迎关注~
+公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 [OnlineToolsBook (在线工具秘籍)](https://github.com/zhaoolee/OnlineToolsBook) , 欢迎关注~
 
 
 ## 目录(点击以下标题, 可以进入文章页~)
