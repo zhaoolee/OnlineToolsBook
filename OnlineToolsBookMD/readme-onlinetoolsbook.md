@@ -235,7 +235,8 @@
 生成二维码的在线工具有很多, [https://qrbtf.com/](https://qrbtf.com/) 生成的二维码非常简洁, 且有艺术感, 是非常值得收藏的小工具
 
 
-[T023《Savefrom》下载YouTube视频](https://www.v2fy.com/p/T023-netfrom/)
+
+####  [T023《Savefrom》下载YouTube视频](https://www.v2fy.com/p/T023-netfrom/)
 
 
 
@@ -319,7 +320,7 @@
 
 #### [T014《俄罗斯方块》玩转开源俄罗斯方块小游戏](https://www.v2fy.com/p/014-tetris/)
 
-> ![](https://www.v2fy.com/asset/014-tetris/9c33a44ac8b8ed65a98d6a319dacf940.gif)
+![](https://www.v2fy.com/asset/014-tetris/9c33a44ac8b8ed65a98d6a319dacf940.gif)
 
 俄罗斯方块是一个建设性的游戏，与中国的围棋相似，“国际象棋就是杀杀杀，围棋则重视构建领地，是建设性的，俄罗斯方块也是”。俄罗斯方块家喻户晓,老少皆宜
 
@@ -333,8 +334,8 @@
 
 #### [T012《表情锅》在线制作「真香定律」表情包](https://www.v2fy.com/p/012-biaoqingguo/)
 
-
 ![](https://www.v2fy.com/asset/012-biaoqingguo/daoqiongsi.gif)
+
 
 今天是2020年2月29日, 道琼斯指数单日下跌1000点,热度比较高的话题是「特朗普加农炮」,于是zhaoolee就琢磨着要做一张表情包纪念一下
 
@@ -427,10 +428,14 @@ Markdown语法简洁, 格式通用, **微信Markdown编辑器**可以将Markdown
 Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似, 经常被人们误以为是Photoshop的在线网页版, Photopea可以满足绝大多数图片修改需求, 更有趣的是, Photopea支持打开Sketch格式,对经常与Sketch打交道的设计师, 非常有诱惑力!
 
 
+**以上为工具类**
+
+---
+
+**以下为资源类**
 
 
-
-## [S031 《Emoji宝典》玩转Emoji](https://www.v2fy.com/p/031_emojipedia/)
+#### [S031 《Emoji宝典》玩转Emoji](https://www.v2fy.com/p/031_emojipedia/)
 
 
 ![](https://www.v2fy.com/asset/031-emojipedia/emoji-apple.png)
@@ -438,7 +443,7 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 通过emojipedia.org探索更多Emoji表情
 
 
-## [S030《贪吃蛇》适配移动端和PC端的小游戏](https://www.v2fy.com/p/S030_playsnake_org/)
+#### [S030《贪吃蛇》适配移动端和PC端的小游戏](https://www.v2fy.com/p/S030_playsnake_org/)
 
 ![](https://www.v2fy.com/asset/super-web/snake.png)
 
@@ -446,14 +451,14 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 一个在线贪吃蛇小游戏, PC端可以通过键盘上下左右键控制, 手机端可以通过滑动屏幕控制,初始速度有`慢速, 中速, 快速`三级别可选,点击屏幕可以暂停/继续游戏
 
 
-## [S029《假装操作系统升级》摸鱼基本技能](https://www.v2fy.com/p/S029_fakeupdate_net/)
+#### [S029《假装操作系统升级》摸鱼基本技能](https://www.v2fy.com/p/S029_fakeupdate_net/)
 
 ![](https://www.v2fy.com/asset/super-web/windowsupdate.png)
 
 选择网页右侧升级界面后,将网页全屏, 可以假装计算机升级,进而摸鱼
 
 
-## [S028《高清MP4》热门电影电视剧超清画渣下载](https://www.v2fy.com/p/S028_mp4ba/)
+#### [S028《高清MP4》热门电影电视剧超清画渣下载](https://www.v2fy.com/p/S028_mp4ba/)
 
 
 
@@ -463,7 +468,7 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 一个下载热播电影,电视剧,动漫资源的网站
 
-## [S027《MyFreeMP3》在线听QQ音乐，网易云音乐所有VIP歌曲](https://www.v2fy.com/p/S027_liumingye_music/)
+#### [S027《MyFreeMP3》在线听QQ音乐，网易云音乐所有VIP歌曲](https://www.v2fy.com/p/S027_liumingye_music/)
 
 
 ![](https://www.v2fy.com/asset/super-web/qingtian.png)
@@ -471,44 +476,24 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 全网最强音乐网页播放器,无需登录, 即可在线听QQ音乐, 网易云音乐
 
 
-## 在线 听QQ音乐独占曲目 周杰伦的「晴天」
+在线 听QQ音乐独占曲目 周杰伦的「晴天」
 
 ![](https://www.v2fy.com/asset/super-web/m001.gif)
 
 
-## 在线听 网易云音乐独占曲目 某科学超电磁炮 「sister's noise」 (中文译名「吵你妹」)
+在线听 网易云音乐独占曲目 某科学超电磁炮 「sister's noise」 (中文译名「吵你妹」)
 
 ![](https://www.v2fy.com/asset/super-web/m002.gif)
 
 
-## 关于搜索
+关于搜索
 
 作者为了避免版权纠纷，搜索栏切换的选项，并不包含**QQ音乐**或**网易云音乐**等关键词，默认第一个是QQ音乐，第二个是网易云音乐
 
 
 
 
-## 双击左上角图标，给播放器换任意背景
-
-![](https://www.v2fy.com/asset/super-web/m003.gif)
-
-当播放器背景为空时， 双击左上角图标可以换背景， 如果你已经为播放器选择了图片背景，如果再次双击左上角图标，则会刷新网页，网页刷新后，背景图也会消失
-
-
-## 下载封面和无损音乐
-
-![](https://www.v2fy.com/asset/super-web/m004.gif)
-
-![](https://www.v2fy.com/asset/super-web/lemon.jpg)
-
-
-## 小结：
-
-这是一个免费网页播放器，不支持登录，也不需要vip,PC和手机端通用，能满足你，「一个播放器听所有歌的简单愿望」
-
-
-
-## [S026《今天中午吃什么》解决全人类的难题](https://www.v2fy.com/p/S026_zwcsm/)
+#### [S026《今天中午吃什么》解决全人类的难题](https://www.v2fy.com/p/S026_zwcsm/)
 
 
 
@@ -519,7 +504,7 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
  麻辣烫 黄焖鸡 馄饨 肯德基 粥 饺子 寿司 米线 回锅肉 火锅 兰州拉面 麦当劳 沙县小吃 重庆小面 木桶饭 麻辣香锅 盖饭 麻婆豆腐 果汁 啤酒 汤圆 羊肉汤 糍粑 姜母鸭 三明治 小笼包 呷哺呷哺 烧烤 冒菜 螺蛳粉 酸辣粉 必胜客 生煎 锅包肉 溜肉段 披萨 烤肉饭 酸菜鱼 鸡巴 米饭 西葫芦炒鸡蛋 紫菜包饭 驴肉火烧 红牛 咖啡 牛奶 红茶 糯米饭 烧腊 年糕
 
 
-## [S025《人类象形图》专业火柴人素材站](https://www.v2fy.com/p/S025_pictogram2_com/)
+#### [S025《人类象形图》专业火柴人素材站](https://www.v2fy.com/p/S025_pictogram2_com/)
 
 
 
@@ -527,7 +512,7 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 ![](https://www.v2fy.com/asset/super-web/huochai.png)
 
-## [S024《狗站》随机获取一只狗狗图片](https://www.v2fy.com/p/S024_shibe_online/)
+#### [S024《狗站》随机获取一只狗狗图片](https://www.v2fy.com/p/S024_shibe_online/)
 
 
 
@@ -545,7 +530,7 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 
 
-## [S023《背景底纹》背景底纹汇聚于此](https://www.v2fy.com/p/S023_bg_patterns/)
+#### [S023《背景底纹》背景底纹汇聚于此](https://www.v2fy.com/p/S023_bg_patterns/)
 
 
 
@@ -553,7 +538,7 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 ![](https://www.v2fy.com/asset/super-web/bg.png)
 
-## [S022《Colorhunt》提供现成的配色案例](https://www.v2fy.com/p/S022_colorhunt/)
+#### [S022《Colorhunt》提供现成的配色案例](https://www.v2fy.com/p/S022_colorhunt/)
 
 
 
@@ -566,7 +551,7 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 
 
-## [S021《反斗软件》白送软件要不要？](https://www.v2fy.com/p/S021_free_apprcn_com/)
+#### [S021《反斗软件》白送软件要不要？](https://www.v2fy.com/p/S021_free_apprcn_com/)
 
 
 
@@ -578,7 +563,7 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 
 
-## [S020《品质最高的免费素材站Pexels》优质图片视频素材下载](https://www.v2fy.com/p/S020_pexels/)
+#### [S020《品质最高的免费素材站Pexels》优质图片视频素材下载](https://www.v2fy.com/p/S020_pexels/)
 
 
 免费无版权图片站有很多，而Pexels在免费的同时，更注重品质，通过Pexels，可以更容易找到高品质的图片或视频
@@ -593,7 +578,7 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 
 
-## [S019《IMDB电影榜单》找到全世界的好电影](https://www.v2fy.com/p/S019_imdb250/)
+#### [S019《IMDB电影榜单》找到全世界的好电影](https://www.v2fy.com/p/S019_imdb250/)
 
 
 
@@ -608,7 +593,7 @@ IMDB电影评分一直是业界标杆，通过IMDB的评分页面，你可以轻
 
 
 
-##  [S018《文章生成器》根据关键词生成一篇文章](https://www.v2fy.com/p/S018_bull_shit_generator/)
+#### [S018《文章生成器》根据关键词生成一篇文章](https://www.v2fy.com/p/S018_bull_shit_generator/)
 
 
 
@@ -626,7 +611,7 @@ IMDB电影评分一直是业界标杆，通过IMDB的评分页面，你可以轻
 
 由于这个项目娱乐性较强，于是被大家争相传
 
-## [S017《UiGradients》为PPT找到优质而渐变色背景](https://www.v2fy.com/p/S017_uigradients/)
+#### [S017《UiGradients》为PPT找到优质而渐变色背景](https://www.v2fy.com/p/S017_uigradients/)
 
 
 优秀的设计,大多遵循「多即使少」的原则，用一张优质的渐变色图片，做为PPT背景，可以整体提升你的PPT逼格
@@ -641,7 +626,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 
 
 
-## [S016《知乎根话题精华》知乎Top1000高票回答](https://www.v2fy.com/p/S016-zhihu-gen/)
+#### [S016《知乎根话题精华》知乎Top1000高票回答](https://www.v2fy.com/p/S016-zhihu-gen/)
 
 
 
@@ -654,7 +639,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 
 
 
-## [S015《下载4K画质Bing壁纸》](https://www.v2fy.com/p/S015_bing/)
+#### [S015《下载4K画质Bing壁纸》](https://www.v2fy.com/p/S015_bing/)
 
 
 
@@ -678,7 +663,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 ![](https://www.v2fy.com/asset/super-web/bing-2020-02-22-4k.jpg)
 
 
-## [S014《胡萝卜周》著名中文软件分享站](https://www.v2fy.com/p/S014_carrotchou_blog/)
+#### [S014《胡萝卜周》著名中文软件分享站](https://www.v2fy.com/p/S014_carrotchou_blog/)
 
 
 
@@ -689,7 +674,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 ![](https://www.v2fy.com/asset/super-web/huluobo.png)
 
 
-## [S013《一言》总有那么几个句子能穿透你的心](https://www.v2fy.com/p/S013_hitokoto/)
+#### [S013《一言》总有那么几个句子能穿透你的心](https://www.v2fy.com/p/S013_hitokoto/)
 
 
 
@@ -741,7 +726,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 
 
 
-## [S012《今日热榜》一张网页搜罗全网实时热点](https://www.v2fy.com/p/S012_tophub_today/)
+#### [S012《今日热榜》一张网页搜罗全网实时热点](https://www.v2fy.com/p/S012_tophub_today/)
 
 
 
@@ -780,7 +765,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 
 
 
-## [S011《Github趋势榜》了解Github当前最受关注的项目](https://www.v2fy.com/p/S011_github_trending/)
+#### [S011《Github趋势榜》了解Github当前最受关注的项目](https://www.v2fy.com/p/S011_github_trending/)
 
 
 
@@ -793,7 +778,7 @@ Github的Trending页面,相当于Github的首页推荐,github会把过去24小�
 当然这个榜单也经常会出现一些福利项目,比如某互联网公司的源码,或国内某著名搜索公司网盘的破解版,有时候甚至会出现一些颜色网站的爬虫,每日查看Github Trending榜,每日一个超神小技巧
 
 
-## [S010《GetIntoPC》更新极快的绿色软件站](https://www.v2fy.com/p/S010_igetintopc_com/)
+#### [S010《GetIntoPC》更新极快的绿色软件站](https://www.v2fy.com/p/S010_igetintopc_com/)
 
 
 
@@ -808,7 +793,7 @@ Get Into PC 软件版本更新极快，属于绿色软件的门户网站，非�
 CCleaner是清理系统垃圾，清理注册表的一款专家级软件： 官网售价 19.95美元
 
 
-## [S009《表特日报》订阅漂亮妹子的邮件服务](https://www.v2fy.com/p/S009_daily_beauty_xyz/)
+#### [S009《表特日报》订阅漂亮妹子的邮件服务](https://www.v2fy.com/p/S009_daily_beauty_xyz/)
 
 
 
@@ -818,7 +803,7 @@ CCleaner是清理系统垃圾，清理注册表的一款专家级软件： 官�
 ![](https://www.v2fy.com/asset/super-web/beauty_daily.png)
 
 
-## [S008《Piratepc》分类详细的Piratepc绿色软件站](https://www.v2fy.com/p/S008_piratepc_co/)
+#### [S008《Piratepc》分类详细的Piratepc绿色软件站](https://www.v2fy.com/p/S008_piratepc_co/)
 
 
 
@@ -837,7 +822,7 @@ IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 1
 
 
 
-## [S007《Pixiv福利插画!year!》插画P站最受男性喜欢排行榜资源](https://www.v2fy.com/p/S007_pixiv_net_ranking_php_mode_mal/)
+#### [S007《Pixiv福利插画!year!》插画P站最受男性喜欢排行榜资源](https://www.v2fy.com/p/S007_pixiv_net_ranking_php_mode_mal/)
 
 
 
@@ -847,7 +832,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 
 
-## [S006《哔哩哔哩榜单》如何阅片无数?看哔哩哔哩大数据榜单](https://www.v2fy.com/p/S006_kanbilibili/)
+#### [S006《哔哩哔哩榜单》如何阅片无数?看哔哩哔哩大数据榜单](https://www.v2fy.com/p/S006_kanbilibili/)
 
 
 
@@ -869,7 +854,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 这个页面属于月刊的性质, 在这里可以找到 2016年1月以来,每月精彩视频的清单, 如果你喜欢视频考古,这个页面能帮你省掉很
 
-## [S005《哔哩哔哩壁纸站》找哔哩哔哩壁纸娘领壁纸](https://www.v2fy.com/p/S005_space_bilibili_album/)
+#### [S005《哔哩哔哩壁纸站》找哔哩哔哩壁纸娘领壁纸](https://www.v2fy.com/p/S005_space_bilibili_album/)
 
 
 
@@ -882,7 +867,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 
 
-## [S004《抖音短视频无水印解析下载》通过抖音视频分享链接下载抖音原片~](https://www.v2fy.com/p/S004_tool_liumingye_cn/)
+#### [S004《抖音短视频无水印解析下载》通过抖音视频分享链接下载抖音原片~](https://www.v2fy.com/p/S004_tool_liumingye_cn/)
 
 
 
@@ -891,7 +876,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 ![](https://www.v2fy.com/asset/super-web/001.gif)
 
 
-## [S003《Windows系统一句命令激活》Windows系统激活](https://www.v2fy.com/p/S003_v0v_bid/)
+#### [S003《Windows系统一句命令激活》Windows系统激活](https://www.v2fy.com/p/S003_v0v_bid/)
 
 
 
@@ -904,7 +889,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 如果激活过程报错，可以[参考这个页面](https://v0v.bid/kms.html)
 
 
-## [S002《I tell you》Windows系统各版本纯净镜像](https://www.v2fy.com/p/S002_itellyou_cn/)
+#### [S002《I tell you》Windows系统各版本纯净镜像](https://www.v2fy.com/p/S002_itellyou_cn/)
 
 
 
@@ -916,7 +901,7 @@ I tell you 提供从Windows98 之后时间段的所有镜像，如果你需要�
 
 
 
-## [S001《懒得勤快》硬刚业界毒瘤「马克丁」](https://www.v2fy.com/p/S001_masuit_com/)
+#### [S001《懒得勤快》硬刚业界毒瘤「马克丁」](https://www.v2fy.com/p/S001_masuit_com/)
 
 ![](https://www.v2fy.com/asset/superweb-001-masuit_com/002.png)
 
@@ -939,8 +924,21 @@ I tell you 提供从Windows98 之后时间段的所有镜像，如果你需要�
 ![](https://www.v2fy.com/asset/jili/3.jpg)
 
 
-## 赞助打赏
+#### 赞助打赏
 
 
 ![](https://www.v2fy.com/asset/qr/3qr.png)
+
+
+
+#### 能看到这里的都是真爱! 发个彩蛋~
+
+[我珍藏的PC壁纸](https://www.v2fy.com/p/pc-wallpaper/)
+
+[我珍藏的移动版壁纸](https://www.v2fy.com/p/m-wallpaper/)
+
+[我收集的一些优质绿色的软件](https://www.v2fy.com/about/)
+
+
+
 
