@@ -38,7 +38,7 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
-[T024《Bitly》生成稳定全球通用的短链接](https://www.v2fy.com/p/T025-bitly/)
+[T025《Bitly》可能是全球最好用的短链接生成工具](https://www.v2fy.com/p/T025-bitly/)
 
 
 [T024《简洁艺术二维码生成》参数化二维码生成器](https://www.v2fy.com/p/T024-qrbtf/)
@@ -226,6 +226,13 @@
 
 
 ## 在线工具秘籍
+
+##### [T025《Bitly》可能是全球最好用的短链接生成工具](https://www.v2fy.com/p/T025-bitly/)
+
+![short](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T025-bitly.assets/short.gif)
+
+新浪的短链接工具,由于种种原因,越来越难用, bitly.com的短链接服务一直很坚挺,且自带统计功能, 推荐使用~
+
 
 
 #### [T024《简洁艺术二维码生成》参数化二维码生成器](https://www.v2fy.com/p/T024-qrbtf/)
