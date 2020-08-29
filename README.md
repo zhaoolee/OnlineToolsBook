@@ -38,7 +38,7 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
-[T026《Bigjpg》AI人工智能图片放大Win10超酷壁纸](https://www.v2fy.com/p/T026-bigjpg/)
+[T026《Bigjpg》AI人工智能图片无损放大Win10超酷壁纸(插画,老照片都可以哦~)](https://www.v2fy.com/p/T026-bigjpg/)
 
 
 [T025《Bitly》可能是全球最好用的短链接生成工具](https://www.v2fy.com/p/T025-bitly/)
@@ -235,6 +235,17 @@
 
 
 ## 在线工具秘籍
+
+
+#### [T026《Bigjpg》AI人工智能图片放大Win10超酷壁纸](https://www.v2fy.com/p/T026-bigjpg/)
+
+
+![t026-bigjpg](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/t026-bigjpg.gif)
+
+
+使用PS或PhotoZoom，放大的图片后依然有明显的模糊感，边缘的重影以及噪点。而Bigjpg使用最新人工智能深度学习技术——深度卷积神经网络。它会将噪点和锯齿的部分进行补充，实现图片的无损放大。Bigjpg对于动漫、插画图片的放大几乎可以说是完美的。将小图片放大后，无论是色彩、细节、边缘，效果都很出色。同时也兼容普通的照片放大。
+
+
 
 ##### [T025《Bitly》可能是全球最好用的短链接生成工具](https://www.v2fy.com/p/T025-bitly/)
 
