@@ -38,6 +38,9 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
+[T027《彩虹屁》快夸夸我!彩虹屁生成器](https://www.v2fy.com/p/T027-chp/)
+
+
 [T026《Bigjpg》AI人工智能图片无损放大Win10超酷壁纸(插画,老照片都可以哦~)](https://www.v2fy.com/p/T026-bigjpg/)
 
 
