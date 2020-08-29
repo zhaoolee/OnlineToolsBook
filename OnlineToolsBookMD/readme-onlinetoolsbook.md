@@ -113,6 +113,12 @@
 [T001《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/T001-photopea/)
 
 
+[S034  《精品Mac应用分享》如何获得macOS软件](https://www.v2fy.com/p/S035/)
+
+
+[S034  《精品Mac应用分享》如何获得macOS软件](https://www.v2fy.com/p/S034_macos_soft/)
+
+
 [S031 《Adobe全家桶嬴政天下版获取》vposy是造福人民的好代表](https://www.v2fy.com/p/S033_adobe/)
 
 
