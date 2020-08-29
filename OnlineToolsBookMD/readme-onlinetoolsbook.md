@@ -113,16 +113,16 @@
 [T001《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/T001-photopea/)
 
 
-[S034  《精品Mac应用分享》如何获得macOS软件](https://www.v2fy.com/p/S035/)
+[S035《获取最新绿色版Chrome》获取不检查更新的Chrome](https://www.v2fy.com/p/S035-green-chrome/)
 
 
 [S034  《精品Mac应用分享》如何获得macOS软件](https://www.v2fy.com/p/S034_macos_soft/)
 
 
-[S031 《Adobe全家桶嬴政天下版获取》vposy是造福人民的好代表](https://www.v2fy.com/p/S033_adobe/)
+[S033 《Adobe全家桶嬴政天下版获取》vposy是造福人民的好代表](https://www.v2fy.com/p/S033_adobe/)
 
 
-[S031 《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面](https://www.v2fy.com/p/S032_idea/)
+[S032 《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面](https://www.v2fy.com/p/S032_idea/)
 
 
 [S031 《Emoji宝典》玩转Emoji](https://www.v2fy.com/p/S031_emojipedia/)
