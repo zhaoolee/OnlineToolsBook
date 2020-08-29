@@ -1,5 +1,5 @@
 ---
-title: S032 《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面
+title: S032《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面
 ---
 
 

@@ -38,6 +38,9 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
+[T026《Bigjpg》AI人工智能图片放大Win10超酷壁纸](https://www.v2fy.com/p/T026-bigjpg/)
+
+
 [T025《Bitly》可能是全球最好用的短链接生成工具](https://www.v2fy.com/p/T025-bitly/)
 
 
@@ -116,16 +119,16 @@
 [S035《获取最新绿色版Chrome》获取不检查更新的Chrome](https://www.v2fy.com/p/S035-green-chrome/)
 
 
-[S034  《精品Mac应用分享》如何获得macOS软件](https://www.v2fy.com/p/S034_macos_soft/)
+[S034《精品Mac应用分享》如何获得macOS软件](https://www.v2fy.com/p/S034_macos_soft/)
 
 
-[S033 《Adobe全家桶嬴政天下版获取》vposy是造福人民的好代表](https://www.v2fy.com/p/S033_adobe/)
+[S033《Adobe全家桶嬴政天下版获取》vposy是造福人民的好代表](https://www.v2fy.com/p/S033_adobe/)
 
 
-[S032 《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面](https://www.v2fy.com/p/S032_idea/)
+[S032《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面](https://www.v2fy.com/p/S032_idea/)
 
 
-[S031 《Emoji宝典》玩转Emoji](https://www.v2fy.com/p/S031_emojipedia/)
+[S031《Emoji宝典》玩转Emoji](https://www.v2fy.com/p/S031_emojipedia/)
 
 
 [S030《网页版贪吃蛇》适配移动端和PC端的小游戏](https://www.v2fy.com/p/S030_playsnake_org/)

@@ -1,5 +1,5 @@
 ---
-title: S031 《Emoji宝典》玩转Emoji
+title: S031《Emoji宝典》玩转Emoji
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: S034  《精品Mac应用分享》如何获得macOS软件
+title: S034《精品Mac应用分享》如何获得macOS软件
 ---
 
 
