@@ -122,6 +122,9 @@
 [T001《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/T001-photopea/)
 
 
+[S036《100font》一个专门收集“免费商用字体”的网站](https://www.v2fy.com/p/S036-100font/)
+
+
 [S035《获取最新绿色版Chrome》获取不检查更新的Chrome](https://www.v2fy.com/p/S035-green-chrome/)
 
 
