@@ -125,6 +125,15 @@
 [T001《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/T001-photopea/)
 
 
+[S039《看片狂人》可直播院线电影的神奇网站](https://www.v2fy.com/p/S039-kpkuang/)
+
+
+[S036《iOS壁纸》获取各世代的iOS壁纸](https://www.v2fy.com/p/S038-iOS-wallpaper/)
+
+
+[S036《macOS壁纸》获取各世代的macOS壁纸](https://www.v2fy.com/p/S037-macOS-wallpaper/)
+
+
 [S036《100font》一个专门收集“免费商用字体”的网站](https://www.v2fy.com/p/S036-100font/)
 
 
