@@ -38,6 +38,9 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
+[T028《蔡徐坤打篮球》蔡徐坤!出来打球!](https://www.v2fy.com/p/T028-cxk/)
+
+
 [T027《彩虹屁》快夸夸我!彩虹屁生成器](https://www.v2fy.com/p/T027-chp/)
 
 
