@@ -2,10 +2,11 @@
 title: S006《哔哩哔哩榜单》如何阅片无数?看哔哩哔哩大数据榜单
 ---
 
+2020年8月30日更新: 这个网站暂时关闭了, 我找到一个临时替代网站,小伙伴们可以前往[https://www.biliob.com/](https://www.biliob.com/) 查看排名数据
+
 
 
 ## 直达链接: [https://www.kanbilibili.com](https://www.kanbilibili.com)
-
 
 
 ## 查看bilibili所有UP主粉丝量的排行榜
