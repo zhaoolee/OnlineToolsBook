@@ -263,6 +263,16 @@
 
 ## 在线工具秘籍
 
+#### [T030《图壳》免费超好用的图床，图片最稳定的家](https://www.v2fy.com/p/T030-imgkr/)
+
+![t030-imgkr](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/t030-imgkr-8843216.gif)
+
+
+
+图壳是一个免费提供存储图片能力的平台（俗称图床），用户体验极佳，打开网页即可上传图片，图壳由专业云服务商UCloud提供图片存储, 自带cdn，国内访问速度也不错
+
+
+
 #### [T029《云网盘之家》搜索百度网盘的小姐姐，云网盘之家](https://www.v2fy.com/p/T029-wowenda/)
 
 
@@ -528,6 +538,20 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 ---
 
 **以下为资源类**
+
+#### [S040《fxxkmakeding》Fxxk「集中国特色流氓软件之大成的马克丁」](https://www.v2fy.com/p/S040-fxxkmakeding/)
+
+
+
+![img](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/10.jpg)
+
+
+
+苏杰马克丁完全就是集中国特色流氓软件之大成，使用该公司的**正版授权**软件，您将获得：高于正版数倍的价格，盗版中的盗版的体验。
+
+
+
+
 
 
 #### [S039《看片狂人》可直播院线电影的神奇网站](https://www.v2fy.com/p/S039-kpkuang/)

@@ -24,7 +24,7 @@ title: T030《图壳》免费超好用的图床，图片最稳定的家
 
 简单说，图床就是一个在网络上存储图片的地方，目的是为了节省本地服务器空间，加快图片打开速度，主要是个人博客和网站使用
 
-![初音未来](T030-imgkr.assets/%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5.jpg)
+![初音未来](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T030-imgkr.assets/%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5.jpg)
 
 ## 图壳特色
 
