@@ -16,3 +16,8 @@ title: S001《懒得勤快》硬刚业界毒瘤「马克丁」
 如果你喜欢看各种毒瘤公司的黑料，可以到[曝光台](https://masuit.com/cat/43)
 
 ![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S001_masuit_com.assets/001-20200825160857705.png)
+
+
+
+## 备用马克丁资源欢迎访问 [Fxxk「集中国特色流氓软件之大成的马克丁」](https://www.v2fy.com/p/S040-fxxkmakeding/)
+
