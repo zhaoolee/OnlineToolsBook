@@ -1,5 +1,5 @@
 ---
-title: S036《macOS壁纸》获取各世代的macOS壁纸
+title: S037《macOS壁纸》获取各世代的macOS壁纸
 ---
 
 
@@ -83,3 +83,7 @@ https://zhaooolee.cowtransfer.com/s/cd37abb824d94e
 #### 备用百度网盘地址：
 
 链接：https://pan.baidu.com/s/1WSsgTtRdr-qqTU4SIlfa2g   提取码：yzfl
+
+## 小结
+
+Mac的历史比iPhone长很多，翻看Mac的早期壁纸，会给人一种穿越时空的感觉，预览历朝历代的Mac壁纸后，你会发现，**Mac壁纸的审美是一直在线的～***

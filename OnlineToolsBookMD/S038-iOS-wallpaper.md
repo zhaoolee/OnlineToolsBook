@@ -1,5 +1,5 @@
 ---
-title: S036《iOS壁纸》获取各世代的iOS壁纸
+title: S038《iOS壁纸》获取各世代的iOS壁纸
 ---
 
 
@@ -91,3 +91,7 @@ https://zhaooolee.cowtransfer.com/s/a850028cd8024b
 #### 备用百度网盘地址：
 
 链接：https://pan.baidu.com/s/1AerZFLKl2daoMUbJiXx-XA   提取码：lkhb
+
+## 小结
+
+iPhone的销量比Mac要好很多，与Mac壁纸相比，iOS壁纸也更为常见，每出一代iPhone，必然带着全新的壁纸，这不仅是在提醒用户该升级系统了，也是提醒用户**该换新手机了～**

@@ -128,10 +128,10 @@
 [S039《看片狂人》可直播院线电影的神奇网站](https://www.v2fy.com/p/S039-kpkuang/)
 
 
-[S036《iOS壁纸》获取各世代的iOS壁纸](https://www.v2fy.com/p/S038-iOS-wallpaper/)
+[S038《iOS壁纸》获取各世代的iOS壁纸](https://www.v2fy.com/p/S038-iOS-wallpaper/)
 
 
-[S036《macOS壁纸》获取各世代的macOS壁纸](https://www.v2fy.com/p/S037-macOS-wallpaper/)
+[S037《macOS壁纸》获取各世代的macOS壁纸](https://www.v2fy.com/p/S037-macOS-wallpaper/)
 
 
 [S036《100font》一个专门收集“免费商用字体”的网站](https://www.v2fy.com/p/S036-100font/)
@@ -256,6 +256,49 @@
 
 
 ## 在线工具秘籍
+
+#### [T029《云网盘之家》搜索百度网盘的小姐姐，云网盘之家](https://www.v2fy.com/p/T029-wowenda/)
+
+
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/strip-20200830152222319.gif)
+
+
+
+我今天尝试找一本名为**《解密唯美人像摄影:摄影师绝不告诉你的摄影与后期秘笈》**的摄影书，这本书我买了纸质版，内容不错，里面的小姐姐很好看，但装订很差劲，翻了几次，书籍直接散架，成了活页书。
+
+
+
+#### [T028《蔡徐坤打篮球》蔡徐坤!出来打球!](https://www.v2fy.com/p/T028-cxk/)
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/strip-20200830140813888.gif)
+
+
+
+三位网络暴力受害者聚在一起谈论遭受迫害的原因。第一个说：“我支持蔡徐坤。”第二个说：“我反对蔡徐坤。”第三个说：“我就是蔡徐坤。”
+
+
+
+
+#### [T027《彩虹屁》快夸夸我!彩虹屁生成器](https://www.v2fy.com/p/T027-chp/)
+
+
+
+![t027-chp](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/t027-chp.gif)
+
+
+
+谁的童话书又没合好，让公主跑出来了？
+
+我第一次见你，就想到了可乐、奶茶、巧克力，我最爱的甜蜜。
+
+夏季限定，本人半糖加冰。🍊
+
+心动于你只在一瞬之间，痴迷于你却是余生每天！
+
+与你一起的回忆被密封在琥珀里，每一个瞬间都闪闪发亮
+
+
 
 
 #### [T026《Bigjpg》AI人工智能图片放大Win10超酷壁纸](https://www.v2fy.com/p/T026-bigjpg/)
@@ -485,6 +528,78 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 **以下为资源类**
 
+
+#### [S039《看片狂人》可直播院线电影的神奇网站](https://www.v2fy.com/p/S039-kpkuang/)
+
+
+
+
+![s039-kpkuang](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/s039-kpkuang.gif)
+
+
+
+看片狂人是少有的无需VIP, 播放流畅，片源齐全的影视网站，由于不用考虑版权问题，它收集的影片种类，恐怕可以单挑**优爱腾B**中的任何一个
+
+
+#### [S038《iOS壁纸》获取各世代的iOS壁纸](https://www.v2fy.com/p/S038-iOS-wallpaper/)
+
+
+
+
+![https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/i001.png](https://www.v2fy.com/asset/0i/i001.png)
+
+iPhone的销量比Mac要好很多，与Mac壁纸相比，iOS壁纸也更为常见，每出一代iPhone，必然带着全新的壁纸，这不仅是在提醒用户该升级系统了，也是提醒用户**该换新手机了～**
+
+
+#### [S037《macOS壁纸》获取各世代的macOS壁纸](https://www.v2fy.com/p/S037-macOS-wallpaper/)
+
+![https://www.v2fy.com/asset/0i/macw001.png](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/macw001.png)
+
+
+
+Mac的历史比iPhone长很多，翻看Mac的早期壁纸，会给人一种穿越时空的感觉，预览历朝历代的Mac壁纸后，你会发现，**Mac壁纸的审美是一直在线的～***
+
+
+#### [S036《100font》一个专门收集“免费商用字体”的网站](https://www.v2fy.com/p/S036-100font/)
+
+
+
+
+
+![100font](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/100font.png)
+
+
+
+字体版权守护了字体开发者的版权， 也提升了全民的版权意识，作为世界上最大的工业化国家，对文化产品知识产权的保护，体现了我国经济文化全面崛起的决心, 如果不想为版权字体付费, 那就使用100font的无版权字体吧
+
+
+#### [S035《获取最新绿色版Chrome》获取不检查更新的Chrome](https://www.v2fy.com/p/S035-green-chrome/)
+
+
+![image-20200829135638000](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/image-20200829135638000.png)
+
+看到Chrome, 让我联想到**屠龙勇士终成恶龙**.
+
+
+#### [S034《精品Mac应用分享》如何获得macOS软件](https://www.v2fy.com/p/S034_macos_soft/)
+
+![image-20200829132434344](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/image-20200829132434344.png)
+
+Mac与iPhone不同, Mac可以安装各种来源的安装包, 因此,有很多网站提供了Mac付费软件的免费版安装包, 随着Apple鼓励软件开发商推行软件订阅制,相信会有越来越多的人选择使用第三方的软件包, 资本永远是贪得无厌的, 乔帮主在世时, 推行的软件买断制, 现在被魔改成软件订阅制, 以后每个月都要为几十个软件续费的场景,想想都觉得恐怖, 疯狂推行订阅制的结果, 会催生更多的软件分享网站, 因为世界上大多人并不富裕. 
+
+
+#### [S033《Adobe全家桶嬴政天下版获取》vposy是造福人民的好代表](https://www.v2fy.com/p/S033_adobe/)
+
+![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/1240-20200829131329822.png)
+
+淘宝商家也只是资源搬运工，真正去制作PS最新免费版安装包的另有其人，这个人就是微博博主 vposy
+
+#### [S032《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面](https://www.v2fy.com/p/S032_idea/)
+
+
+![image-20200825135143064](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/image-20200825135143064.png)
+
+如果你是一个程序员,即使不用JetBrain家的产品,也一定听说过WebStorm, IDEA等IDE的大名
 
 #### [S031 《Emoji宝典》玩转Emoji](https://www.v2fy.com/p/031_emojipedia/)
 
