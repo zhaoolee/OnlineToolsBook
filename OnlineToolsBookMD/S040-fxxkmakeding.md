@@ -40,7 +40,13 @@ title: S040《fxxkmakeding》Fxxk「集中国特色流氓软件之大成的马�
 
 ## 绿色版下载地址
 
-[https://www.fxxkmakeding.xyz/downloads.html](https://www.fxxkmakeding.xyz/downloads.html)
+[https://node4.mkdmirror.workers.dev/0:/](https://node4.mkdmirror.workers.dev/0:/)
+
+
+
+![fmkd](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/S040-fxxkmakeding.assets/fmkd.png)
+
+[https://node4.mkdmirror.workers.dev/0:/](https://node4.mkdmirror.workers.dev/0:/)
 
 ## 小结
 
