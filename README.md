@@ -266,6 +266,20 @@
 
 ## 在线工具秘籍
 
+
+#### [T031《中国传统色》中国古人如何命名颜色?](https://www.v2fy.com/p/T031-colors-ichuantong/)
+
+
+![s041-colors-003](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/s041-colors-003.gif)
+
+
+
+好玩, 有趣的东西才能吸引到人, 如果只是把颜色命名和十六进制的对应关系写到纸上, 估计没几个人会愿意看, 但如果转换成网页小程序, 就能让大多数人眼前一亮, 在玩的同时, 了解中国的传统颜色, 真的是非常理想的学习方式~
+
+
+
+
+
 #### [T030《图壳》免费超好用的图床，图片最稳定的家](https://www.v2fy.com/p/T030-imgkr/)
 
 ![t030-imgkr](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/t030-imgkr-8843216.gif)

@@ -1,5 +1,5 @@
 ---
-title: T031《中国传统色》中国古人如何命名颜色?
+title: T031《中国传统颜色在线手册》中国古代如何命名颜色?
 ---
 
 ####  在线直达地址: [https://colors.ichuantong.cn/](https://colors.ichuantong.cn/)
