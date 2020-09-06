@@ -38,7 +38,10 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
-[T031《中国传统色》中国古人如何命名颜色?](https://www.v2fy.com/p/T031-colors-ichuantong/)
+[T032《webp2jpg》搞定Webp格式! 将微信Webp动图批量转换为GIF(无需上传的图片转换器-简单、隐私)](https://www.v2fy.com/p/T032-webp2jog/)
+
+
+[T031《中国传统颜色在线手册》中国古代如何命名颜色?](https://www.v2fy.com/p/T031-colors-ichuantong/)
 
 
 [T030《图壳》免费超好用的图床，图片最稳定的家](https://www.v2fy.com/p/T030-imgkr/)
