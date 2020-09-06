@@ -1,5 +1,5 @@
 ---
- title: T032《webp2jpg》搞定Webp格式! 将微信Webp动图批量转换为GIF(无需上传的图片转换器-简单、隐私)
+ title: T032《webp2jpg》让图片尺寸薄如蝉翼,全面碾压png, jpg, gif(无需上传的图片转换器-简单、隐私)
 ---
 
 ####  在线直达地址: [https://renzhezhilu.gitee.io/webp2jpg-online/](https://renzhezhilu.gitee.io/webp2jpg-online/)
