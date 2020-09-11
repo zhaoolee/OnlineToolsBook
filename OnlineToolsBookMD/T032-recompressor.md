@@ -30,9 +30,7 @@ title: T032《最优图像优化》文件尺寸和质量之间选择完美平衡
 
 压缩后(594kb)
 
-
-
-![马尔代夫索尼娃姬莉岛度假酒店 (1)](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/1)](T032-recompressor.assets/%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E7%B4%A2%E5%B0%BC%E5%A8%83%E5%A7%AC%E8%8E%89%E5%B2%9B%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97%20(1).jpg)
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/1)](T032-recompressor.assets/%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E7%B4%A2%E5%B0%BC%E5%A8%83%E5%A7%AC%E8%8E%89%E5%B2%9B%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97%20(1).jpg)
 
 
 
