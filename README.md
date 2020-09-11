@@ -38,7 +38,10 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
-[T031《中国传统色》中国古人如何命名颜色?](https://www.v2fy.com/p/T031-colors-ichuantong/)
+[T032《最优图像优化》文件尺寸和质量之间选择完美平衡，适合摄影师使用的图片压缩工具](https://www.v2fy.com/p/T032-recompressor/)
+
+
+[T031《中国传统颜色在线手册》中国古代如何命名颜色?](https://www.v2fy.com/p/T031-colors-ichuantong/)
 
 
 [T030《图壳》免费超好用的图床，图片最稳定的家](https://www.v2fy.com/p/T030-imgkr/)
