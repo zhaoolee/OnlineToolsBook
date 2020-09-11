@@ -63,3 +63,16 @@ webp动图转换为gif图片, 图片尺寸一般会增大2倍以上, 但好在�
 webp2jpg 是真正理想的在线工具, 无需上传用户隐私数据, 节省用户带宽, 代码开源, 功能实用! 
 
 webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图片尺寸薄如蝉翼,全面碾压png, jpg, gif, 但由于无法兼容旧版本浏览器所以未成为主流, 但好在移动端的更新换代速度很快, 相信过不了几年, 网站开发者们可以在移动端网页全面推行先进的webp格式
+
+
+
+
+
+## 写在最后(我需要你的支持)
+
+- 本文属于**在线工具秘籍** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+
+- **在线工具秘籍**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
+
+![img](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-webp2jog.assets/jikemiji.png)
+

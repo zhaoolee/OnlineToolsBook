@@ -58,3 +58,12 @@ title: T031《中国传统颜色在线手册》中国古代如何命名颜色?
 
 好玩, 有趣的东西才能吸引到人, 如果只是把颜色命名和十六进制的对应关系写到纸上, 估计没几个人会愿意看, 但如果转换成网页小程序, 就能让大多数人眼前一亮, 在玩的同时, 了解中国的传统颜色, 真的是非常理想的学习方式~
 
+
+
+## 写在最后(我需要你的支持)
+
+- 本文属于**在线工具秘籍** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+
+- **在线工具秘籍**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
+
+![img](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T031-colors-ichuantong.assets/jikemiji-20200911165630466.png)

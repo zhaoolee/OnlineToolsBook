@@ -1,5 +1,5 @@
 ---
-title: T032《最优图像优化》文件尺寸和质量之间选择完美平衡，适合摄影师使用的图片压缩工具
+title: T033《最优图像优化》文件尺寸和质量之间选择完美平衡，适合摄影师使用的图片压缩工具
 ---
 
 ####  在线直达地址: [https://zh.recompressor.com/](https://zh.recompressor.com/)
@@ -73,3 +73,12 @@ l love img 相关介绍地址：https://www.iloveimg.com/zh-cn/compress-image
 
 **最优图像优化**这款小工具，无需上传图片到服务端，在压缩图片方面给用户惊喜，用户交互也非常友好，由于图片处理在本地运行，你的电脑CPU速度很快，那处理图片的速度就非常快,非常适合电脑配置高，对图片信息敏感的摄影师使用。
 
+
+
+## 写在最后(我需要你的支持)
+
+- 本文属于**在线工具秘籍** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+
+- **在线工具秘籍**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
+
+![img](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/072_one_note_web_clipper.assets/jikemiji.png)
