@@ -70,9 +70,9 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 ## 写在最后(我需要你的支持)
 
-- 本文属于**在线工具秘籍** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+- 本文属于**在线工具秘籍** 项目《工具类》第32篇, 项目Github地址: [https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
 
-- **在线工具秘籍**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
+- **在线工具秘籍**, 为在线工具写一本优质开源中文说明书,让在线工具造福人类~ 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
 
 ![img](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-webp2jog.assets/jikemiji.png)
 

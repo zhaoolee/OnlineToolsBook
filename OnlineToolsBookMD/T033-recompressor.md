@@ -77,8 +77,8 @@ l love img 相关介绍地址：https://www.iloveimg.com/zh-cn/compress-image
 
 ## 写在最后(我需要你的支持)
 
-- 本文属于**在线工具秘籍** 项目的一部分, 项目Github地址: [https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+- 本文属于**在线工具秘籍** 项目《工具类》第33篇, , 项目Github地址: [https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
 
-- **在线工具秘籍**, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类, 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
+- **在线工具秘籍**, 为在线工具写一本优质开源中文说明书,让在线工具造福人类~ 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
 
 ![img](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/072_one_note_web_clipper.assets/jikemiji.png)
