@@ -20,19 +20,17 @@ title: T032《最优图像优化》文件尺寸和质量之间选择完美平衡
 
 压缩图片后，用户可以根据需求，选择需要的图片尺寸，点击下载即可
 
-![032-recompressor](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-recompressor.assets/032-recompressor.gif)
+![032-recompressor](T033-recompressor.assets/032-recompressor.gif)
 
 压缩前（4.6M）
 
-![马尔代夫索尼娃姬莉岛度假酒店](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-recompressor.assets/%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E7%B4%A2%E5%B0%BC%E5%A8%83%E5%A7%AC%E8%8E%89%E5%B2%9B%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97.jpg)
+![马尔代夫索尼娃姬莉岛度假酒店](T033-recompressor.assets/%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E7%B4%A2%E5%B0%BC%E5%A8%83%E5%A7%AC%E8%8E%89%E5%B2%9B%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97.jpg)
 
 
 
 压缩后(594kb)
 
-![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/1)](T032-recompressor.assets/%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E7%B4%A2%E5%B0%BC%E5%A8%83%E5%A7%AC%E8%8E%89%E5%B2%9B%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97%20(1).jpg)
-
-
+![small_马尔代夫索尼](T033-recompressor.assets/small_%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E7%B4%A2%E5%B0%BC.jpg)
 
 ## 批量压缩
 
@@ -40,23 +38,23 @@ title: T032《最优图像优化》文件尺寸和质量之间选择完美平衡
 
 
 
-![032-recompressor-002](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-recompressor.assets/032-recompressor-002.gif)
+![032-recompressor-002](T033-recompressor.assets/032-recompressor-002.gif)
 
 
 
-![WangEgg00010](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-recompressor.assets/WangEgg00010.gif)
+![WangEgg00010](T033-recompressor.assets/WangEgg00010.gif)
 
-![WangEgg00009](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-recompressor.assets/WangEgg00009.gif)
+![WangEgg00009](T033-recompressor.assets/WangEgg00009.gif)
 
-![WangEgg00002](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-recompressor.assets/WangEgg00002.gif)
+![WangEgg00002](T033-recompressor.assets/WangEgg00002.gif)
 
-![WangEgg00001](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-recompressor.assets/WangEgg00001.gif)
+![WangEgg00001](T033-recompressor.assets/WangEgg00001.gif)
 
-![000000018](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-recompressor.assets/000000018.gif)
+![000000018](T033-recompressor.assets/000000018.gif)
 
 
 
-![WangEgg00011](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-recompressor.assets/WangEgg00011.gif)
+![WangEgg00011](T033-recompressor.assets/WangEgg00011.gif)
 
 
 ## 同类工具对比
