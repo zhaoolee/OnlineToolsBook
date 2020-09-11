@@ -8,7 +8,9 @@
 
 webp2jpg是一个可以将jpg, png, gif与webp进行批量格式互换的工具, 转换过程在浏览器中完成, 无需上传图片到服务器,且程序开源, 可进行私有化部署.
 
-![title](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-webp2jog.assets/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f72656e7a68657a68696c752f77656270326a70672d6f6e6c696e652f63646e2f6f675f696d616765322e706e67.png)
+
+
+![w2j](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-webp2jog.assets/w2j.png)
 
 webp是google推广的一套图片格式,支持类似png的透明度, 也支持类似gif的动图, 是一种非常非常理想的格式, 而且图片压缩比极高, 而且画质基本无损失, 缺点是并非所有浏览器都支持webp格式, 甚至连宇宙最强P图软件Photoshop 2020都无法打开webp图片(Photoshop如果安装第三方扩展包, 也可以打开webp格式)
 
