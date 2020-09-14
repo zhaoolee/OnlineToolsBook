@@ -275,6 +275,17 @@
 
 ## 在线工具秘籍
 
+#### [T034《九格切图》在线制作微信朋友圈九宫格切图](https://www.v2fy.com/p/T034-9-img-split/)
+
+
+
+![T034_9_img_split](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/T034_9_img_split.gif)
+
+
+朋友圈的九宫格切图，是一种有趣的记录生活方式，如果你想制作网页九宫格切图，无需下载App， 打开网页 [https://www.ygktool.cn/app/img_split](https://www.ygktool.cn/app/img_split) 即可完成九宫格制作
+
+
+
 
 #### [T033《最优图像优化》文件尺寸和质量之间选择完美平衡，适合摄影师使用的图片压缩工具](https://www.v2fy.com/p/T033-recompressor/)
 
