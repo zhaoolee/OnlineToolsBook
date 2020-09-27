@@ -38,6 +38,9 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
+[T033《mdnice》老法师教你偷懒完成微信公众号，哔哩哔哩，知乎，掘金发文排版，让Markdown排版更nice！](https://www.v2fy.com/p/T033-mdnice-2020-09-27/)
+
+
 [T032《webp2jpg》让图片尺寸薄如蝉翼,全面碾压png, jpg, gif(无需上传的图片转换器-简单、隐私)](https://www.v2fy.com/p/T032-webp2jog/)
 
 
