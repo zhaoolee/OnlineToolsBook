@@ -8,7 +8,9 @@
 
 webp2jpg是一个可以将jpg, png, gif与webp进行批量格式互换的工具, 转换过程在浏览器中完成, 无需上传图片到服务器,且程序开源, 可进行私有化部署.
 
-![title](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-webp2jog.assets/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f72656e7a68657a68696c752f77656270326a70672d6f6e6c696e652f63646e2f6f675f696d616765322e706e67.png)
+
+
+![w2j](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-webp2jog.assets/w2j.png)
 
 webp是google推广的一套图片格式,支持类似png的透明度, 也支持类似gif的动图, 是一种非常非常理想的格式, 而且图片压缩比极高, 而且画质基本无损失, 缺点是并非所有浏览器都支持webp格式, 甚至连宇宙最强P图软件Photoshop 2020都无法打开webp图片(Photoshop如果安装第三方扩展包, 也可以打开webp格式)
 
@@ -61,3 +63,16 @@ webp动图转换为gif图片, 图片尺寸一般会增大2倍以上, 但好在�
 webp2jpg 是真正理想的在线工具, 无需上传用户隐私数据, 节省用户带宽, 代码开源, 功能实用! 
 
 webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图片尺寸薄如蝉翼,全面碾压png, jpg, gif, 但由于无法兼容旧版本浏览器所以未成为主流, 但好在移动端的更新换代速度很快, 相信过不了几年, 网站开发者们可以在移动端网页全面推行先进的webp格式
+
+
+
+
+
+## 写在最后(我需要你的支持)
+
+- 本文属于**在线工具秘籍** 项目《工具类》第32篇, 项目Github地址: [https://github.com/zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+
+- **在线工具秘籍**, 为在线工具写一本优质开源中文说明书,让在线工具造福人类~ 如果你喜欢这个系列, 可以在关注公众号 **0加1** 收到最新的推送
+
+![img](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T032-webp2jog.assets/jikemiji.png)
+

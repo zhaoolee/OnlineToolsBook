@@ -38,7 +38,14 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
+<<<<<<< HEAD
 [T033《mdnice》老法师教你偷懒完成微信公众号，哔哩哔哩，知乎，掘金发文排版，让Markdown排版更nice！](https://www.v2fy.com/p/T033-mdnice-2020-09-27/)
+=======
+[T034《九格切图》在线制作微信朋友圈九宫格切图](https://www.v2fy.com/p/T034-9-img-split/)
+
+
+[T033《最优图像优化》文件尺寸和质量之间选择完美平衡，适合摄影师使用的图片压缩工具](https://www.v2fy.com/p/T033-recompressor/)
+>>>>>>> efd9cc298a9ec7eafaa40812adc96fff45eeaafc
 
 
 [T032《webp2jpg》让图片尺寸薄如蝉翼,全面碾压png, jpg, gif(无需上传的图片转换器-简单、隐私)](https://www.v2fy.com/p/T032-webp2jog/)
@@ -271,6 +278,31 @@
 
 
 ## 在线工具秘籍
+
+#### [T034《九格切图》在线制作微信朋友圈九宫格切图](https://www.v2fy.com/p/T034-9-img-split/)
+
+
+
+![T034_9_img_split](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/T034_9_img_split.gif)
+
+
+朋友圈的九宫格切图，是一种有趣的记录生活方式，如果你想制作网页九宫格切图，无需下载App， 打开网页 [https://www.ygktool.cn/app/img_split](https://www.ygktool.cn/app/img_split) 即可完成九宫格制作
+
+
+
+
+#### [T033《最优图像优化》文件尺寸和质量之间选择完美平衡，适合摄影师使用的图片压缩工具](https://www.v2fy.com/p/T033-recompressor/)
+
+
+![033-recompressor](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/032-recompressor.gif)
+
+通过压缩曲线与预览图结合的方式，让你对压缩图片减少的体积有直观的感受，工具在本地浏览器运行，节省带宽，不泄露隐私，而且还免费！
+
+#### [T032《webp2jpg》让图片尺寸薄如蝉翼,全面碾压png, jpg, gif(无需上传的图片转换器-简单、隐私)](https://www.v2fy.com/p/T032-webp2jog/)
+
+![webp2jpg002](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/webp2jpg002.gif)
+
+webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图片尺寸薄如蝉翼,全面碾压png, jpg, gif, 但由于无法兼容旧版本浏览器所以未成为主流, 但好在移动端的更新换代速度很快, 相信过不了几年, 网站开发者们可以在移动端网页全面推行先进的webp格式
 
 
 #### [T031《中国传统色》中国古人如何命名颜色?](https://www.v2fy.com/p/T031-colors-ichuantong/)
