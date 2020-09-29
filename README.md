@@ -38,14 +38,13 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
-<<<<<<< HEAD
-[T033《mdnice》老法师教你偷懒完成微信公众号，哔哩哔哩，知乎，掘金发文排版，让Markdown排版更nice！](https://www.v2fy.com/p/T033-mdnice-2020-09-27/)
-=======
+[T035《mdnice》老法师教你偷懒完成微信公众号，哔哩哔哩，知乎，掘金发文排版，让Markdown排版更nice！](https://www.v2fy.com/p/T035-mdnice-2020-09-27/)
+
+
 [T034《九格切图》在线制作微信朋友圈九宫格切图](https://www.v2fy.com/p/T034-9-img-split/)
 
 
 [T033《最优图像优化》文件尺寸和质量之间选择完美平衡，适合摄影师使用的图片压缩工具](https://www.v2fy.com/p/T033-recompressor/)
->>>>>>> efd9cc298a9ec7eafaa40812adc96fff45eeaafc
 
 
 [T032《webp2jpg》让图片尺寸薄如蝉翼,全面碾压png, jpg, gif(无需上传的图片转换器-简单、隐私)](https://www.v2fy.com/p/T032-webp2jog/)
