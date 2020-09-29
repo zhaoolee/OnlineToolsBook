@@ -44,13 +44,29 @@ title: T036《个性化国庆头像合成》无需小程序，无需注册登录
 
 
 
-## 快乐领资源
+## 资源包自取
 
 
 
-公众号**0加1**后台回复**祖国生日快乐**，即可获得以下素材
+![0001](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T036-photo-editor-2020-09-29.assets/0001.png)
 
-![image-20200929225614454](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T036-photo-editor-2020-09-29.assets/image-20200929225614454.png)
+![0002](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T036-photo-editor-2020-09-29.assets/0002.png)
+
+![0003](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T036-photo-editor-2020-09-29.assets/0003.png)
+
+![0004](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T036-photo-editor-2020-09-29.assets/0004.png)
+
+![0005](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T036-photo-editor-2020-09-29.assets/0005.png)
+
+![A002](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T036-photo-editor-2020-09-29.assets/A002.jpg)
+
+![A003](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T036-photo-editor-2020-09-29.assets/A003.jpg)
+
+![A004](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T036-photo-editor-2020-09-29.assets/A004.jpg)
+
+![A005](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T036-photo-editor-2020-09-29.assets/A005.jpg)
+
+
 
 ## 小结
 
