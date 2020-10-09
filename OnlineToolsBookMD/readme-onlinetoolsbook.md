@@ -149,6 +149,9 @@
 [T001《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/T001-photopea/)
 
 
+[S040《chrome-devtools》让程序员少走弯路，chrome-devtools在线文档](https://www.v2fy.com/p/S041-chrome/)
+
+
 [S040《fxxkmakeding》Fxxk「集中国特色流氓软件之大成的马克丁」](https://www.v2fy.com/p/S040-fxxkmakeding/)
 
 
