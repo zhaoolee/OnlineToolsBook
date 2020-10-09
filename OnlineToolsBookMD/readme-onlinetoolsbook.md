@@ -38,6 +38,9 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
+[T037《发表情包到微信朋友圈》GitHub最有毒仓库大更新，发布ChineseBQB开源斗图表情包工具](https://www.v2fy.com/p/T037-chinesebqb-2020-10-09/)
+
+
 [T036《个性化国庆头像合成》无需小程序，无需注册登录，手机网页完成超清头像合成](https://www.v2fy.com/p/T036-photo-editor-2020-09-29/)
 
 
