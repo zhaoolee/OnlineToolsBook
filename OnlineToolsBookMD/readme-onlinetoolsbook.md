@@ -284,6 +284,16 @@
 
 ## 在线工具秘籍
 
+
+#### [T037《发表情包到微信朋友圈》GitHub最有毒仓库大更新，发布ChineseBQB开源斗图表情包工具](https://www.v2fy.com/p/T037-chinesebqb-2020-10-09/)
+
+![002](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T037-chinesebqb-2020-10-09.assets/t037-002.gif)
+
+
+
+
+
+
 #### [T034《九格切图》在线制作微信朋友圈九宫格切图](https://www.v2fy.com/p/T034-9-img-split/)
 
 
