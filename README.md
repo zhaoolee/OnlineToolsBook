@@ -38,6 +38,9 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
+[T038《小码助手》为一个网址生成多个短链接进行分发](https://www.v2fy.com/p/T038-xiaomark-2020-10-12/)
+
+
 [T037《发表情包到微信朋友圈》GitHub最有毒仓库大更新，发布ChineseBQB开源斗图表情包工具](https://www.v2fy.com/p/T037-chinesebqb-2020-10-09/)
 
 
@@ -293,6 +296,20 @@
 ![002](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/t037-002.gif)
 
 
+#### [T036《个性化国庆头像合成》无需小程序，无需注册登录，手机网页完成超清头像合成](https://www.v2fy.com/p/T036-photo-editor-2020-09-29/)
+
+
+
+![2020-09-29-22-41-58](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/2020-09-29-22-41-58.gif)
+
+
+
+#### [T035《mdnice》老法师教你偷懒完成微信公众号，哔哩哔哩，知乎，掘金发文排版，让Markdown排版更nice！](https://www.v2fy.com/p/T035-mdnice-2020-09-27/)
+
+
+
+
+![2020-09-27-00001](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/2020-09-27-00001.gif)
 
 
 
