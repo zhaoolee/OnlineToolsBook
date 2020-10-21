@@ -92,7 +92,7 @@
 [T021《Base64在线加密解密》解密技术论坛中的神秘邮箱](https://www.v2fy.com/p/T021-b64/)
 
 
-[T020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://www.v2fy.com/p/T020-iloveimg/)
+[T020《I Love Img》在线批量无损压缩gif png jpg图片, 为你的图片瘦瘦身（附视频教程）](https://www.v2fy.com/p/T020-iloveimg/)
 
 
 [T019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://www.v2fy.com/p/T019-vip-movie/)
