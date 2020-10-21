@@ -34,6 +34,20 @@ I Love Img提供了在线批量压缩图片的免费服务, 它会自动根据�
 [https://www.iloveimg.com/zh-cn/compress-image](https://www.iloveimg.com/zh-cn/compress-image)
 
 
+
+
+
+![image-20201021181156178](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T020-iloveimg.assets/image-20201021181156178.png)
+
+
+<video id="video" controls="" preload="none" poster="https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T020-iloveimg.assets/image-20201021181156178.png">
+<source id="mp4" src="https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T020-iloveimg.assets/c.mp4" type="video/mp4">
+</video>
+
+
+
+
+
 ##  小结：
 
 我原来一直使用PP鸭进行图片压缩,但PP鸭是收费的, PP鸭从2.0版本到3.0版本,功能没什么进步
