@@ -38,6 +38,9 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
+[T038《世界时间》现在世界各地是什么时间？](https://www.v2fy.com/p/T039-24timezones-2020-11-06/)
+
+
 [T038《小码助手》为一个网址生成多个短链接进行分发](https://www.v2fy.com/p/T038-xiaomark-2020-10-12/)
 
 
@@ -150,6 +153,9 @@
 
 
 [T001《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/T001-photopea/)
+
+
+[S045《获得免费js项目二级域名》给js开源项目整一个免费短域名](https://www.v2fy.com/p/S045-js-org-2020-11-06/)
 
 
 [S044《联想智能解决工具》修电脑不求人，联想售后工具集合](https://www.v2fy.com/p/S044-lenovo-2020-10-20/)
