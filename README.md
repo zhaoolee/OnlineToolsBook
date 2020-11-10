@@ -38,6 +38,12 @@
 [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
 
 
+[T042《墨灵音乐》可以在线编辑本地音乐的在线播放器(教程待编写)](https://www.v2fy.com/p/T042-yinyue-qugeek/)
+
+
+[T041《聚合图床》可以上传图片，zip，txt的图床（教程待编写）](https://www.v2fy.com/p/T041-superbed/)
+
+
 [T040《KinhDownload》百度网盘免会员高速下载破解](https://www.v2fy.com/p/T040-kdbaidu/)
 
 
