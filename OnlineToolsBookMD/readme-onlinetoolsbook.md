@@ -306,6 +306,22 @@
 ## 在线工具秘籍
 
 
+
+#### [T040《KinhDownload》百度网盘免会员高速下载破解](https://www.v2fy.com/p/T040-kdbaidu/)
+
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T040-kdbaidu.assets/999229084EDF6DF1A69439F5F66D153D-4889775.gif)
+
+#### [T039《世界时间》现在世界各地是什么时间？](https://www.v2fy.com/p/T039-24timezones-2020-11-06/)
+
+
+![2020-11-10-time](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T039-24timezones-2020-11-06.assets/2020-11-10-time.gif)
+
+
+#### [T038《小码助手》为一个网址生成多个短链接进行分发](https://www.v2fy.com/p/T038-xiaomark-2020-10-12/)
+
+![](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T038-xiaomark-2020-10-12.assets/2020-10-12-xiaomark-chrome.gif)
+
+
 #### [T037《发表情包到微信朋友圈》GitHub最有毒仓库大更新，发布ChineseBQB开源斗图表情包工具](https://www.v2fy.com/p/T037-chinesebqb-2020-10-09/)
 
 ![002](https://www.v2fy.com/asset/0i/OnlineToolsBook/OnlineToolsBookMD/T037-chinesebqb-2020-10-09.assets/t037-002.gif)
