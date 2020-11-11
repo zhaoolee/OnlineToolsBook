@@ -67,4 +67,13 @@ title: T040《KinhDownload》百度网盘免会员高速下载破解
 
 
 
+<video id="video" controls="" preload="none" poster="https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/2020-11-08-baidu.assets/image-20201111103656268.png">
+<source id="mp4" src="https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/2020-11-08-baidu.assets/baidu-download.mp4" type="video/mp4">
+</video>
+
+
+
+
+
+
 
