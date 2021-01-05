@@ -20,7 +20,7 @@
   "homepage": "https://github.com/zhaoolee/OnlineToolsBook#readme",
   "dependencies": {
     "await-stream-ready": "^1.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chmodr": "^1.2.0",
     "download": "^7.1.0",
     "fs-extra": "^8.1.0",
