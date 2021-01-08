@@ -164,6 +164,9 @@
 [T001《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/T001-photopea/)
 
 
+[S046 《Apple产品更新周期表》如何避免49年9月入国党](https://www.v2fy.com/p/S046-buyersguide-macrumors-com/)
+
+
 [S045《获得免费js项目二级域名》给js开源项目整一个免费短域名](https://www.v2fy.com/p/S045-js-org-2020-11-06/)
 
 
