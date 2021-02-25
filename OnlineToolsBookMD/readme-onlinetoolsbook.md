@@ -164,6 +164,9 @@
 [T001《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/T001-photopea/)
 
 
+[S047 《Github章鱼猫》一个Github章鱼猫插画页](https://www.v2fy.com/p/S047-octodex-github-com/)
+
+
 [S046 《Apple产品更新周期表》如何避免49年9月入国党](https://www.v2fy.com/p/S046-buyersguide-macrumors-com/)
 
 
