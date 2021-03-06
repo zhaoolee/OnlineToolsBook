@@ -164,6 +164,9 @@
 [T001《Photopea》顶级在线图片处理工具](https://www.v2fy.com/p/T001-photopea/)
 
 
+[S048 《RSS获取》一个通过Github Actions定时获取RSS的开源工具页](https://www.v2fy.com/p/S048-rss/)
+
+
 [S047 《Github章鱼猫》一个Github章鱼猫插画页](https://www.v2fy.com/p/S047-octodex-github-com/)
 
 
