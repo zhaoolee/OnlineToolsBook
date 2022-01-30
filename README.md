@@ -26,7 +26,7 @@
 
 ![0加1](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/jikemiji.png)
 
-公众号 「0加1」 由项目作者zhaoolee运营, 在2020年会同步更新 [OnlineToolsBook (在线工具秘籍)](https://github.com/zhaoolee/OnlineToolsBook) , 欢迎关注~
+公众号 「0加1」 由项目作者zhaoolee运营, 在2022年会同步更新 [OnlineToolsBook (在线工具秘籍)](https://github.com/zhaoolee/OnlineToolsBook) , 欢迎关注~
 
 
 ## 目录(点击以下标题, 可以进入文章页~)
