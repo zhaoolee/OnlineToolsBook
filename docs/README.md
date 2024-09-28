@@ -31,7 +31,7 @@
 
 ## 在线工具秘籍
 
-#### [T043 《Compres Jpg》离线批量压缩图片](./T043-compressjpg.md)
+#### [T043 《Compres Jpg》离线批量压缩图片](https://zhaoolee.com/OnlineToolsBook/#/T043-compressjpg.md)
 
 ![2024-09-28-compressjpg](https://cdn.fangyuanxiaozhan.com/assets/1727506119025w7iC7tH3.gif)
 
@@ -41,27 +41,27 @@
 
 
 
-#### [T040《KinhDownload》百度网盘免会员高速下载破解](https://v2fy.com/p/T040-kdbaidu/)
+#### [T040《KinhDownload》百度网盘免会员高速下载破解](https://zhaoolee.com/OnlineToolsBook/#/T040-kdbaidu)
 
 ![20201109-pan002](https://cdn.fangyuanxiaozhan.com/assets/1727506119822Q11aRjDX.gif)
 
-#### [T039《世界时间》现在世界各地是什么时间？](https://v2fy.com/p/T039-24timezones-2020-11-06/)
+#### [T039《世界时间》现在世界各地是什么时间？](https://zhaoolee.com/OnlineToolsBook/#/T039-24timezones-2020-11-06)
 
 
 ![2020-11-10-time](https://cdn.fangyuanxiaozhan.com/assets/1727506122546fxB61ikw.gif)
 
 
-#### [T038《小码助手》为一个网址生成多个短链接进行分发](https://v2fy.com/p/T038-xiaomark-2020-10-12/)
+#### [T038《小码助手》为一个网址生成多个短链接进行分发](https://zhaoolee.com/OnlineToolsBook/#/T038-xiaomark-2020-10-12)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/17275061278944n0xPNCy.gif)
 
 
-#### [T037《发表情包到微信朋友圈》GitHub最有毒仓库大更新，发布ChineseBQB开源斗图表情包工具](https://v2fy.com/p/T037-chinesebqb-2020-10-09/)
+#### [T037《发表情包到微信朋友圈》GitHub最有毒仓库大更新，发布ChineseBQB开源斗图表情包工具](https://zhaoolee.com/OnlineToolsBook/#/T037-chinesebqb-2020-10-09)
 
 ![002](https://cdn.fangyuanxiaozhan.com/assets/1727506130930TB8xJjSy.gif)
 
 
-#### [T036《个性化国庆头像合成》无需小程序，无需注册登录，手机网页完成超清头像合成](https://v2fy.com/p/T036-photo-editor-2020-09-29/)
+#### [T036《个性化国庆头像合成》无需小程序，无需注册登录，手机网页完成超清头像合成](https://zhaoolee.com/OnlineToolsBook/#/T036-photo-editor-2020-09-29)
 
 
 
@@ -69,7 +69,7 @@
 
 
 
-#### [T035《mdnice》老法师教你偷懒完成微信公众号，哔哩哔哩，知乎，掘金发文排版，让Markdown排版更nice！](https://v2fy.com/p/T035-mdnice-2020-09-27/)
+#### [T035《mdnice》老法师教你偷懒完成微信公众号，哔哩哔哩，知乎，掘金发文排版，让Markdown排版更nice！](https://zhaoolee.com/OnlineToolsBook/#/T035-mdnice-2020-09-27)
 
 
 
@@ -79,7 +79,7 @@
 
 
 
-#### [T034《九格切图》在线制作微信朋友圈九宫格切图](https://v2fy.com/p/T034-9-img-split/)
+#### [T034《九格切图》在线制作微信朋友圈九宫格切图](https://zhaoolee.com/OnlineToolsBook/#/T034-9-img-split)
 
 
 
@@ -91,21 +91,21 @@
 
 
 
-#### [T033《最优图像优化》文件尺寸和质量之间选择完美平衡，适合摄影师使用的图片压缩工具](https://v2fy.com/p/T033-recompressor/)
+#### [T033《最优图像优化》文件尺寸和质量之间选择完美平衡，适合摄影师使用的图片压缩工具](https://zhaoolee.com/OnlineToolsBook/#/T033-recompressor)
 
 
 ![033-recompressor](https://cdn.fangyuanxiaozhan.com/assets/1727506134822CmXExmjA.gif)
 
 通过压缩曲线与预览图结合的方式，让你对压缩图片减少的体积有直观的感受，工具在本地浏览器运行，节省带宽，不泄露隐私，而且还免费！
 
-#### [T032《webp2jpg》让图片尺寸薄如蝉翼,全面碾压png, jpg, gif(无需上传的图片转换器-简单、隐私)](https://v2fy.com/p/T032-webp2jog/)
+#### [T032《webp2jpg》让图片尺寸薄如蝉翼,全面碾压png, jpg, gif(无需上传的图片转换器-简单、隐私)](https://zhaoolee.com/OnlineToolsBook/#/T032-webp2jog)
 
 ![webp2jpg002](https://cdn.fangyuanxiaozhan.com/assets/1727506137050sRCWEAT4.gif)
 
 webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图片尺寸薄如蝉翼,全面碾压png, jpg, gif, 但由于无法兼容旧版本浏览器所以未成为主流, 但好在移动端的更新换代速度很快, 相信过不了几年, 网站开发者们可以在移动端网页全面推行先进的webp格式
 
 
-#### [T031《中国传统色》中国古人如何命名颜色?](https://v2fy.com/p/T031-colors-ichuantong/)
+#### [T031《中国传统色》中国古人如何命名颜色?](https://zhaoolee.com/OnlineToolsBook/#/T031-colors-ichuantong)
 
 
 ![s041-colors-003](https://cdn.fangyuanxiaozhan.com/assets/17275061456581rSnsGyB.gif)
@@ -118,7 +118,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 
 
-#### [T030《图壳》免费超好用的图床，图片最稳定的家](https://v2fy.com/p/T030-imgkr/)
+#### [T030《图壳》免费超好用的图床，图片最稳定的家](https://zhaoolee.com/OnlineToolsBook/#/T030-imgkr)
 
 ![t030-imgkr](https://cdn.fangyuanxiaozhan.com/assets/1727506149594GaR6fx05.gif)
 
@@ -128,7 +128,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 
 
-#### [T029《云网盘之家》搜索百度网盘的小姐姐，云网盘之家](https://v2fy.com/p/T029-wowenda/)
+#### [T029《云网盘之家》搜索百度网盘的小姐姐，云网盘之家](https://zhaoolee.com/OnlineToolsBook/#/T029-wowenda)
 
 
 
@@ -140,7 +140,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 
 
-#### [T028《蔡徐坤打篮球》蔡徐坤!出来打球!](https://v2fy.com/p/T028-cxk/)
+#### [T028《蔡徐坤打篮球》蔡徐坤!出来打球!](https://zhaoolee.com/OnlineToolsBook/#/T028-cxk)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506154203e4jMEBc2.gif)
 
@@ -151,7 +151,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 
 
-#### [T027《彩虹屁》快夸夸我!彩虹屁生成器](https://v2fy.com/p/T027-chp/)
+#### [T027《彩虹屁》快夸夸我!彩虹屁生成器](https://zhaoolee.com/OnlineToolsBook/#/T027-chp)
 
 
 
@@ -172,7 +172,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 
 
-#### [T026《Bigjpg》AI人工智能图片放大Win10超酷壁纸](https://v2fy.com/p/T026-bigjpg/)
+#### [T026《Bigjpg》AI人工智能图片放大Win10超酷壁纸](https://zhaoolee.com/OnlineToolsBook/#/T026-bigjpg)
 
 
 ![t026-bigjpg](https://cdn.fangyuanxiaozhan.com/assets/1727506157291yR1y4bxX.gif)
@@ -182,7 +182,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 
 
-##### [T025《Bitly》可能是全球最好用的短链接生成工具](https://v2fy.com/p/T025-bitly/)
+##### [T025《Bitly》可能是全球最好用的短链接生成工具](https://zhaoolee.com/OnlineToolsBook/#/T025-bitly)
 
 ![short](https://cdn.fangyuanxiaozhan.com/assets/1727506164700ZEmDzJ3D.gif)
 
@@ -190,18 +190,18 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 
 
-#### [T024《简洁艺术二维码生成》参数化二维码生成器](https://v2fy.com/p/T024-qrbtf/)
+#### [T024《简洁艺术二维码生成》参数化二维码生成器](https://zhaoolee.com/OnlineToolsBook/#/T024-qrbtf)
 
 
 
 
 ![arbtf_qr](https://cdn.fangyuanxiaozhan.com/assets/1727506181574XWWjYHAW.gif)
 
-生成二维码的在线工具有很多, [https://qrbtf.com/](https://qrbtf.com/) 生成的二维码非常简洁, 且有艺术感, 是非常值得收藏的小工具
+生成二维码的在线工具有很多, [https://qrbtf.com/](https://qrbtf.com) 生成的二维码非常简洁, 且有艺术感, 是非常值得收藏的小工具
 
 
 
-####  [T023《Savefrom》下载YouTube视频](https://v2fy.com/p/T023-netfrom/)
+####  [T023《Savefrom》下载YouTube视频](https://zhaoolee.com/OnlineToolsBook/#/T023-netfrom)
 
 
 
@@ -216,7 +216,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 
 
-#### [T022《OCR》谷歌免费OCR在线中英文识别](https://v2fy.com/p/022-ocr/)
+#### [T022《OCR》谷歌免费OCR在线中英文识别](https://zhaoolee.com/OnlineToolsBook/#/022-ocr)
 
 
 ![ocr-google](https://cdn.fangyuanxiaozhan.com/assets/17275061878877pe7mFjZ.gif)
@@ -225,7 +225,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 将截图存储到谷歌云盘,使用谷歌文档打开,即可自动完成OCR转换
 
 
-#### [T021《Base64在线加密解密》解密技术论坛中的神秘邮箱](https://v2fy.com/p/021-b64/)
+#### [T021《Base64在线加密解密》解密技术论坛中的神秘邮箱](https://zhaoolee.com/OnlineToolsBook/#/021-b64)
 
 
 ![2020-06-13-base64-decode](https://cdn.fangyuanxiaozhan.com/assets/1727506189375E4CZAPGh.gif)
@@ -233,7 +233,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 直接在网络论坛留下自己的**邮箱/手机号/qq号/微信号**并不安全, 使用base64可以对敏感进行一定的保护, 但base64和二维码类似,只是人眼不可读, 使用解密程序,可以轻松解析真实的信息, 所以base64只是一种**道德加密**, 可以防住不懂base64加密的人,  不能防止专业人士(程序员)解密
 
 
-#### [T020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://v2fy.com/p/020-iloveimg/)
+#### [T020《I Love Img》在线批量无损压缩gif png jpg图片,为你的图片瘦瘦身](https://zhaoolee.com/OnlineToolsBook/#/020-iloveimg)
 
 
 同时上传 GIF, JPG, PNG三种格式的图片做示范
@@ -244,7 +244,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/17275061887781DEHiJzd.png)
 
-#### [T019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://v2fy.com/p/019-vip-movie/)
+#### [T019《船长解析-vip视频在线解析》免费在线查看爱奇艺，腾讯，优酷，芒果，bilibili  vip视频](https://zhaoolee.com/OnlineToolsBook/#/019-vip-movie)
 
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506189931K80JmaG8.gif)
@@ -252,7 +252,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 《船长解析-vip视频在线解析》可以解析众多视频网站的vip视频，但并没有解析到最高画质，如果你对画质要求不是很高， 或者你经常使用手机小屏追剧，这个工具倒是能帮你省很多视频会员费
 
-#### [T018《蓝奏云》蓝奏云存放2G大文件解决方案](https://v2fy.com/p/018-lanzou/)
+#### [T018《蓝奏云》蓝奏云存放2G大文件解决方案](https://zhaoolee.com/OnlineToolsBook/#/018-lanzou)
 
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506190930SJiWTWTa.gif)
@@ -260,7 +260,7 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 蓝奏云相比百度网盘真的是算是良心产品, 通过分卷压缩的方法, 可以破除100M的限制,愉快的上传各种大容量文件了
 
 
-#### [T017《MyFreeMP3》在线下载QQ音乐，网易云音乐所有VIP歌曲](https://v2fy.com/p/017-liumingye_download_music/)
+#### [T017《MyFreeMP3》在线下载QQ音乐，网易云音乐所有VIP歌曲](https://zhaoolee.com/OnlineToolsBook/#/017-liumingye_download_music)
 
 
 
@@ -271,25 +271,25 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 
 
-#### [T016《拷贝兔》通过４个字符将文件共享到另一台电脑](https://v2fy.com/p/016-copy-tool/)
+#### [T016《拷贝兔》通过４个字符将文件共享到另一台电脑](https://zhaoolee.com/OnlineToolsBook/#/016-copy-tool)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506192139BKW7aKir.gif)
 
 
-#### [T015 《这是什么日番?》查找文豪野犬「脚踢子弹」在哪一集](https://v2fy.com/p/015-trace-moe/)
+#### [T015 《这是什么日番?》查找文豪野犬「脚踢子弹」在哪一集](https://zhaoolee.com/OnlineToolsBook/#/015-trace-moe)
 
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506193103TWnwHd4A.gif)
 
 
 
-#### [T014《俄罗斯方块》玩转开源俄罗斯方块小游戏](https://v2fy.com/p/014-tetris/)
+#### [T014《俄罗斯方块》玩转开源俄罗斯方块小游戏](https://zhaoolee.com/OnlineToolsBook/#/014-tetris)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/172750619397785kFmSNE.gif)
 
 俄罗斯方块是一个建设性的游戏，与中国的围棋相似，“国际象棋就是杀杀杀，围棋则重视构建领地，是建设性的，俄罗斯方块也是”。俄罗斯方块家喻户晓,老少皆宜
 
-#### [T013《截图拼接工具》在线电影字幕拼接](https://v2fy.com/p/013-join-screenshots/)
+#### [T013《截图拼接工具》在线电影字幕拼接](https://zhaoolee.com/OnlineToolsBook/#/013-join-screenshots)
 
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/17275061952391ddBk1ht.gif)
@@ -297,21 +297,21 @@ webp是Google推行的新格式, 从技术角度来看, webp非常先进, 让图
 
 当你看到电影中的一段经典台词, 想要分享给周边的好友时,截图拼接工具, 可以让你快速达成自己想要的效果
 
-#### [T012《表情锅》在线制作「真香定律」表情包](https://v2fy.com/p/012-biaoqingguo/)
+#### [T012《表情锅》在线制作「真香定律」表情包](https://zhaoolee.com/OnlineToolsBook/#/012-biaoqingguo)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506195906Gf4yiXXD.gif)
 
 
 今天是2020年2月29日, 道琼斯指数单日下跌1000点,热度比较高的话题是「特朗普加农炮」,于是zhaoolee就琢磨着要做一张表情包纪念一下
 
-#### [T011《Artbreeder》艺术投食者-美队与钢铁侠的融合](https://v2fy.com/p/011-artbreeder/)
+#### [T011《Artbreeder》艺术投食者-美队与钢铁侠的融合](https://zhaoolee.com/OnlineToolsBook/#/011-artbreeder)
 
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506195947FzHRwCYC.gif)
 
 Arbreeder是一个可以体验数据模型训练成果的平台, 但Arbreeder的功能还远不止于此, 可以将多个人物的特征,层层结合, 产生子代, 然后调整子代的参数, 产出世界上不存在的面容
 
-#### [T010《智能简笔画》实力画渣,在线丢人](https://v2fy.com/p/010-autodraw/)
+#### [T010《智能简笔画》实力画渣,在线丢人](https://zhaoolee.com/OnlineToolsBook/#/010-autodraw)
 
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506196320sD3mDAW1.gif)
@@ -320,7 +320,7 @@ Arbreeder是一个可以体验数据模型训练成果的平台, 但Arbreeder的
 Autodraw这款在线工具的思路很好, 根据用户描摹的线条,自动推荐出简笔画, 解决了触控板绘图线条不容易描摹的尴尬,另外这款工具的左侧工具栏真的非常简洁,而且十分够用,比Windows的画图软件要清新的多, 非常适合电脑中不想安装画图应用, 但又想打开网页画个图的创意工作者~
 
 
-#### [T009《视频下载》全能视频在线下载工具](https://v2fy.com/p/009-urlgot/)
+#### [T009《视频下载》全能视频在线下载工具](https://zhaoolee.com/OnlineToolsBook/#/009-urlgot)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506196878kZbbxQwj.gif)
 
@@ -328,14 +328,14 @@ Autodraw这款在线工具的思路很好, 根据用户描摹的线条,自动推
 在线下载视频是一个老生常谈的问题, 理想的视频下载工具应该是下载在云端完成,然后从云端下载到本地, 开箱即用, 无需注册, 最好是免费, 支持的视频网站够多, 上面所说的点urlgot都具备了,而且还提供了画质选择, 单独下载音频等选项
 
 
-#### [T008《诺基亚短信图片生成器》有内鬼，终止交易！](https://v2fy.com/p/008-noddl/)
+#### [T008《诺基亚短信图片生成器》有内鬼，终止交易！](https://zhaoolee.com/OnlineToolsBook/#/008-noddl)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506197467JP0y1HRd.gif)
 
 诺基亚短信图片生成器是一款复古好玩的在线小工具, 类似upuptoyou举牌小人的风格,但诺基亚短信图片生成器的梗更多一些, 比如「无间道」中著名的**有内鬼,终止交易!**
 
 
-#### [T007《Upuptoyou》举牌小人在此为您服务](https://v2fy.com/p/007-upuptoyou/)
+#### [T007《Upuptoyou》举牌小人在此为您服务](https://zhaoolee.com/OnlineToolsBook/#/007-upuptoyou)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506199685PmMENe2z.gif)
 
@@ -343,7 +343,7 @@ upuptoyou是一款非常有创意的小工具,可以用于表白,或节日送祝
 
 
 
-#### [T006《微信Markdown编辑器》转化Markdown到给微信特制的HTML](https://v2fy.com/p/006-md2wx/)
+#### [T006《微信Markdown编辑器》转化Markdown到给微信特制的HTML](https://zhaoolee.com/OnlineToolsBook/#/006-md2wx)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506200015T2kYctbf.gif)
 
@@ -351,7 +351,7 @@ Markdown语法简洁, 格式通用, **微信Markdown编辑器**可以将Markdown
 
 
 
-#### [T005《百度脑图》好用到不像百度产品的产品](https://v2fy.com/p/005-baidunaotu/)
+#### [T005《百度脑图》好用到不像百度产品的产品](https://zhaoolee.com/OnlineToolsBook/#/005-baidunaotu)
 
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506200657FBGrizYH.gif)
@@ -360,28 +360,28 @@ Markdown语法简洁, 格式通用, **微信Markdown编辑器**可以将Markdown
 
 
 
-#### [T004《Word Art》创建二维码文字云!](https://v2fy.com/p/004-word-art/)
+#### [T004《Word Art》创建二维码文字云!](https://zhaoolee.com/OnlineToolsBook/#/004-word-art)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506200806E6bZmBfw.gif)
 
 
 将文字云图片添加到PPT, 或者海报中, 可以极大的提升设计的张力, 让高逼格的设计触手可得~
 
-#### [T003《求字体》快速识别图片中的文字字体](https://v2fy.com/p/003-qiuziti/)
+#### [T003《求字体》快速识别图片中的文字字体](https://zhaoolee.com/OnlineToolsBook/#/003-qiuziti)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/17275062015121jEZzZhS.gif)
 
 当我们看到图片中的有趣字体想要下载, 但又不知道字体名字的时候,可以从图片中裁剪单个有特色的文字,然后上传到求字体网进行识别
 
 
- #### [T002《GIF到MP4转换器》把20秒熊本熊GIF图发送给微信好友](https://v2fy.com/p/002-gif-to-mp4/)
+ #### [T002《GIF到MP4转换器》把20秒熊本熊GIF图发送给微信好友](https://zhaoolee.com/OnlineToolsBook/#/002-gif-to-mp4)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506202021FhczpkHn.gif)
 
 **GIF到MP4转换器**可以将100MB以内的gif图片转换为MP4,所有转换步骤通过网页在云端完成, gif转换为mp4后, 肉眼看不出清晰度的损失
 
 
-#### [T001 《Photopea》顶级在线图片处理工具](https://v2fy.com/p/001-photopea/)
+#### [T001 《Photopea》顶级在线图片处理工具](https://zhaoolee.com/OnlineToolsBook/#/001-photopea)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506206653TCB04h7s.gif)
 
@@ -394,7 +394,7 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 **以下为资源类**
 
-#### [S040《fxxkmakeding》Fxxk「集中国特色流氓软件之大成的马克丁」](https://v2fy.com/p/S040-fxxkmakeding/)
+#### [S040《fxxkmakeding》Fxxk「集中国特色流氓软件之大成的马克丁」](https://zhaoolee.com/OnlineToolsBook/#/S040-fxxkmakeding)
 
 
 ![fmkd](https://cdn.fangyuanxiaozhan.com/assets/1727506204786EcEp0NQN.png)
@@ -408,7 +408,7 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 
 
-#### [S039《看片狂人》可直播院线电影的神奇网站](https://v2fy.com/p/S039-kpkuang/)
+#### [S039《看片狂人》可直播院线电影的神奇网站](https://zhaoolee.com/OnlineToolsBook/#/S039-kpkuang)
 
 
 
@@ -420,7 +420,7 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 看片狂人是少有的无需VIP, 播放流畅，片源齐全的影视网站，由于不用考虑版权问题，它收集的影片种类，恐怕可以单挑**优爱腾B**中的任何一个
 
 
-#### [S038《iOS壁纸》获取各世代的iOS壁纸](https://v2fy.com/p/S038-iOS-wallpaper/)
+#### [S038《iOS壁纸》获取各世代的iOS壁纸](https://zhaoolee.com/OnlineToolsBook/#/S038-iOS-wallpaper)
 
 
 
@@ -430,7 +430,7 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 iPhone的销量比Mac要好很多，与Mac壁纸相比，iOS壁纸也更为常见，每出一代iPhone，必然带着全新的壁纸，这不仅是在提醒用户该升级系统了，也是提醒用户**该换新手机了～**
 
 
-#### [S037《macOS壁纸》获取各世代的macOS壁纸](https://v2fy.com/p/S037-macOS-wallpaper/)
+#### [S037《macOS壁纸》获取各世代的macOS壁纸](https://zhaoolee.com/OnlineToolsBook/#/S037-macOS-wallpaper)
 
 ![https://v2fy.com/asset/0i/macw001.png](https://cdn.fangyuanxiaozhan.com/assets/1727506210601br2tFyDD.png)
 
@@ -439,7 +439,7 @@ iPhone的销量比Mac要好很多，与Mac壁纸相比，iOS壁纸也更为常�
 Mac的历史比iPhone长很多，翻看Mac的早期壁纸，会给人一种穿越时空的感觉，预览历朝历代的Mac壁纸后，你会发现，**Mac壁纸的审美是一直在线的～***
 
 
-#### [S036《100font》一个专门收集“免费商用字体”的网站](https://v2fy.com/p/S036-100font/)
+#### [S036《100font》一个专门收集“免费商用字体”的网站](https://zhaoolee.com/OnlineToolsBook/#/S036-100font)
 
 
 
@@ -452,7 +452,7 @@ Mac的历史比iPhone长很多，翻看Mac的早期壁纸，会给人一种穿�
 字体版权守护了字体开发者的版权， 也提升了全民的版权意识，作为世界上最大的工业化国家，对文化产品知识产权的保护，体现了我国经济文化全面崛起的决心, 如果不想为版权字体付费, 那就使用100font的无版权字体吧
 
 
-#### [S035《获取最新绿色版Chrome》获取不检查更新的Chrome](https://v2fy.com/p/S035-green-chrome/)
+#### [S035《获取最新绿色版Chrome》获取不检查更新的Chrome](https://zhaoolee.com/OnlineToolsBook/#/S035-green-chrome)
 
 
 ![image-20200829135638000](https://cdn.fangyuanxiaozhan.com/assets/1727506211091eNJwk8k4.png)
@@ -460,27 +460,27 @@ Mac的历史比iPhone长很多，翻看Mac的早期壁纸，会给人一种穿�
 看到Chrome, 让我联想到**屠龙勇士终成恶龙**.
 
 
-#### [S034《精品Mac应用分享》如何获得macOS软件](https://v2fy.com/p/S034_macos_soft/)
+#### [S034《精品Mac应用分享》如何获得macOS软件](https://zhaoolee.com/OnlineToolsBook/#/S034_macos_soft)
 
 ![image-20200829132434344](https://cdn.fangyuanxiaozhan.com/assets/1727506211372WTWJDDwc.png)
 
 Mac与iPhone不同, Mac可以安装各种来源的安装包, 因此,有很多网站提供了Mac付费软件的免费版安装包, 随着Apple鼓励软件开发商推行软件订阅制,相信会有越来越多的人选择使用第三方的软件包, 资本永远是贪得无厌的, 乔帮主在世时, 推行的软件买断制, 现在被魔改成软件订阅制, 以后每个月都要为几十个软件续费的场景,想想都觉得恐怖, 疯狂推行订阅制的结果, 会催生更多的软件分享网站, 因为世界上大多人并不富裕. 
 
 
-#### [S033《Adobe全家桶嬴政天下版获取》vposy是造福人民的好代表](https://v2fy.com/p/S033_adobe/)
+#### [S033《Adobe全家桶嬴政天下版获取》vposy是造福人民的好代表](https://zhaoolee.com/OnlineToolsBook/#/S033_adobe)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506212470GDhx5Cjm.png)
 
 淘宝商家也只是资源搬运工，真正去制作PS最新免费版安装包的另有其人，这个人就是微博博主 vposy
 
-#### [S032《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面](https://v2fy.com/p/S032_idea/)
+#### [S032《程序员专用全家桶JetBrain》免费JetBrain全家桶激活码发放页面](https://zhaoolee.com/OnlineToolsBook/#/S032_idea)
 
 
 ![image-20200825135143064](https://cdn.fangyuanxiaozhan.com/assets/1727506212236FFwHZF8r.png)
 
 如果你是一个程序员,即使不用JetBrain家的产品,也一定听说过WebStorm, IDEA等IDE的大名
 
-#### [S031 《Emoji宝典》玩转Emoji](https://v2fy.com/p/031_emojipedia/)
+#### [S031 《Emoji宝典》玩转Emoji](https://zhaoolee.com/OnlineToolsBook/#/031_emojipedia)
 
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506212496hbt86kfT.png)
@@ -488,7 +488,7 @@ Mac与iPhone不同, Mac可以安装各种来源的安装包, 因此,有很多网
 通过emojipedia.org探索更多Emoji表情
 
 
-#### [S030《贪吃蛇》适配移动端和PC端的小游戏](https://v2fy.com/p/S030_playsnake_org/)
+#### [S030《贪吃蛇》适配移动端和PC端的小游戏](https://zhaoolee.com/OnlineToolsBook/#/S030_playsnake_org)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506212776K1zQPFBf.png)
 
@@ -496,14 +496,14 @@ Mac与iPhone不同, Mac可以安装各种来源的安装包, 因此,有很多网
 一个在线贪吃蛇小游戏, PC端可以通过键盘上下左右键控制, 手机端可以通过滑动屏幕控制,初始速度有`慢速, 中速, 快速`三级别可选,点击屏幕可以暂停/继续游戏
 
 
-#### [S029《假装操作系统升级》摸鱼基本技能](https://v2fy.com/p/S029_fakeupdate_net/)
+#### [S029《假装操作系统升级》摸鱼基本技能](https://zhaoolee.com/OnlineToolsBook/#/S029_fakeupdate_net)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/17275062132238zANhkh4.png)
 
 选择网页右侧升级界面后,将网页全屏, 可以假装计算机升级,进而摸鱼
 
 
-#### [S028《高清MP4》热门电影电视剧超清画渣下载](https://v2fy.com/p/S028_mp4ba/)
+#### [S028《高清MP4》热门电影电视剧超清画渣下载](https://zhaoolee.com/OnlineToolsBook/#/S028_mp4ba)
 
 
 
@@ -513,7 +513,7 @@ Mac与iPhone不同, Mac可以安装各种来源的安装包, 因此,有很多网
 
 一个下载热播电影,电视剧,动漫资源的网站
 
-#### [S027《MyFreeMP3》在线听QQ音乐，网易云音乐所有VIP歌曲](https://v2fy.com/p/S027_liumingye_music/)
+#### [S027《MyFreeMP3》在线听QQ音乐，网易云音乐所有VIP歌曲](https://zhaoolee.com/OnlineToolsBook/#/S027_liumingye_music)
 
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506214809AbAETi3Q.png)
@@ -538,7 +538,7 @@ Mac与iPhone不同, Mac可以安装各种来源的安装包, 因此,有很多网
 
 
 
-#### [S026《今天中午吃什么》解决全人类的难题](https://v2fy.com/p/S026_zwcsm/)
+#### [S026《今天中午吃什么》解决全人类的难题](https://zhaoolee.com/OnlineToolsBook/#/S026_zwcsm)
 
 
 
@@ -549,7 +549,7 @@ Mac与iPhone不同, Mac可以安装各种来源的安装包, 因此,有很多网
  麻辣烫 黄焖鸡 馄饨 肯德基 粥 饺子 寿司 米线 回锅肉 火锅 兰州拉面 麦当劳 沙县小吃 重庆小面 木桶饭 麻辣香锅 盖饭 麻婆豆腐 果汁 啤酒 汤圆 羊肉汤 糍粑 姜母鸭 三明治 小笼包 呷哺呷哺 烧烤 冒菜 螺蛳粉 酸辣粉 必胜客 生煎 锅包肉 溜肉段 披萨 烤肉饭 酸菜鱼 鸡巴 米饭 西葫芦炒鸡蛋 紫菜包饭 驴肉火烧 红牛 咖啡 牛奶 红茶 糯米饭 烧腊 年糕
 
 
-#### [S025《人类象形图》专业火柴人素材站](https://v2fy.com/p/S025_pictogram2_com/)
+#### [S025《人类象形图》专业火柴人素材站](https://zhaoolee.com/OnlineToolsBook/#/S025_pictogram2_com)
 
 
 
@@ -557,7 +557,7 @@ Mac与iPhone不同, Mac可以安装各种来源的安装包, 因此,有很多网
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/17275062169553fpDrPi0.png)
 
-#### [S024《狗站》随机获取一只狗狗图片](https://v2fy.com/p/S024_shibe_online/)
+#### [S024《狗站》随机获取一只狗狗图片](https://zhaoolee.com/OnlineToolsBook/#/S024_shibe_online)
 
 
 
@@ -575,7 +575,7 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 
 
-#### [S023《背景底纹》背景底纹汇聚于此](https://v2fy.com/p/S023_bg_patterns/)
+#### [S023《背景底纹》背景底纹汇聚于此](https://zhaoolee.com/OnlineToolsBook/#/S023_bg_patterns)
 
 
 
@@ -583,7 +583,7 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506220265n2PNc7aX.png)
 
-#### [S022《Colorhunt》提供现成的配色案例](https://v2fy.com/p/S022_colorhunt/)
+#### [S022《Colorhunt》提供现成的配色案例](https://zhaoolee.com/OnlineToolsBook/#/S022_colorhunt)
 
 
 
@@ -596,7 +596,7 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 
 
-#### [S021《反斗软件》白送软件要不要？](https://v2fy.com/p/S021_free_apprcn_com/)
+#### [S021《反斗软件》白送软件要不要？](https://zhaoolee.com/OnlineToolsBook/#/S021_free_apprcn_com)
 
 
 
@@ -608,7 +608,7 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 
 
 
-#### [S020《品质最高的免费素材站Pexels》优质图片视频素材下载](https://v2fy.com/p/S020_pexels/)
+#### [S020《品质最高的免费素材站Pexels》优质图片视频素材下载](https://zhaoolee.com/OnlineToolsBook/#/S020_pexels)
 
 
 免费无版权图片站有很多，而Pexels在免费的同时，更注重品质，通过Pexels，可以更容易找到高品质的图片或视频
@@ -617,13 +617,13 @@ http://shibe.online/api/shibes?count=100&urls=true&httpsUrls=true
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506221413aHCdS1pB.png)
 
 可以通过热门标签页,找到自己喜欢类型的图片
-[https://www.pexels.com/zh-cn/popular-searches/](https://www.pexels.com/zh-cn/popular-searches/)
+[https://www.pexels.com/zh-cn/popular-searches/](https://www.pexels.com/zh-cn/popular-searches)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506221812GtaWw6ze.png)
 
 
 
-#### [S019《IMDB电影榜单》找到全世界的好电影](https://v2fy.com/p/S019_imdb250/)
+#### [S019《IMDB电影榜单》找到全世界的好电影](https://zhaoolee.com/OnlineToolsBook/#/S019_imdb250)
 
 
 
@@ -638,7 +638,7 @@ IMDB电影评分一直是业界标杆，通过IMDB的评分页面，你可以轻
 
 
 
-#### [S018《文章生成器》根据关键词生成一篇文章](https://v2fy.com/p/S018_bull_shit_generator/)
+#### [S018《文章生成器》根据关键词生成一篇文章](https://zhaoolee.com/OnlineToolsBook/#/S018_bull_shit_generator)
 
 
 
@@ -656,7 +656,7 @@ IMDB电影评分一直是业界标杆，通过IMDB的评分页面，你可以轻
 
 由于这个项目娱乐性较强，于是被大家争相传
 
-#### [S017《UiGradients》为PPT找到优质而渐变色背景](https://v2fy.com/p/S017_uigradients/)
+#### [S017《UiGradients》为PPT找到优质而渐变色背景](https://zhaoolee.com/OnlineToolsBook/#/S017_uigradients)
 
 
 优秀的设计,大多遵循「多即使少」的原则，用一张优质的渐变色图片，做为PPT背景，可以整体提升你的PPT逼格
@@ -671,7 +671,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 
 
 
-#### [S016《知乎根话题精华》知乎Top1000高票回答](https://v2fy.com/p/S016-zhihu-gen/)
+#### [S016《知乎根话题精华》知乎Top1000高票回答](https://zhaoolee.com/OnlineToolsBook/#/S016-zhihu-gen)
 
 
 
@@ -684,7 +684,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 
 
 
-#### [S015《下载4K画质Bing壁纸》](https://v2fy.com/p/S015_bing/)
+#### [S015《下载4K画质Bing壁纸》](https://zhaoolee.com/OnlineToolsBook/#/S015_bing)
 
 
 
@@ -708,7 +708,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506233326zpYrHZ8P.jpeg)
 
 
-#### [S014《胡萝卜周》著名中文软件分享站](https://v2fy.com/p/S014_carrotchou_blog/)
+#### [S014《胡萝卜周》著名中文软件分享站](https://zhaoolee.com/OnlineToolsBook/#/S014_carrotchou_blog)
 
 
 
@@ -719,7 +719,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506233770jSjEhadj.png)
 
 
-#### [S013《一言》总有那么几个句子能穿透你的心](https://v2fy.com/p/S013_hitokoto/)
+#### [S013《一言》总有那么几个句子能穿透你的心](https://zhaoolee.com/OnlineToolsBook/#/S013_hitokoto)
 
 
 
@@ -771,7 +771,7 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 
 
 
-#### [S012《今日热榜》一张网页搜罗全网实时热点](https://v2fy.com/p/S012_tophub_today/)
+#### [S012《今日热榜》一张网页搜罗全网实时热点](https://zhaoolee.com/OnlineToolsBook/#/S012_tophub_today)
 
 
 
@@ -803,14 +803,14 @@ UiGradients是一个免费提供优质渐变色配色的网站，如果你喜欢
 
 ## 直达链接： 
 
-[https://tophub.today/](https://tophub.today/)
+[https://tophub.today/](https://tophub.today)
 
 
 无广告，无需下载app，无需登陆注册，打开网页，即可浏览全网热点～
 
 
 
-#### [S011《Github趋势榜》了解Github当前最受关注的项目](https://v2fy.com/p/S011_github_trending/)
+#### [S011《Github趋势榜》了解Github当前最受关注的项目](https://zhaoolee.com/OnlineToolsBook/#/S011_github_trending)
 
 
 
@@ -823,7 +823,7 @@ Github的Trending页面,相当于Github的首页推荐,github会把过去24小�
 当然这个榜单也经常会出现一些福利项目,比如某互联网公司的源码,或国内某著名搜索公司网盘的破解版,有时候甚至会出现一些颜色网站的爬虫,每日查看Github Trending榜,每日一个超神小技巧
 
 
-#### [S010《GetIntoPC》更新极快的绿色软件站](https://v2fy.com/p/S010_igetintopc_com/)
+#### [S010《GetIntoPC》更新极快的绿色软件站](https://zhaoolee.com/OnlineToolsBook/#/S010_igetintopc_com)
 
 
 
@@ -838,17 +838,17 @@ Get Into PC 软件版本更新极快，属于绿色软件的门户网站，非�
 CCleaner是清理系统垃圾，清理注册表的一款专家级软件： 官网售价 19.95美元
 
 
-#### [S009《表特日报》订阅漂亮妹子的邮件服务](https://v2fy.com/p/S009_daily_beauty_xyz/)
+#### [S009《表特日报》订阅漂亮妹子的邮件服务](https://zhaoolee.com/OnlineToolsBook/#/S009_daily_beauty_xyz)
 
 
 
-一个好玩的邮件订阅，名为[「表特日报」](https://daily-beauty.xyz/)，「表特」是Beauty的谐音，也就是就是「颜值报」, 订阅「表特日报」后，每天会收到一封有高颜值妹纸的图片
+一个好玩的邮件订阅，名为[「表特日报」](https://daily-beauty.xyz)，「表特」是Beauty的谐音，也就是就是「颜值报」, 订阅「表特日报」后，每天会收到一封有高颜值妹纸的图片
 
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506238001WmT1mEJ8.png)
 
 
-#### [S008《Piratepc》分类详细的Piratepc绿色软件站](https://v2fy.com/p/S008_piratepc_co/)
+#### [S008《Piratepc》分类详细的Piratepc绿色软件站](https://zhaoolee.com/OnlineToolsBook/#/S008_piratepc_co)
 
 
 
@@ -867,7 +867,7 @@ IObit Uninstaller是世界一流的清理流氓软件的专家： 官网售价 1
 
 
 
-#### [S007《Pixiv福利插画!year!》插画P站最受男性喜欢排行榜资源](https://v2fy.com/p/S007_pixiv_net_ranking_php_mode_mal/)
+#### [S007《Pixiv福利插画!year!》插画P站最受男性喜欢排行榜资源](https://zhaoolee.com/OnlineToolsBook/#/S007_pixiv_net_ranking_php_mode_mal)
 
 
 
@@ -877,7 +877,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 
 
-#### [S006《哔哩哔哩榜单》如何阅片无数?看哔哩哔哩大数据榜单](https://v2fy.com/p/S006_kanbilibili/)
+#### [S006《哔哩哔哩榜单》如何阅片无数?看哔哩哔哩大数据榜单](https://zhaoolee.com/OnlineToolsBook/#/S006_kanbilibili)
 
 
 
@@ -899,7 +899,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 这个页面属于月刊的性质, 在这里可以找到 2016年1月以来,每月精彩视频的清单, 如果你喜欢视频考古,这个页面能帮你省掉很
 
-#### [S005《哔哩哔哩壁纸站》找哔哩哔哩壁纸娘领壁纸](https://v2fy.com/p/S005_space_bilibili_album/)
+#### [S005《哔哩哔哩壁纸站》找哔哩哔哩壁纸娘领壁纸](https://zhaoolee.com/OnlineToolsBook/#/S005_space_bilibili_album)
 
 
 
@@ -912,8 +912,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 
 
 
-#### [S004《抖音短视频无水印解析下载》通过抖音视频分享链接下载抖音原片~](https://v2fy.com/p/S004_tool_liumingye_cn/)
-
+#### [S004《抖音短视频无水印解析下载》通过抖音视频分享链接下载抖音原片~](https://zhaoolee.com/OnlineToolsBook/#/S004_tool_liumingye_cn)
 
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506242660nCDRwtxB.png)
@@ -921,7 +920,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506251409ht5xAyH0.gif)
 
 
-#### [S003《Windows系统一句命令激活》Windows系统激活](https://v2fy.com/p/S003_v0v_bid/)
+#### [S003《Windows系统一句命令激活》Windows系统激活](https://zhaoolee.com/OnlineToolsBook/#/S003_v0v_bid)
 
 
 
@@ -934,7 +933,7 @@ Pixiv有一个神奇的榜单**受男性欢迎排行榜**,  这个榜单就是�
 如果激活过程报错，可以[参考这个页面](https://v0v.bid/kms.html)
 
 
-#### [S002《I tell you》Windows系统各版本纯净镜像](https://v2fy.com/p/S002_itellyou_cn/)
+#### [S002《I tell you》Windows系统各版本纯净镜像](https://zhaoolee.com/OnlineToolsBook/#/S002_itellyou_cn)
 
 
 
@@ -946,7 +945,7 @@ I tell you 提供从Windows98 之后时间段的所有镜像，如果你需要�
 
 
 
-#### [S001《懒得勤快》硬刚业界毒瘤「马克丁」](https://v2fy.com/p/S001_masuit_com/)
+#### [S001《懒得勤快》硬刚业界毒瘤「马克丁」](https://zhaoolee.com/OnlineToolsBook/#/S001_masuit_com)
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506248104AE3sTrQd.png)
 
@@ -974,12 +973,3 @@ I tell you 提供从Windows98 之后时间段的所有镜像，如果你需要�
 
 ![](https://cdn.fangyuanxiaozhan.com/assets/1727506254895kD4Gx8aG.png)
 
-
-
-#### 能看到这里的都是真爱! 发个彩蛋~
-
-[我珍藏的PC壁纸](https://v2fy.com/p/pc-wallpaper/)
-
-[我珍藏的移动版壁纸](https://v2fy.com/p/m-wallpaper/)
-
-[我收集的一些优质绿色的软件](https://v2fy.com/about/)
