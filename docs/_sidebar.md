@@ -1,3 +1,4 @@
+* [T044 《Squat》网页深蹲计数器](/T044-squat.md)
 * [T043《Compress Jpg》离线批量压缩图片](/T043-compressjpg.md)
 * [T041《聚合图床》可以上传图片，zip，txt的图床](/T041-superbed.md)
 * [T040《KinhDownload》百度网盘免会员高速下载破解](/T040-kdbaidu.md)
