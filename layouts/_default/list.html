@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <section class="reader-sheet" data-pagefind-body>
+    <span class="reader-sheet-corner reader-sheet-corner-top-left" aria-hidden="true"></span>
+    <span class="reader-sheet-corner reader-sheet-corner-top-right" aria-hidden="true"></span>
+    <span class="reader-sheet-corner reader-sheet-corner-bottom-left" aria-hidden="true"></span>
+    <span class="reader-sheet-corner reader-sheet-corner-bottom-right" aria-hidden="true"></span>
+    <header class="article-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+    {{ if .Content }}
+      <div class="article-content">{{ .Content }}</div>
+    {{ end }}
+    {{ if .RegularPages }}
+      <ol class="post-list">
+        {{ range .RegularPages.ByDate.Reverse }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ with .Date }}<time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2006-01-02" }}</time>{{ end }}
+          </li>
+        {{ end }}
+      </ol>
+    {{ end }}
+  </section>
+{{ end }}

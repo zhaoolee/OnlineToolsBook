@@ -1,0 +1,60 @@
+{{ define "head" }}
+  <link href="{{ "pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
+{{ end }}
+
+{{ define "main" }}
+  <section class="reader-sheet search-sheet">
+    <span class="reader-sheet-corner reader-sheet-corner-top-left" aria-hidden="true"></span>
+    <span class="reader-sheet-corner reader-sheet-corner-top-right" aria-hidden="true"></span>
+    <span class="reader-sheet-corner reader-sheet-corner-bottom-left" aria-hidden="true"></span>
+    <span class="reader-sheet-corner reader-sheet-corner-bottom-right" aria-hidden="true"></span>
+    <header class="article-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+    <div class="article-content search-page">
+      {{ .Content }}
+      <form class="search-page-form" action="{{ "search/" | relURL }}" method="get" role="search">
+        <label class="search-page-field">
+          <span class="search-page-icon" aria-hidden="true"></span>
+          <input type="search" name="q" placeholder="搜索文章内容" aria-label="搜索文章内容">
+        </label>
+      </form>
+      <div id="search" class="pagefind-search" aria-label="站内搜索" data-pagefind-ignore></div>
+      <noscript>
+        <p>搜索功能需要启用 JavaScript。</p>
+      </noscript>
+    </div>
+  </section>
+  <script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
+  <script>
+    window.addEventListener("DOMContentLoaded", function () {
+      if (!window.PagefindUI) {
+        var searchRoot = document.getElementById("search");
+        if (searchRoot) {
+          searchRoot.innerHTML = "<p>搜索索引还没有生成。本地使用 <code>hugo server</code> 预览时，请另开一个终端运行 <code>bash scripts/pagefind-dev.sh</code> 后刷新页面；线上发布会自动生成索引。</p>";
+        }
+        return;
+      }
+      var ui = new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+        showImages: false,
+        translations: {
+          placeholder: "搜索文章内容",
+          zero_results: "没有找到相关内容",
+          clear_search: "清空搜索"
+        }
+      });
+
+      var query = new URLSearchParams(window.location.search).get("q");
+      var searchInput = document.querySelector(".search-page-form input[name='q']");
+      if (query && searchInput) {
+        searchInput.value = query;
+      }
+
+      if (query) {
+        ui.triggerSearch(query);
+      }
+    });
+  </script>
+{{ end }}

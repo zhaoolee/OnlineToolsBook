@@ -1,20 +1,14 @@
 {
   "name": "onlinetoolsbook",
   "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
-  "directories": {
-    "doc": "docs"
-  },
+  "description": "在线工具秘籍 Hugo site",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sync:home": "bash scripts/sync-home-from-readme.sh",
+    "dev": "bash scripts/sync-home-from-readme.sh && hugo server --renderToMemory --noBuildLock --disableFastRender",
+    "build": "bash scripts/sync-home-from-readme.sh && hugo --gc --minify",
+    "index": "npx --yes pagefind --site public --output-subdir pagefind"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "fs-extra": "^11.2.0",
-    "moment": "^2.30.1",
-    "request": "^2.88.2"
-  }
+  "license": "ISC"
 }

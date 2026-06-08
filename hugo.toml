@@ -1,0 +1,41 @@
+baseURL = "https://zhaoolee.com/OnlineToolsBook/"
+locale = "zh-CN"
+title = "在线工具秘籍"
+publishDir = "public"
+hasCJKLanguage = true
+enableRobotsTXT = true
+summaryLength = 120
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+
+[params]
+  description = "在线工具秘籍，为在线工具和宝藏网站写一本优质开源中文说明书，让在线工具造福人类。"
+  author = "zhaoolee"
+  googleAnalyticsID = "UA-129665260-2"
+
+[menu]
+  [[menu.main]]
+    name = "在线工具"
+    url = "/tools/"
+    weight = 10
+  [[menu.main]]
+    name = "宝藏网站"
+    url = "/sites/"
+    weight = 20
+  [[menu.main]]
+    name = "搜索"
+    url = "/search/"
+    weight = 70
+  [[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 80

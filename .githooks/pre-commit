@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_DIR="$(git rev-parse --show-toplevel)"
+cd "$ROOT_DIR"
+
+if ! git diff --quiet -- README.md; then
+  echo "[pre-commit] README.md has unstaged changes." >&2
+  echo "[pre-commit] Stage README.md before committing so content/_index.md matches the committed README." >&2
+  exit 1
+fi
+
+bash scripts/sync-home-from-readme.sh
+git add content/_index.md
+
+echo "[pre-commit] Synced content/_index.md from README.md"

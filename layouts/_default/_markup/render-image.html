@@ -1,0 +1,19 @@
+{{- $destination := .Destination -}}
+{{- $path := $destination -}}
+{{- $resource := "" -}}
+
+{{- with urls.Parse $destination -}}
+  {{- $path = .Path -}}
+{{- end -}}
+
+{{- $path = strings.TrimPrefix "./" $path -}}
+
+{{- if not (or (strings.HasPrefix $destination "http://") (strings.HasPrefix $destination "https://") (strings.HasPrefix $destination "/")) -}}
+  {{- $resource = .PageInner.Resources.GetMatch $path -}}
+{{- end -}}
+
+{{- if and $resource (eq $resource.MediaType.MainType "image") -}}
+  <img src="{{ $resource.RelPermalink }}" width="{{ $resource.Width }}" height="{{ $resource.Height }}" alt="{{ .PlainText }}" loading="lazy" decoding="async"{{ with .Title }} title="{{ . }}"{{ end }}>
+{{- else -}}
+  <img src="{{ $destination | safeURL }}" alt="{{ .PlainText }}" loading="lazy" decoding="async"{{ with .Title }} title="{{ . }}"{{ end }}>
+{{- end -}}

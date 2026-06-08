@@ -1,0 +1,57 @@
+<aside class="sidebar" aria-label="站点导航">
+  <div class="sidebar-head">
+    <a class="site-brand" href="{{ site.Home.RelPermalink }}" aria-label="{{ site.Title }}">
+      <img src="{{ "logo.png" | relURL }}" alt="" width="40" height="40">
+      <span>{{ site.Title }}</span>
+    </a>
+    <form class="sidebar-search-form" action="{{ "search/" | relURL }}" method="get" role="search">
+      <label class="sidebar-search-field">
+        <span class="sidebar-search-icon" aria-hidden="true"></span>
+        <input type="search" name="q" placeholder="快速搜索关键字" aria-label="搜索站内内容">
+      </label>
+    </form>
+    <div class="sidebar-mode-toggle" role="tablist" aria-label="导航模式">
+      <button class="sidebar-mode-button" type="button" data-sidebar-mode-button="latest" aria-selected="true">最新</button>
+      <button class="sidebar-mode-button" type="button" data-sidebar-mode-button="sections" aria-selected="false">专题</button>
+    </div>
+  </div>
+  <nav class="sidebar-nav sidebar-nav-latest" data-sidebar-panel="latest" aria-label="最新文章">
+    <ul>
+      {{ range site.RegularPages.ByDate.Reverse }}
+        {{ if not .Date.IsZero }}
+          {{ $sectionTitle := .Section }}
+          {{ with site.GetPage .Section }}
+            {{ $sectionTitle = .Title }}
+          {{ end }}
+          <li>
+            <a href="{{ .RelPermalink }}" class="{{ if eq $.RelPermalink .RelPermalink }}active{{ end }}">
+              <span class="sidebar-post-meta">{{ .Date.Format "2006-01-02" }} · {{ $sectionTitle }}</span>
+              <span class="sidebar-post-title">{{ .Title }}</span>
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </nav>
+  <nav class="sidebar-nav sidebar-nav-sections" data-sidebar-panel="sections" aria-label="专题目录" hidden>
+    <ul>
+      {{ range site.Menus.main }}
+        {{ $section := strings.TrimSuffix "/" (strings.TrimPrefix "/" .URL) }}
+        {{ $sectionPage := site.GetPage $section }}
+        <li>
+          <a href="{{ .URL | relURL }}" class="{{ if $.IsMenuCurrent "main" . }}active{{ end }}">{{ .Name }}</a>
+          {{ with $sectionPage }}
+            {{ $pages := .RegularPages.ByDate.Reverse }}
+            {{ if $pages }}
+              <ul>
+                {{ range $pages }}
+                  <li><a href="{{ .RelPermalink }}" class="{{ if eq $.RelPermalink .RelPermalink }}active{{ end }}">{{ .Title }}</a></li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          {{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+</aside>

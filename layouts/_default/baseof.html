@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="{{ site.Language.Locale | default "zh-CN" }}">
+  <head>
+    {{- $description := site.Params.description -}}
+    {{- with .Description -}}
+      {{- $description = . -}}
+    {{- else -}}
+      {{- with .Summary -}}
+        {{- $description = . | plainify | htmlUnescape | chomp -}}
+      {{- end -}}
+    {{- end -}}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ $description | plainify | htmlUnescape | replaceRE "\\s+" " " | replaceRE "^\\s+|\\s+$" "" | truncate 160 }}">
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} - {{ site.Title }}{{ end }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | relURL }}">
+    {{ partial "google-analytics.html" . }}
+    {{ block "head" . }}{{ end }}
+    {{ with resources.Get "css/site.css" }}
+      {{ with . | minify | fingerprint "sha256" }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+      {{ end }}
+    {{ end }}
+    {{ with resources.Get "js/sidebar.js" }}
+      {{ with . | minify | fingerprint "sha256" }}
+        <script defer src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ end }}
+    {{ end }}
+  </head>
+  <body>
+    <input class="site-nav-toggle" id="site-nav-toggle" type="checkbox" aria-label="展开导航">
+    <label class="site-nav-button" for="site-nav-toggle" aria-hidden="true">
+      <span></span>
+      <span></span>
+      <span></span>
+    </label>
+    <div class="site-shell">
+      {{ partial "sidebar.html" . }}
+      <main class="site-main">
+        {{ block "main" . }}{{ end }}
+      </main>
+    </div>
+  </body>
+</html>
