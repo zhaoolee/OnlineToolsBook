@@ -393,6 +393,7 @@ Markdown语法简洁, 格式通用, **微信Markdown编辑器**可以将Markdown
 
 
 #### [T001 《Photopea》顶级在线图片处理工具](https://zhaoolee.com/OnlineToolsBook/tools/t001-photopea/)
+- [Practical Web Tools Studio 在线创意套件](https://practicalwebtools.com/studio) — 免费的浏览器创意工具套件: 图片编辑, 矢量编辑, 视频剪辑, 音频工作站, 动效制作, 页面设计, PDF整理. 全部本地运行, 无需上传, 无需注册.
 
 ![](https://raw.githubusercontent.com/zhaoolee/OnlineToolsBook/master/README/ebe8960df6f0d6da52f5341f802046e2.gif)
 
